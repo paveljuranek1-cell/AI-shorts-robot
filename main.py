@@ -1,0 +1,1 @@
+print("Robot začal pracovat")
