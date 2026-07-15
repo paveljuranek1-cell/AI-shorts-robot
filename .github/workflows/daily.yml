@@ -1,28 +1,34 @@
-name: AI Shorts Robot
+name: Daily AI Shorts Robot
 
 on:
   workflow_dispatch:
   schedule:
     - cron: "0 8 * * *"
 
+
 jobs:
-  run:
+  build:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Stáhni projekt
-        uses: actions/checkout@v4
 
-      - name: Nastav Python
-        uses: actions/setup-python@v5
-        with:
-          python-version: "3.12"
+    - name: Checkout repository
+      uses: actions/checkout@v4
 
-      - name: Nainstaluj knihovny
-        run: |
-          pip install -r requirements.txt
 
-      - name: Spusť AI robota
-        env:
-          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
-        run: python main.py
+    - name: Setup Python
+      uses: actions/setup-python@v5
+      with:
+        python-version: "3.11"
+
+
+    - name: Install dependencies
+      run: |
+        pip install -r requirements.txt
+
+
+    - name: Run robot
+      env:
+        GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+      run: |
+        python main.py
