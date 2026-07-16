@@ -78,15 +78,31 @@ result = data["choices"][0]["message"]["content"]
 print("AI odpověď:")
 print(result)
 
+# odstranění Markdown značek pokud je AI přidala
 
-# uložení scénářů
+result = result.replace("```json", "")
+result = result.replace("```", "")
+result = result.strip()
+
+
+# kontrola, že JSON opravdu funguje
+
+scenarios = json.loads(result)
+
+
+# uložení hezkého JSON souboru
 
 with open(
     "shorts_scenare.json",
     "w",
     encoding="utf-8"
 ) as file:
-    file.write(result)
+    json.dump(
+        scenarios,
+        file,
+        ensure_ascii=False,
+        indent=2
+    )
 
 
 print("Hotovo ✅ shorts_scenare.json vytvořen")
