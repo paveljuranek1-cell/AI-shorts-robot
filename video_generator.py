@@ -1,34 +1,25 @@
-import json
 import os
+import json
 import requests
-import whisper
+import urllib.parse
+import asyncio
 
-from gtts import gTTS
+import edge_tts
 
 from moviepy import (
     ImageClip,
+    AudioFileClip,
     TextClip,
     CompositeVideoClip,
-    AudioFileClip,
     concatenate_videoclips
 )
 
 
-print("================================")
-print("Spouštím video generátor")
-print("================================")
+print("🎬 AI Shorts Video Generator 2.0")
 
 
-os.makedirs(
-    "images",
-    exist_ok=True
-)
-
-os.makedirs(
-    "videos",
-    exist_ok=True
-)
-
+os.makedirs("images", exist_ok=True)
+os.makedirs("videos", exist_ok=True)
 
 
 # načtení scénáře
@@ -37,45 +28,48 @@ with open(
     "shorts_scenare.json",
     "r",
     encoding="utf-8"
-) as file:
-    data = json.load(file)
+) as f:
+    data = json.load(f)
 
 
 video = data[0]
 
-
 title = video["title"]
-
 scenes = video["scenes"]
 
 
+print("Téma:")
 print(title)
-print(
-    "Scény:",
-    len(scenes)
+
+
+# ======================
+# AI hlas
+# ======================
+
+
+text = " ".join(
+    scene["text"]
+    for scene in scenes
 )
 
 
-
-# vytvoření hlasu
-
-full_text = " ".join(
-    s["text"]
-    for s in scenes
-)
+print("Generuji hlas...")
 
 
-print("Tvořím hlas...")
+async def make_voice():
+
+    communicate = edge_tts.Communicate(
+        text,
+        "cs-CZ-AntoninNeural"
+    )
+
+    await communicate.save(
+        "voice.mp3"
+    )
 
 
-tts = gTTS(
-    full_text,
-    lang="cs"
-)
-
-
-tts.save(
-    "voice.mp3"
+asyncio.run(
+    make_voice()
 )
 
 
@@ -83,30 +77,39 @@ print("Hlas hotový ✅")
 
 
 
+# ======================
 # obrázky
-
-print("Stahuji obrázky...")
+# ======================
 
 
 images = []
 
 
+print("Generuji obrázky...")
+
+
 for i, scene in enumerate(scenes):
 
-    url = (
-        "https://picsum.photos/1080/1920?random="
-        + str(i)
+    prompt = urllib.parse.quote(
+        scene["image_prompt"]
     )
 
 
-    r = requests.get(
+    url = (
+        "https://image.pollinations.ai/prompt/"
+        + prompt
+        + "?width=1080&height=1920"
+    )
+
+
+    response = requests.get(
         url,
-        timeout=30
+        timeout=90
     )
 
 
     filename = (
-        f"images/scene{i}.jpg"
+        f"images/{i}.jpg"
     )
 
 
@@ -116,7 +119,7 @@ for i, scene in enumerate(scenes):
     ) as img:
 
         img.write(
-            r.content
+            response.content
         )
 
 
@@ -129,7 +132,10 @@ print("Obrázky hotové ✅")
 
 
 
-# video scény
+# ======================
+# video
+# ======================
+
 
 clips = []
 
@@ -147,7 +153,7 @@ for img in images:
 
 
     clip = clip.with_duration(
-        6
+        7
     )
 
 
@@ -157,17 +163,17 @@ for img in images:
 
 
 
-video_clip = concatenate_videoclips(
+background = concatenate_videoclips(
     clips
 )
 
 
 
-# hlavní titulek
+# titul
 
 title_clip = TextClip(
     text=title.upper(),
-    font_size=80,
+    font_size=75,
     color="white",
     size=(1000,None),
     method="caption"
@@ -175,7 +181,7 @@ title_clip = TextClip(
 
 
 title_clip = title_clip.with_duration(
-    video_clip.duration
+    background.duration
 )
 
 
@@ -187,7 +193,7 @@ title_clip = title_clip.with_position(
 
 final = CompositeVideoClip(
     [
-        video_clip,
+        background,
         title_clip
     ],
     size=(1080,1920)
@@ -213,8 +219,6 @@ final.write_videofile(
 
 
 
-print()
-print("==============================")
+print("===================")
 print("VIDEO HOTOVÉ ✅")
-print("videos/viral_short.mp4")
-print("==============================")
+print("===================")
