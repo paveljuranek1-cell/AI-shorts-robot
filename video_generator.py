@@ -142,7 +142,7 @@ final = final.with_audio(
 
 
 final.write_videofile(
-    "short_with_subtitles.mp4",
+    "videos/short_with_subtitles.mp4",
     fps=24
 )
 
