@@ -1,19 +1,19 @@
 [
   {
-    "title": "Záhada zrození hvězd",
-    "hook": "Vědci objevili něco neuvěřitelného, co může změnit naše chápání vesmíru!",
+    "title": "Neuvěřitelný objev v historii vesmíru!",
+    "hook": "Vědci právě objevili něco, co změní naše chápání vesmíru navždy!",
     "scenes": [
       {
-        "text": "Toto je nejstarší známé místo pro vznik hvězd. Nachází se ve vzdálené galaxii před 13 miliardami let!",
-        "image": "animace vzdálené galaxie s nově se rodícími hvězdami"
+        "text": "Představte si, že v hlubinách vesmíru je skrytá civilizace, která existovala miliony let!",
+        "image": "ilustrace tajemné, technologicky vyspělé civilizace na jiných planetách"
       },
       {
-        "text": "Co když byste zjistili, že některé z těchto hvězd mohly mít planety s životem už dávno před námi?",
-        "image": "ilustrace exoplanet obíhajících kolem mladých hvězd"
+        "text": "Podle nové studie vědci našli důkazy o starobylých technologiích na Marsu, které bychom nikdy nečekali!",
+        "image": "záběr povrchu Marsu s vykopávkami a záhadnými strukturami"
       },
       {
-        "text": "A teď šokující fakt: Tyto staré hvězdy nám ukazují, jak může naše slunce vypadat za několik miliard let!",
-        "image": "grafika znázorňující evoluci slunce a jeho budoucnost"
+        "text": "Tento objev může odhalit, že lidstvo není ve vesmíru samo. To by mohlo změnit vše, co víme o historii naší existence!",
+        "image": "vizualizace lidstva v povědomí o cizích civilizacích ve vesmírné krajině"
       }
     ]
   }
