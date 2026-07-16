@@ -24,16 +24,23 @@ with open(
     scenarios = json.load(file)
 
 
+print(f"Nalezeno scénářů: {len(scenarios)}")
+
+
 video = scenarios[0]
 
 title = video["title"]
 script = video["script"]
 
 
+print("Téma:")
 print(title)
 
 
 # vytvoření hlasu
+
+print("Generuji hlas...")
+
 
 tts = gTTS(
     text=script,
@@ -48,9 +55,9 @@ tts.save(
 print("Hlas vytvořen ✅")
 
 
-# Whisper rozpoznání
+# Whisper
 
-print("Generuji titulky...")
+print("Analyzuji hlas pro titulky...")
 
 
 model = whisper.load_model(
@@ -60,16 +67,12 @@ model = whisper.load_model(
 
 result = model.transcribe(
     "voice.mp3",
-    language="cs"
+    language="cs",
+    word_timestamps=True
 )
 
 
-subtitle_text = result["text"]
-
-
-print(
-    subtitle_text
-)
+print("Titulky připraveny ✅")
 
 
 # obrázek
@@ -78,14 +81,16 @@ background = ImageClip(
     "images/pyramid.jpg"
 )
 
+
 background = background.resized(
     height=1920
 )
 
+
 background = background.with_duration(10)
 
 
-# titulek
+# hlavní titulek
 
 title_clip = TextClip(
     text=title,
@@ -95,41 +100,84 @@ title_clip = TextClip(
     method="caption"
 )
 
+
 title_clip = title_clip.with_position(
-    ("center","center")
+    ("center", "top")
 )
+
 
 title_clip = title_clip.with_duration(10)
 
 
-# spodní titulky
 
-subtitle = TextClip(
-    text=subtitle_text,
-    font_size=45,
-    color="white",
-    size=(1000,None),
-    method="caption"
+# vytváření dynamických titulků
+
+subtitle_clips = []
+
+
+for segment in result["segments"]:
+
+    text = segment["text"].strip()
+
+    start = segment["start"]
+
+    end = segment["end"]
+
+    duration = end - start
+
+
+    subtitle = TextClip(
+        text=text.upper(),
+        font_size=60,
+        color="white",
+        size=(1000, None),
+        method="caption"
+    )
+
+
+    subtitle = subtitle.with_position(
+        ("center", "center")
+    )
+
+
+    subtitle = subtitle.with_start(
+        start
+    )
+
+
+    subtitle = subtitle.with_duration(
+        duration
+    )
+
+
+    subtitle_clips.append(
+        subtitle
+    )
+
+
+
+# spojení vrstev
+
+clips = [
+    background,
+    title_clip
+]
+
+
+clips.extend(
+    subtitle_clips
 )
 
-subtitle = subtitle.with_position(
-    ("center","bottom")
-)
 
-subtitle = subtitle.with_duration(10)
-
-
-# video
 
 final = CompositeVideoClip(
-    [
-        background,
-        title_clip,
-        subtitle
-    ],
+    clips,
     size=(1080,1920)
 )
 
+
+
+# zvuk
 
 audio = AudioFileClip(
     "voice.mp3"
@@ -141,10 +189,15 @@ final = final.with_audio(
 )
 
 
+
+# export
+
 final.write_videofile(
-    "videos/short_with_subtitles.mp4",
+    "videos/short_dynamic_subtitles.mp4",
     fps=24
 )
 
 
-print("Hotovo ✅ short_with_subtitles.mp4")
+print(
+    "Hotovo ✅ videos/short_dynamic_subtitles.mp4"
+)
