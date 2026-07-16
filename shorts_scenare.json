@@ -1,27 +1,27 @@
 [
   {
-    "title": "Tajemné zvíře ze starověku",
-    "hook": "Věděli jste, že na Zemi kdysi žilo zvíře tak podivné, že by jste mu nevěřili?",
+    "title": "Tajemství vesmíru: Co víme o černých dírách?",
+    "hook": "Vy jste věděli, že černé díry mohou být bránami do jiných dimenzí?",
     "scenes": [
       {
-        "text": "Před více než 200 miliony let se na naší planetě proháněli tvorové s hrdlem jako krokodýl a tělem jako obrovský pták.",
-        "image": "ilustrace prehistorického zvířete s krokodýlími rysy"
+        "text": "Černé díry jsou tak silné, že dokážou pohlcovat světlo a čas.",
+        "image": "ilustrace černé díry s pohlcujícími hvězdami a paprsky světla"
       },
       {
-        "text": "Říkalo se mu Pterosaurus – létající ještěr, který ovládal nebe.",
-        "image": "animace Pterosaurů létajících nad mořem"
+        "text": "Představte si, kolik informací o vesmíru může zabírat jedna jediná černá díra!",
+        "image": "grafické znázornění datových proudů kolem černé díry"
       },
       {
-        "text": "Ale to není všechno! Vědci nedávno našli jeho zkamenělé stopy, které naznačují, že v některých případech měl rozpětí křídel až 10 metrů!",
-        "image": "detail zkamenělých stop Pterosaura na zemi"
+        "text": "Někteří vědci se domnívají, že mohou existovat portály pro cestování časem.",
+        "image": "umělecká interpretace portálu v prostoru"
       },
       {
-        "text": "Jaké tajemství skrývá tento obrovský létající predátor? Možná, že měl schopnost lovit ve vzduchu i pod vodou!",
-        "image": "vizualizace Pterosaura lovícího rybu ve vodě"
+        "text": "V historii lidstva jsme na černé díry hleděli jako na záhady, které nás fascinují.",
+        "image": "historické záznamy a ilustrace o černých dírách z různých epoch"
       },
       {
-        "text": "Odkud se vůbec Pterosauři vzali? Možná je to nejlepší záhada prehistorie, na kterou se snažíme najít odpověď dodnes!",
-        "image": "historický kontext s mapa a obrázky Pterosaurů"
+        "text": "Co kdybychom jednoho dne našli způsob, jak je prozkoumat?",
+        "image": "tvůrci videa představují futuristickou vesmírnou loď u černé díry"
       }
     ]
   }
