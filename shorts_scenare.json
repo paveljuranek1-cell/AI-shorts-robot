@@ -1,22 +1,20 @@
 [
   {
-    "title": "Největší záhada starověkého Egypta",
-    "hook": "Znáte tajemství pyramid? Odpověď vás šokuje!",
-    "script": "Víte, jak byly postaveny pyramidy? Množství teorií zahrnuje vše od mimozemšťanů po vyspělé technologie. Ale co když existuje prosté vysvětlení? Nové objevy naznačují, že starověcí Egypťané používali inteligentní inženýrské techniky, které nám mohou pomoci pochopit jejich úžasné stavby! Podělte se o svůj názor a sledujte pro více záhad historie!"
-  },
-  {
-    "title": "Neuvěřitelné jevy v přírodě",
-    "hook": "Viděli jste někdy modrou řeku? To není trik!",
-    "script": "Představte si řeku, která během určitého období zmodrá! To je jev zvaný \"Modrá řeka\" a je způsoben specifickými podmínkami v přírodě. Tyto přírodní úkazy nás stále překvapují a ukazují, jak je naše planeta fascinující. Chcete vědět více o dalších přírodních záhadách? Sledujte mě a objevte přírodu znovu!"
-  },
-  {
-    "title": "Neznámé vynálezy, které změnily svět",
-    "hook": "Víte, kdo vymyslel sluneční brýle? Možná vás to překvapí!",
-    "script": "Kdo by to byl řekl, že sluneční brýle pocházejí až z 12. století? A kdo je uvedl do praxe? Byli to čínští soudci, kteří je používali k ochraně před oslnění! Tento malý vynález se stal populárním hitem až v 20. století. Jaké další vynálezy mají nečekané příběhy? Zůstaňte naladěni a objevte svět technologií!"
-  },
-  {
-    "title": "Historie, kterou jste nevěděli",
-    "hook": "Co se stalo, když se Egypťané setkali se Španěly? To je šokující!",
-    "script": "Málokdo ví, že ve 16. století se Egypťané a Španělé setkali a došlo k neuvěřitelné výměně kultur a znalostí. Ale co přesně se stalo? Oba národy vzájemně ovlivnily své tradice, jídlo a dokonce umění! Tento příběh ukazuje, jak historie není tak černobílá, jak se může zdát. Pokud chcete znát více fascinujících historických faktů, sledujte mě dál!"
+    "title": "Záhada zrození hvězd",
+    "hook": "Vědci objevili něco neuvěřitelného, co může změnit naše chápání vesmíru!",
+    "scenes": [
+      {
+        "text": "Toto je nejstarší známé místo pro vznik hvězd. Nachází se ve vzdálené galaxii před 13 miliardami let!",
+        "image": "animace vzdálené galaxie s nově se rodícími hvězdami"
+      },
+      {
+        "text": "Co když byste zjistili, že některé z těchto hvězd mohly mít planety s životem už dávno před námi?",
+        "image": "ilustrace exoplanet obíhajících kolem mladých hvězd"
+      },
+      {
+        "text": "A teď šokující fakt: Tyto staré hvězdy nám ukazují, jak může naše slunce vypadat za několik miliard let!",
+        "image": "grafika znázorňující evoluci slunce a jeho budoucnost"
+      }
+    ]
   }
 ]
