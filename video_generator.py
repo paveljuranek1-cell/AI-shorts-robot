@@ -28,8 +28,10 @@ with open(
 video = scenarios[0]
 
 title = video["title"]
-script = video["script"]
-
+script = " ".join(
+    scene["text"]
+    for scene in video["scenes"]
+)
 
 print("Téma:")
 print(title)
