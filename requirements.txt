@@ -6,3 +6,5 @@ Pillow
 imageio
 imageio-ffmpeg
 numpy
+opencv-python
+pydub
