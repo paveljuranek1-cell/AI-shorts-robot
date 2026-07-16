@@ -1,9 +1,9 @@
 import json
 import os
 import requests
+import urllib.parse
 import whisper
 
-from duckduckgo_search import DDGS
 from gtts import gTTS
 
 from moviepy import (
@@ -17,7 +17,7 @@ from moviepy import (
 print("Spouštím video generátor...")
 
 
-# načtení scénářů
+# scénáře
 
 with open(
     "shorts_scenare.json",
@@ -37,7 +37,7 @@ print("Téma:")
 print(title)
 
 
-# vytvoření složky
+# složka obrázků
 
 os.makedirs(
     "images",
@@ -45,50 +45,38 @@ os.makedirs(
 )
 
 
-# hledání obrázku
+# stažení obrázku podle tématu
 
-print("Hledám obrázek...")
-
-
-query = title + " historical"
+print("Stahuji obrázek...")
 
 
-image_url = None
+query = urllib.parse.quote(
+    title
+)
 
 
-with DDGS() as ddgs:
+url = (
+    "https://source.unsplash.com/1080x1920/?"
+    + query
+)
 
-    results = ddgs.images(
-        query,
-        max_results=1
+
+response = requests.get(
+    url,
+    timeout=20
+)
+
+
+with open(
+    "images/topic.jpg",
+    "wb"
+) as file:
+    file.write(
+        response.content
     )
 
-    for image in results:
-        image_url = image["thumbnail"]
-        break
 
-
-if image_url:
-
-    print("Obrázek nalezen ✅")
-
-
-    img = requests.get(
-        image_url
-    ).content
-
-
-    with open(
-        "images/topic.jpg",
-        "wb"
-    ) as f:
-        f.write(img)
-
-
-else:
-
-    print("Obrázek nenalezen ❌")
-    exit()
+print("Obrázek připraven ✅")
 
 
 
@@ -102,6 +90,7 @@ tts = gTTS(
     lang="cs"
 )
 
+
 tts.save(
     "voice.mp3"
 )
@@ -111,7 +100,7 @@ print("Hlas vytvořen ✅")
 
 
 
-# Whisper
+# titulky
 
 model = whisper.load_model(
     "base"
@@ -126,7 +115,7 @@ result = model.transcribe(
 
 
 
-# pozadí
+# obrázek
 
 background = ImageClip(
     "images/topic.jpg"
@@ -138,11 +127,13 @@ background = background.resized(
 )
 
 
-background = background.with_duration(10)
+background = background.with_duration(
+    10
+)
 
 
 
-# titulek
+# název
 
 title_clip = TextClip(
     text=title,
@@ -166,12 +157,12 @@ title_clip = title_clip.with_duration(
 
 # titulky
 
-subtitle_clips = []
+subs = []
 
 
 for segment in result["segments"]:
 
-    subtitle = TextClip(
+    clip = TextClip(
         text=segment["text"].upper(),
         font_size=60,
         color="white",
@@ -179,20 +170,24 @@ for segment in result["segments"]:
         method="caption"
     )
 
-    subtitle = subtitle.with_position(
+
+    clip = clip.with_position(
         ("center","center")
     )
 
-    subtitle = subtitle.with_start(
+
+    clip = clip.with_start(
         segment["start"]
     )
 
-    subtitle = subtitle.with_duration(
+
+    clip = clip.with_duration(
         segment["end"] - segment["start"]
     )
 
-    subtitle_clips.append(
-        subtitle
+
+    subs.append(
+        clip
     )
 
 
@@ -201,10 +196,11 @@ final = CompositeVideoClip(
     [
         background,
         title_clip,
-        *subtitle_clips
+        *subs
     ],
     size=(1080,1920)
 )
+
 
 
 audio = AudioFileClip(
