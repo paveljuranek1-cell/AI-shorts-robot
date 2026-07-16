@@ -1,8 +1,12 @@
 import json
+
+from gtts import gTTS
+
 from moviepy import (
     ImageClip,
     TextClip,
-    CompositeVideoClip
+    CompositeVideoClip,
+    AudioFileClip
 )
 
 
@@ -22,38 +26,45 @@ with open(
 print(f"Nalezeno scénářů: {len(scenarios)}")
 
 
-# první scénář
-
 video = scenarios[0]
 
 title = video["title"]
+script = video["script"]
 
 
 print("Vytvářím video:")
 print(title)
 
 
-# obrázek pozadí
+# vytvoření hlasu
+
+print("Generuji AI hlas...")
+
+
+tts = gTTS(
+    text=script,
+    lang="cs"
+)
+
+tts.save(
+    "voice.mp3"
+)
+
+
+print("Hlas vytvořen ✅")
+
+
+# obrázek
 
 background = ImageClip(
     "images/pyramid.jpg"
 )
 
-
-# nastavení velikosti
-
 background = background.resized(
     height=1920
 )
 
-
-# pomalý zoom
-
-background = background.with_duration(5)
-
-background = background.resized(
-    lambda t: 1 + 0.03 * t
-)
+background = background.with_duration(10)
 
 
 # text
@@ -66,17 +77,16 @@ text = TextClip(
     method="caption"
 )
 
-
 text = text.with_position(
     ("center", "center")
 )
 
-text = text.with_duration(5)
+text = text.with_duration(10)
 
 
-# spojení videa
+# spojení
 
-final_video = CompositeVideoClip(
+video_clip = CompositeVideoClip(
     [
         background,
         text
@@ -85,10 +95,24 @@ final_video = CompositeVideoClip(
 )
 
 
-final_video.write_videofile(
-    "short_zoom_test.mp4",
+# přidání hlasu
+
+audio = AudioFileClip(
+    "voice.mp3"
+)
+
+
+video_clip = video_clip.with_audio(
+    audio
+)
+
+
+# export
+
+video_clip.write_videofile(
+    "short_with_voice.mp4",
     fps=24
 )
 
 
-print("Hotovo ✅ short_zoom_test.mp4")
+print("Hotovo ✅ short_with_voice.mp4")
