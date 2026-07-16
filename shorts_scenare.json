@@ -1,27 +1,31 @@
 [
   {
-    "title": "Nejpodivnější zvířata světa!",
-    "hook": "Věděli jste, že existuje ryba, která vypadá jako živý duch?",
+    "title": "Neuvěřitelné fakta o vesmíru!",
+    "hook": "Věděli jste, že ve vesmíru existuje více hvězd než zrnek písku na všech plážích Země?",
     "scenes": [
       {
-        "text": "Seznamte se s 'Psycho rybou', která dokáže vypadat jako mořský duch!",
-        "image": "vysoký záběr na rybu o velikosti lidské dlaně s průhledným tělem a závojovými ploutvemi, plovoucí v modré vodě"
+        "text": "V tomto obrovském vesmíru je počet hvězd nepředstavitelný.",
+        "image_prompt": "Nádherný pohled na noční oblohu plnou jasných hvězd, s galaxií na pozadí."
       },
       {
-        "text": "A co takhle 'Hlaváč', ryba, která má ústa jako vak?",
-        "image": "detailní záběr na rybu s velmi širokým otvorem úst, jak se rameno vytahuje z vody"
+        "text": "Dokonce i naše Slunce je jen jednou z miliard hvězd v naší galaxii.",
+        "image_prompt": "Detailní záběr Slunce se zoomem na jeho povrch a korónu."
       },
       {
-        "text": "Nebo 'Axolotl', sladkovodní mlok, který se nikdy nedospěje!",
-        "image": "roztomilý záběr na axolotla s růžovými žábry, plovoucí v akváriu"
+        "text": "A věřte nebo ne, některé hvězdy jsou starší než samotný vesmír.",
+        "image_prompt": "Hvězdné pole se zářícími hvězdami, některé se zobrazují jako staré a vyhaslé."
       },
       {
-        "text": "Jaký je jeho tajemství regenerace? Dokáže si obnovit i celé končetiny!",
-        "image": "grafika znázorňující regeneraci končetiny s popisky, jak to funguje"
+        "text": "Vědci odhadují, že vesmír je stále v expanze.",
+        "image_prompt": "Animace vesmichem se rozšiřujícím z centrálního bodu, znázorňující expanzi."
       },
       {
-        "text": "A na závěr máme 'Dumbo octopus', který vypadá jako pohádka!",
-        "image": "roztomilý záběr na octopusa s velkýma ušima, plovoucího ve tmě oceánu"
+        "text": "A co černé díry? Mohou být časově-věčně mocné.",
+        "image_prompt": "Záhadná černá díra s gravitací, která pohlcuje vše kolem, s okrajovými prstenci."
+      },
+      {
+        "text": "Takže příště, když se podíváte na nebe, vzpomeňte si, že to, co vidíte, je jen malý kousek nekonečna.",
+        "image_prompt": "Širokoúhlý záběr noční oblohy s pohledem na hvězdné souhvězdí."
       }
     ]
   }
