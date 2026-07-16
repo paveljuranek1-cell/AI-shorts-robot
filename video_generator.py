@@ -10,31 +10,12 @@ from moviepy import (
     ImageClip,
     TextClip,
     CompositeVideoClip,
-    AudioFileClip
+    AudioFileClip,
+    concatenate_videoclips
 )
 
 
 print("Spouštím video generátor...")
-
-
-with open(
-    "shorts_scenare.json",
-    "r",
-    encoding="utf-8"
-) as file:
-    scenarios = json.load(file)
-
-
-video = scenarios[0]
-
-title = video["title"]
-script = " ".join(
-    scene["text"]
-    for scene in video["scenes"]
-)
-
-print("Téma:")
-print(title)
 
 
 os.makedirs(
@@ -42,56 +23,55 @@ os.makedirs(
     exist_ok=True
 )
 
-
-# obrázek
-
-print("Stahuji obrázek...")
-
-
-query = urllib.parse.quote(
-    title
+os.makedirs(
+    "videos",
+    exist_ok=True
 )
 
 
-image_url = (
-    "https://loremflickr.com/1080/1920/"
-    + query
+# načtení scénáře
+
+with open(
+    "shorts_scenare.json",
+    "r",
+    encoding="utf-8"
+) as file:
+    data = json.load(file)
+
+
+scenario = data[0]
+
+
+title = scenario["title"]
+
+scenes = scenario["scenes"]
+
+
+print("Video:")
+print(title)
+
+print(
+    "Počet scén:",
+    len(scenes)
 )
 
 
-response = requests.get(
-    image_url,
-    timeout=30,
-    allow_redirects=True
+
+# spojení textu pro hlas
+
+full_text = " ".join(
+    scene["text"]
+    for scene in scenes
 )
 
 
-if response.headers.get("content-type","").startswith("image"):
+# vytvoření hlasu
 
-    with open(
-        "images/topic.jpg",
-        "wb"
-    ) as file:
-        file.write(
-            response.content
-        )
-
-    print("Obrázek připraven ✅")
-
-else:
-
-    print("Obrázek se nepodařilo stáhnout")
-    exit()
-
-
-
-# hlas
-
-print("Generuji hlas...")
+print("Vytvářím hlas...")
 
 
 tts = gTTS(
-    text=script,
+    text=full_text,
     lang="cs"
 )
 
@@ -101,49 +81,110 @@ tts.save(
 )
 
 
-print("Hlas vytvořen ✅")
+print("Hlas hotový ✅")
 
 
 
-# whisper
+# obrázky
 
-model = whisper.load_model(
-    "base"
+image_files = []
+
+
+print("Stahuji obrázky...")
+
+
+for index, scene in enumerate(
+    scenes
+):
+
+    query = urllib.parse.quote(
+        scene["image"]
+    )
+
+
+    url = (
+        "https://loremflickr.com/1080/1920/"
+        + query
+    )
+
+
+    response = requests.get(
+        url,
+        timeout=30
+    )
+
+
+    filename = (
+        f"images/scene_{index}.jpg"
+    )
+
+
+    with open(
+        filename,
+        "wb"
+    ) as img:
+
+        img.write(
+            response.content
+        )
+
+
+    image_files.append(
+        filename
+    )
+
+
+print("Obrázky hotové ✅")
+
+
+
+# vytvoření scén videa
+
+clips = []
+
+
+for image in image_files:
+
+    clip = ImageClip(
+        image
+    )
+
+
+    clip = clip.resized(
+        height=1920
+    )
+
+
+    clip = clip.with_duration(
+        6
+    )
+
+
+    clips.append(
+        clip
+    )
+
+
+
+video = concatenate_videoclips(
+    clips
 )
 
 
-result = model.transcribe(
-    "voice.mp3",
-    language="cs",
-    word_timestamps=True
-)
 
-
-
-# pozadí
-
-background = ImageClip(
-    "images/topic.jpg"
-)
-
-
-background = background.resized(
-    height=1920
-)
-
-
-background = background.with_duration(
-    10
-)
-
-
+# titul
 
 title_clip = TextClip(
-    text=title,
-    font_size=80,
+    text=title.upper(),
+    font_size=75,
     color="white",
     size=(1000,None),
     method="caption"
+)
+
+
+title_clip = title_clip.with_duration(
+    video.duration
 )
 
 
@@ -152,49 +193,34 @@ title_clip = title_clip.with_position(
 )
 
 
-title_clip = title_clip.with_duration(
-    10
+
+# titulky
+
+subtitle = TextClip(
+    text=full_text.upper(),
+    font_size=50,
+    color="white",
+    size=(1000,None),
+    method="caption"
 )
 
 
-
-subs = []
-
-
-for segment in result["segments"]:
-
-    clip = TextClip(
-        text=segment["text"].upper(),
-        font_size=60,
-        color="white",
-        size=(1000,None),
-        method="caption"
-    )
+subtitle = subtitle.with_duration(
+    video.duration
+)
 
 
-    clip = clip.with_position(
-        ("center","center")
-    )
-
-    clip = clip.with_start(
-        segment["start"]
-    )
-
-    clip = clip.with_duration(
-        segment["end"] - segment["start"]
-    )
-
-    subs.append(
-        clip
-    )
+subtitle = subtitle.with_position(
+    ("center","bottom")
+)
 
 
 
 final = CompositeVideoClip(
     [
-        background,
+        video,
         title_clip,
-        *subs
+        subtitle
     ],
     size=(1080,1920)
 )
@@ -213,11 +239,13 @@ final = final.with_audio(
 
 
 final.write_videofile(
-    "videos/auto_image_short.mp4",
+    "videos/viral_short.mp4",
     fps=24
 )
 
 
+print()
+print("HOTOVO ✅")
 print(
-    "Hotovo ✅ videos/auto_image_short.mp4"
+    "videos/viral_short.mp4"
 )
