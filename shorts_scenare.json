@@ -1,27 +1,27 @@
 [
   {
-    "title": "Tajemství vesmíru: Co víme o černých dírách?",
-    "hook": "Vy jste věděli, že černé díry mohou být bránami do jiných dimenzí?",
+    "title": "Nejpodivnější zvířata světa!",
+    "hook": "Věděli jste, že existuje ryba, která vypadá jako živý duch?",
     "scenes": [
       {
-        "text": "Černé díry jsou tak silné, že dokážou pohlcovat světlo a čas.",
-        "image": "ilustrace černé díry s pohlcujícími hvězdami a paprsky světla"
+        "text": "Seznamte se s 'Psycho rybou', která dokáže vypadat jako mořský duch!",
+        "image": "vysoký záběr na rybu o velikosti lidské dlaně s průhledným tělem a závojovými ploutvemi, plovoucí v modré vodě"
       },
       {
-        "text": "Představte si, kolik informací o vesmíru může zabírat jedna jediná černá díra!",
-        "image": "grafické znázornění datových proudů kolem černé díry"
+        "text": "A co takhle 'Hlaváč', ryba, která má ústa jako vak?",
+        "image": "detailní záběr na rybu s velmi širokým otvorem úst, jak se rameno vytahuje z vody"
       },
       {
-        "text": "Někteří vědci se domnívají, že mohou existovat portály pro cestování časem.",
-        "image": "umělecká interpretace portálu v prostoru"
+        "text": "Nebo 'Axolotl', sladkovodní mlok, který se nikdy nedospěje!",
+        "image": "roztomilý záběr na axolotla s růžovými žábry, plovoucí v akváriu"
       },
       {
-        "text": "V historii lidstva jsme na černé díry hleděli jako na záhady, které nás fascinují.",
-        "image": "historické záznamy a ilustrace o černých dírách z různých epoch"
+        "text": "Jaký je jeho tajemství regenerace? Dokáže si obnovit i celé končetiny!",
+        "image": "grafika znázorňující regeneraci končetiny s popisky, jak to funguje"
       },
       {
-        "text": "Co kdybychom jednoho dne našli způsob, jak je prozkoumat?",
-        "image": "tvůrci videa představují futuristickou vesmírnou loď u černé díry"
+        "text": "A na závěr máme 'Dumbo octopus', který vypadá jako pohádka!",
+        "image": "roztomilý záběr na octopusa s velkýma ušima, plovoucího ve tmě oceánu"
       }
     ]
   }
