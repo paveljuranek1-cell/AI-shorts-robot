@@ -3,7 +3,8 @@ import json
 import requests
 
 
-print("Spouštím AI Shorts generátor...")
+print("🤖 AI Shorts Robot 2.0")
+print("Generuji virální scénář...")
 
 
 api_key = os.getenv(
@@ -12,56 +13,60 @@ api_key = os.getenv(
 
 
 if not api_key:
-    print("OPENROUTER_API_KEY chybí")
+    print("Chybí OPENROUTER_API_KEY")
     exit()
 
 
 
 prompt = """
-Jsi profesionální tvůrce virálních YouTube Shorts.
+Jsi nejlepší tvůrce YouTube Shorts.
 
-Vytvoř jeden scénář pro video 40 sekund.
+Vytvoř jeden virální Shorts scénář v češtině.
 
-Vyber téma:
+Téma vyber podle toho, co má největší šanci na sledovanost:
 - záhady
-- vesmír
+- šokující fakta
 - historie
+- vesmír
 - věda
 - zvířata
-- nevysvětlitelné objevy
 - technologie
 
 Pravidla:
-- první věta musí být extrémně zajímavá
-- každá scéna musí držet pozornost
-- text musí být vhodný pro český AI hlas
-- každá scéna 6-8 sekund
+- délka 45 sekund
+- první 3 sekundy musí zastavit scrollování
+- každá scéna musí být vizuálně zajímavá
+- text musí být přirozený pro český AI hlas
 
-Vrať POUZE JSON:
+Vrať pouze JSON:
 
 {
-"title":"virální název",
-"hook":"první šokující věta",
+"title":"název videa",
+"hook":"první věta",
 "scenes":[
 {
-"text":"mluvený text scény",
-"image":"detailní popis obrázku"
+"text":"mluvený text",
+"image_prompt":"detailní filmový popis obrázku"
 },
 {
-"text":"mluvený text scény",
-"image":"detailní popis obrázku"
+"text":"mluvený text",
+"image_prompt":"detailní filmový popis obrázku"
 },
 {
-"text":"mluvený text scény",
-"image":"detailní popis obrázku"
+"text":"mluvený text",
+"image_prompt":"detailní filmový popis obrázku"
 },
 {
-"text":"mluvený text scény",
-"image":"detailní popis obrázku"
+"text":"mluvený text",
+"image_prompt":"detailní filmový popis obrázku"
 },
 {
-"text":"mluvený text scény",
-"image":"detailní popis obrázku"
+"text":"mluvený text",
+"image_prompt":"detailní filmový popis obrázku"
+},
+{
+"text":"mluvený text",
+"image_prompt":"detailní filmový popis obrázku"
 }
 ]
 }
@@ -76,7 +81,7 @@ response = requests.post(
     },
     json={
         "model": "openai/gpt-4o-mini",
-        "messages": [
+        "messages":[
             {
                 "role":"user",
                 "content":prompt
@@ -87,27 +92,30 @@ response = requests.post(
 )
 
 
-data = response.json()
+
+result = response.json()
 
 
-content = data["choices"][0]["message"]["content"]
+text = result["choices"][0]["message"]["content"]
 
 
-content = content.replace(
+text = text.replace(
     "```json",
     ""
 )
 
-content = content.replace(
+text = text.replace(
     "```",
     ""
 )
 
-content = content.strip()
+
+text = text.strip()
+
 
 
 scenario = json.loads(
-    content
+    text
 )
 
 
@@ -116,26 +124,21 @@ with open(
     "shorts_scenare.json",
     "w",
     encoding="utf-8"
-) as file:
+) as f:
 
     json.dump(
         [scenario],
-        file,
+        f,
         ensure_ascii=False,
         indent=2
     )
 
 
-
-print("================================")
+print("========================")
 print("SCÉNÁŘ HOTOVÝ ✅")
-print(
-    scenario["title"]
-)
-
+print(scenario["title"])
 print(
     "Scén:",
     len(scenario["scenes"])
 )
-
-print("================================")
+print("========================")
