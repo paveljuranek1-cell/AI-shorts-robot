@@ -73,4 +73,4 @@ jobs:
         uses: actions/upload-artifact@v4
         with:
           name: short-video
-          path: videos/short_with_subtitles.mp4
+          path: videos/short_dynamic_subtitles.mp4
