@@ -1,5 +1,9 @@
 import json
-from moviepy import TextClip, CompositeVideoClip
+from moviepy import (
+    ImageClip,
+    TextClip,
+    CompositeVideoClip
+)
 
 
 print("Spouštím video generátor...")
@@ -18,44 +22,65 @@ with open(
 print(f"Nalezeno scénářů: {len(scenarios)}")
 
 
-# vyber první scénář
+# první scénář
 
 video = scenarios[0]
 
-
 title = video["title"]
-script = video["script"]
 
 
-print("Vytvářím testovací video:")
+print("Vytvářím video:")
 print(title)
 
 
-# vytvoření textu do videa
+# obrázek pozadí
+
+background = ImageClip(
+    "images/pyramid.jpg"
+)
+
+
+background = background.resized(
+    height=1920
+)
+
+
+background = background.with_duration(5)
+
+
+# text přes obrázek
 
 text = TextClip(
     text=title,
-    font_size=70,
+    font_size=80,
     color="white",
-    size=(1080, 1920),
+    size=(1000, None),
     method="caption"
+)
+
+
+text = text.with_position(
+    ("center", "center")
 )
 
 text = text.with_duration(5)
 
 
-# vytvoření videa
+# spojení
 
 final_video = CompositeVideoClip(
-    [text],
-    size=(1080, 1920)
+    [
+        background,
+        text
+    ],
+    size=(1080,1920)
 )
 
 
 final_video.write_videofile(
-    "short_test.mp4",
+    "short_image_test.mp4",
     fps=24
 )
 
 
-print("Video vytvořeno ✅ short_test.mp4")
+print("Hotovo ✅ short_image_test.mp4")
