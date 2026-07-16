@@ -1,7 +1,6 @@
 import json
 import os
 import requests
-import urllib.parse
 import whisper
 
 from gtts import gTTS
@@ -18,18 +17,10 @@ from moviepy import (
 print("Spouštím video generátor...")
 
 
-os.makedirs(
-    "images",
-    exist_ok=True
-)
-
-os.makedirs(
-    "videos",
-    exist_ok=True
-)
+os.makedirs("images", exist_ok=True)
+os.makedirs("videos", exist_ok=True)
 
 
-# načtení scénáře
 
 with open(
     "shorts_scenare.json",
@@ -41,9 +32,7 @@ with open(
 
 scenario = data[0]
 
-
 title = scenario["title"]
-
 scenes = scenario["scenes"]
 
 
@@ -57,24 +46,21 @@ print(
 
 
 
-# spojení textu pro hlas
+# hlas
 
-full_text = " ".join(
+text = " ".join(
     scene["text"]
     for scene in scenes
 )
 
 
-# vytvoření hlasu
-
 print("Vytvářím hlas...")
 
 
 tts = gTTS(
-    text=full_text,
+    text=text,
     lang="cs"
 )
-
 
 tts.save(
     "voice.mp3"
@@ -87,36 +73,35 @@ print("Hlas hotový ✅")
 
 # obrázky
 
-image_files = []
+images = []
 
 
 print("Stahuji obrázky...")
 
 
-for index, scene in enumerate(
-    scenes
-):
+for i, scene in enumerate(scenes):
 
-    query = urllib.parse.quote(
-        scene["image"]
-    )
+    filename = f"images/scene_{i}.jpg"
 
 
     url = (
-        "https://loremflickr.com/1080/1920/"
-        + query
+        f"https://picsum.photos/1080/1920?random={i}"
     )
 
 
-    response = requests.get(
+    r = requests.get(
         url,
         timeout=30
     )
 
 
-    filename = (
-        f"images/scene_{index}.jpg"
-    )
+    if not r.content.startswith(b"\xff\xd8"):
+
+        print(
+            "Špatný obrázek:",
+            filename
+        )
+        continue
 
 
     with open(
@@ -125,25 +110,28 @@ for index, scene in enumerate(
     ) as img:
 
         img.write(
-            response.content
+            r.content
         )
 
 
-    image_files.append(
+    images.append(
         filename
     )
 
 
-print("Obrázky hotové ✅")
+print(
+    "Obrázky:",
+    len(images)
+)
 
 
 
-# vytvoření scén videa
+# video scény
 
 clips = []
 
 
-for image in image_files:
+for image in images:
 
     clip = ImageClip(
         image
@@ -194,33 +182,10 @@ title_clip = title_clip.with_position(
 
 
 
-# titulky
-
-subtitle = TextClip(
-    text=full_text.upper(),
-    font_size=50,
-    color="white",
-    size=(1000,None),
-    method="caption"
-)
-
-
-subtitle = subtitle.with_duration(
-    video.duration
-)
-
-
-subtitle = subtitle.with_position(
-    ("center","bottom")
-)
-
-
-
 final = CompositeVideoClip(
     [
         video,
-        title_clip,
-        subtitle
+        title_clip
     ],
     size=(1080,1920)
 )
@@ -244,8 +209,4 @@ final.write_videofile(
 )
 
 
-print()
 print("HOTOVO ✅")
-print(
-    "videos/viral_short.mp4"
-)
