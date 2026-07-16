@@ -1,3 +1,4 @@
 requests
 moviepy
 gTTS
+openai-whisper
