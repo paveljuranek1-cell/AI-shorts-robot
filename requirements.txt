@@ -3,3 +3,6 @@ moviepy
 gTTS
 openai-whisper
 Pillow
+imageio
+imageio-ffmpeg
+numpy
