@@ -17,8 +17,6 @@ from moviepy import (
 print("Spouštím video generátor...")
 
 
-# scénáře
-
 with open(
     "shorts_scenare.json",
     "r",
@@ -37,15 +35,13 @@ print("Téma:")
 print(title)
 
 
-# složka obrázků
-
 os.makedirs(
     "images",
     exist_ok=True
 )
 
 
-# stažení obrázku podle tématu
+# obrázek
 
 print("Stahuji obrázek...")
 
@@ -55,28 +51,35 @@ query = urllib.parse.quote(
 )
 
 
-url = (
-    "https://source.unsplash.com/1080x1920/?"
+image_url = (
+    "https://loremflickr.com/1080/1920/"
     + query
 )
 
 
 response = requests.get(
-    url,
-    timeout=20
+    image_url,
+    timeout=30,
+    allow_redirects=True
 )
 
 
-with open(
-    "images/topic.jpg",
-    "wb"
-) as file:
-    file.write(
-        response.content
-    )
+if response.headers.get("content-type","").startswith("image"):
 
+    with open(
+        "images/topic.jpg",
+        "wb"
+    ) as file:
+        file.write(
+            response.content
+        )
 
-print("Obrázek připraven ✅")
+    print("Obrázek připraven ✅")
+
+else:
+
+    print("Obrázek se nepodařilo stáhnout")
+    exit()
 
 
 
@@ -100,7 +103,7 @@ print("Hlas vytvořen ✅")
 
 
 
-# titulky
+# whisper
 
 model = whisper.load_model(
     "base"
@@ -115,7 +118,7 @@ result = model.transcribe(
 
 
 
-# obrázek
+# pozadí
 
 background = ImageClip(
     "images/topic.jpg"
@@ -132,8 +135,6 @@ background = background.with_duration(
 )
 
 
-
-# název
 
 title_clip = TextClip(
     text=title,
@@ -155,8 +156,6 @@ title_clip = title_clip.with_duration(
 
 
 
-# titulky
-
 subs = []
 
 
@@ -175,16 +174,13 @@ for segment in result["segments"]:
         ("center","center")
     )
 
-
     clip = clip.with_start(
         segment["start"]
     )
 
-
     clip = clip.with_duration(
         segment["end"] - segment["start"]
     )
-
 
     subs.append(
         clip
