@@ -6,93 +6,107 @@ import requests
 print("Spouštím AI Shorts generátor...")
 
 
-api_key = os.getenv(
+API_KEY = os.getenv(
     "OPENROUTER_API_KEY"
 )
 
 
-if not api_key:
-    print("Chybí OPENROUTER API KEY")
+if not API_KEY:
+    print("Chybí OPENROUTER_API_KEY")
     exit()
 
 
 prompt = """
-Vytvoř jeden virální YouTube Shorts scénář.
+Jsi expert na tvorbu virálních YouTube Shorts.
 
-Téma musí být:
-- záhada
+Vytvoř jeden krátký virální scénář v češtině.
+
+Používej témata:
+- záhady
 - vesmír
 - historie
-- šokující fakt
 - věda
-- neuvěřitelný objev
+- neuvěřitelné objevy
+- tajemná místa
+- zvířata
 
-Vrať pouze JSON.
+Pravidla:
+- délka videa 35 až 45 sekund
+- první věta musí okamžitě zaujmout
+- styl jako populární Shorts kanály
+- žádné vysvětlování mimo JSON
 
-Formát:
+Vrať pouze JSON:
 
 {
-"title":"krátký virální název",
-"hook":"první věta která zaujme",
+"title":"krátký silný název",
+"hook":"první věta videa",
 "scenes":[
  {
-  "text":"mluvený text scény",
-  "image":"popis obrázku"
+  "text":"mluvený text první scény",
+  "image":"popis obrázku první scény"
  },
  {
-  "text":"mluvený text scény",
-  "image":"popis obrázku"
+  "text":"mluvený text druhé scény",
+  "image":"popis obrázku druhé scény"
  },
  {
-  "text":"mluvený text scény",
-  "image":"popis obrázku"
+  "text":"mluvený text třetí scény",
+  "image":"popis obrázku třetí scény"
+ },
+ {
+  "text":"mluvený text čtvrté scény",
+  "image":"popis obrázku čtvrté scény"
+ },
+ {
+  "text":"mluvený text páté scény",
+  "image":"popis obrázku páté scény"
  }
 ]
 }
-
-Každá scéna 5-8 sekund.
 """
 
 
 response = requests.post(
     "https://openrouter.ai/api/v1/chat/completions",
     headers={
-        "Authorization": f"Bearer {api_key}",
+        "Authorization": f"Bearer {API_KEY}",
         "Content-Type": "application/json"
     },
     json={
-        "model":"openai/gpt-4o-mini",
-        "messages":[
+        "model": "openai/gpt-4o-mini",
+        "messages": [
             {
-                "role":"user",
-                "content":prompt
+                "role": "user",
+                "content": prompt
             }
         ]
-    }
+    },
+    timeout=60
 )
 
 
 data = response.json()
 
 
-content = data["choices"][0]["message"]["content"]
+text = data["choices"][0]["message"]["content"]
 
 
-content = content.replace(
+text = text.replace(
     "```json",
     ""
 )
 
-content = content.replace(
+text = text.replace(
     "```",
     ""
 )
 
-content = content.strip()
+text = text.strip()
 
 
-scenarios = json.loads(
-    content
+scenario = json.loads(
+    text
 )
 
 
@@ -101,8 +115,9 @@ with open(
     "w",
     encoding="utf-8"
 ) as file:
+
     json.dump(
-        [scenarios],
+        [scenario],
         file,
         ensure_ascii=False,
         indent=2
@@ -110,4 +125,14 @@ with open(
 
 
 print("Scénář vytvořen ✅")
-print(scenarios["title"])
+print()
+print("Název:")
+print(
+    scenario["title"]
+)
+
+print()
+print(
+    "Počet scén:",
+    len(scenario["scenes"])
+)
