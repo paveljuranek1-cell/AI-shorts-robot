@@ -2,4 +2,3 @@ requests
 moviepy
 gTTS
 openai-whisper
-duckduckgo-search
