@@ -9,7 +9,11 @@ jobs:
   build:
     runs-on: ubuntu-latest
 
+    permissions:
+      contents: write
+
     steps:
+
       - name: Checkout repository
         uses: actions/checkout@v4
 
@@ -22,7 +26,7 @@ jobs:
         run: |
           pip install -r requirements.txt
 
-      - name: Run robot
+      - name: Run AI scenario generator
         env:
           OPENROUTER_API_KEY: ${{ secrets.OPENROUTER_API_KEY }}
         run: |
@@ -35,3 +39,7 @@ jobs:
           git add shorts_scenare.json
           git commit -m "Update generated shorts scenarios" || echo "No changes"
           git push
+
+      - name: Test video generator
+        run: |
+          python video_generator.py
