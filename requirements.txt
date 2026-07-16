@@ -1,6 +1,6 @@
 requests
 moviepy
-gTTS
+edge-tts
 openai-whisper
 Pillow
 imageio
