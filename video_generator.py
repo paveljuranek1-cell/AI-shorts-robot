@@ -1,6 +1,9 @@
 import json
+import os
+import requests
 import whisper
 
+from duckduckgo_search import DDGS
 from gtts import gTTS
 
 from moviepy import (
@@ -24,9 +27,6 @@ with open(
     scenarios = json.load(file)
 
 
-print(f"Nalezeno scénářů: {len(scenarios)}")
-
-
 video = scenarios[0]
 
 title = video["title"]
@@ -37,7 +37,62 @@ print("Téma:")
 print(title)
 
 
-# vytvoření hlasu
+# vytvoření složky
+
+os.makedirs(
+    "images",
+    exist_ok=True
+)
+
+
+# hledání obrázku
+
+print("Hledám obrázek...")
+
+
+query = title + " historical"
+
+
+image_url = None
+
+
+with DDGS() as ddgs:
+
+    results = ddgs.images(
+        query,
+        max_results=1
+    )
+
+    for image in results:
+        image_url = image["thumbnail"]
+        break
+
+
+if image_url:
+
+    print("Obrázek nalezen ✅")
+
+
+    img = requests.get(
+        image_url
+    ).content
+
+
+    with open(
+        "images/topic.jpg",
+        "wb"
+    ) as f:
+        f.write(img)
+
+
+else:
+
+    print("Obrázek nenalezen ❌")
+    exit()
+
+
+
+# hlas
 
 print("Generuji hlas...")
 
@@ -55,10 +110,8 @@ tts.save(
 print("Hlas vytvořen ✅")
 
 
+
 # Whisper
-
-print("Analyzuji hlas pro titulky...")
-
 
 model = whisper.load_model(
     "base"
@@ -72,13 +125,11 @@ result = model.transcribe(
 )
 
 
-print("Titulky připraveny ✅")
 
-
-# obrázek
+# pozadí
 
 background = ImageClip(
-    "images/pyramid.jpg"
+    "images/topic.jpg"
 )
 
 
@@ -90,65 +141,55 @@ background = background.resized(
 background = background.with_duration(10)
 
 
-# hlavní titulek
+
+# titulek
 
 title_clip = TextClip(
     text=title,
     font_size=80,
     color="white",
-    size=(1000, None),
+    size=(1000,None),
     method="caption"
 )
 
 
 title_clip = title_clip.with_position(
-    ("center", "top")
+    ("center","top")
 )
 
 
-title_clip = title_clip.with_duration(10)
+title_clip = title_clip.with_duration(
+    10
+)
 
 
 
-# vytváření dynamických titulků
+# titulky
 
 subtitle_clips = []
 
 
 for segment in result["segments"]:
 
-    text = segment["text"].strip()
-
-    start = segment["start"]
-
-    end = segment["end"]
-
-    duration = end - start
-
-
     subtitle = TextClip(
-        text=text.upper(),
+        text=segment["text"].upper(),
         font_size=60,
         color="white",
-        size=(1000, None),
+        size=(1000,None),
         method="caption"
     )
 
-
     subtitle = subtitle.with_position(
-        ("center", "center")
+        ("center","center")
     )
-
 
     subtitle = subtitle.with_start(
-        start
+        segment["start"]
     )
-
 
     subtitle = subtitle.with_duration(
-        duration
+        segment["end"] - segment["start"]
     )
-
 
     subtitle_clips.append(
         subtitle
@@ -156,28 +197,15 @@ for segment in result["segments"]:
 
 
 
-# spojení vrstev
-
-clips = [
-    background,
-    title_clip
-]
-
-
-clips.extend(
-    subtitle_clips
-)
-
-
-
 final = CompositeVideoClip(
-    clips,
+    [
+        background,
+        title_clip,
+        *subtitle_clips
+    ],
     size=(1080,1920)
 )
 
-
-
-# zvuk
 
 audio = AudioFileClip(
     "voice.mp3"
@@ -190,14 +218,12 @@ final = final.with_audio(
 
 
 
-# export
-
 final.write_videofile(
-    "videos/short_dynamic_subtitles.mp4",
+    "videos/auto_image_short.mp4",
     fps=24
 )
 
 
 print(
-    "Hotovo ✅ videos/short_dynamic_subtitles.mp4"
+    "Hotovo ✅ videos/auto_image_short.mp4"
 )
