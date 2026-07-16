@@ -6,62 +6,63 @@ import requests
 print("Spouštím AI Shorts generátor...")
 
 
-API_KEY = os.getenv(
+api_key = os.getenv(
     "OPENROUTER_API_KEY"
 )
 
 
-if not API_KEY:
-    print("Chybí OPENROUTER_API_KEY")
+if not api_key:
+    print("OPENROUTER_API_KEY chybí")
     exit()
 
 
+
 prompt = """
-Jsi expert na tvorbu virálních YouTube Shorts.
+Jsi profesionální tvůrce virálních YouTube Shorts.
 
-Vytvoř jeden krátký virální scénář v češtině.
+Vytvoř jeden scénář pro video 40 sekund.
 
-Používej témata:
+Vyber téma:
 - záhady
 - vesmír
 - historie
 - věda
-- neuvěřitelné objevy
-- tajemná místa
 - zvířata
+- nevysvětlitelné objevy
+- technologie
 
 Pravidla:
-- délka videa 35 až 45 sekund
-- první věta musí okamžitě zaujmout
-- styl jako populární Shorts kanály
-- žádné vysvětlování mimo JSON
+- první věta musí být extrémně zajímavá
+- každá scéna musí držet pozornost
+- text musí být vhodný pro český AI hlas
+- každá scéna 6-8 sekund
 
-Vrať pouze JSON:
+Vrať POUZE JSON:
 
 {
-"title":"krátký silný název",
-"hook":"první věta videa",
+"title":"virální název",
+"hook":"první šokující věta",
 "scenes":[
- {
-  "text":"mluvený text první scény",
-  "image":"popis obrázku první scény"
- },
- {
-  "text":"mluvený text druhé scény",
-  "image":"popis obrázku druhé scény"
- },
- {
-  "text":"mluvený text třetí scény",
-  "image":"popis obrázku třetí scény"
- },
- {
-  "text":"mluvený text čtvrté scény",
-  "image":"popis obrázku čtvrté scény"
- },
- {
-  "text":"mluvený text páté scény",
-  "image":"popis obrázku páté scény"
- }
+{
+"text":"mluvený text scény",
+"image":"detailní popis obrázku"
+},
+{
+"text":"mluvený text scény",
+"image":"detailní popis obrázku"
+},
+{
+"text":"mluvený text scény",
+"image":"detailní popis obrázku"
+},
+{
+"text":"mluvený text scény",
+"image":"detailní popis obrázku"
+},
+{
+"text":"mluvený text scény",
+"image":"detailní popis obrázku"
+}
 ]
 }
 """
@@ -70,15 +71,15 @@ Vrať pouze JSON:
 response = requests.post(
     "https://openrouter.ai/api/v1/chat/completions",
     headers={
-        "Authorization": f"Bearer {API_KEY}",
+        "Authorization": f"Bearer {api_key}",
         "Content-Type": "application/json"
     },
     json={
         "model": "openai/gpt-4o-mini",
         "messages": [
             {
-                "role": "user",
-                "content": prompt
+                "role":"user",
+                "content":prompt
             }
         ]
     },
@@ -89,25 +90,26 @@ response = requests.post(
 data = response.json()
 
 
-text = data["choices"][0]["message"]["content"]
+content = data["choices"][0]["message"]["content"]
 
 
-text = text.replace(
+content = content.replace(
     "```json",
     ""
 )
 
-text = text.replace(
+content = content.replace(
     "```",
     ""
 )
 
-text = text.strip()
+content = content.strip()
 
 
 scenario = json.loads(
-    text
+    content
 )
+
 
 
 with open(
@@ -124,15 +126,16 @@ with open(
     )
 
 
-print("Scénář vytvořen ✅")
-print()
-print("Název:")
+
+print("================================")
+print("SCÉNÁŘ HOTOVÝ ✅")
 print(
     scenario["title"]
 )
 
-print()
 print(
-    "Počet scén:",
+    "Scén:",
     len(scenario["scenes"])
 )
+
+print("================================")
