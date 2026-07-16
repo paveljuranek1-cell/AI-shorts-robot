@@ -3,7 +3,8 @@ import requests
 import json
 
 
-# načtení OpenRouter API klíče z GitHub Secrets
+# načtení OpenRouter API klíče
+
 api_key = os.getenv("OPENROUTER_API_KEY")
 
 
@@ -15,7 +16,8 @@ if not api_key:
 print("OpenRouter API klíč nalezen ✅")
 
 
-# požadavek pro AI
+# prompt pro AI
+
 prompt = """
 Vytvoř 4 virální scénáře pro YouTube Shorts a TikTok.
 
@@ -28,7 +30,11 @@ Požadavky:
   hook
   script
 
-Vrať pouze JSON ve formátu:
+Vrať pouze čistý JSON.
+Nevkládej žádné ``` značky.
+Nevysvětluj nic před ani za JSON.
+
+Formát:
 
 [
  {
@@ -42,6 +48,8 @@ Vrať pouze JSON ve formátu:
 
 print("Volám OpenRouter AI...")
 
+
+# požadavek na OpenRouter
 
 response = requests.post(
     "https://openrouter.ai/api/v1/chat/completions",
@@ -61,7 +69,7 @@ response = requests.post(
 )
 
 
-# kontrola chyby
+# kontrola odpovědi
 
 if response.status_code != 200:
     print("Chyba OpenRouter:")
@@ -78,19 +86,47 @@ result = data["choices"][0]["message"]["content"]
 print("AI odpověď:")
 print(result)
 
-# odstranění Markdown značek pokud je AI přidala
+
+# vyčištění odpovědi
 
 result = result.replace("```json", "")
 result = result.replace("```", "")
+
+result = result.replace("\n", " ")
+result = result.replace("\r", " ")
+result = result.replace("\t", " ")
+
 result = result.strip()
 
 
-# kontrola, že JSON opravdu funguje
+# najdeme pouze JSON část
 
-scenarios = json.loads(result)
+start = result.find("[")
+end = result.rfind("]") + 1
 
 
-# uložení hezkého JSON souboru
+if start == -1 or end == 0:
+    print("JSON nebyl nalezen ❌")
+    exit()
+
+
+result = result[start:end]
+
+
+# kontrola JSON
+
+try:
+    scenarios = json.loads(result)
+
+except Exception as e:
+    print("JSON chyba ❌")
+    print(e)
+    print("Výsledek AI:")
+    print(result)
+    exit()
+
+
+# uložení souboru
 
 with open(
     "shorts_scenare.json",
