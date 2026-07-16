@@ -40,15 +40,23 @@ background = ImageClip(
 )
 
 
+# nastavení velikosti
+
 background = background.resized(
     height=1920
 )
 
 
+# pomalý zoom
+
 background = background.with_duration(5)
 
+background = background.resized(
+    lambda t: 1 + 0.03 * t
+)
 
-# text přes obrázek
+
+# text
 
 text = TextClip(
     text=title,
@@ -66,7 +74,7 @@ text = text.with_position(
 text = text.with_duration(5)
 
 
-# spojení
+# spojení videa
 
 final_video = CompositeVideoClip(
     [
@@ -78,9 +86,9 @@ final_video = CompositeVideoClip(
 
 
 final_video.write_videofile(
-    "short_image_test.mp4",
+    "short_zoom_test.mp4",
     fps=24
 )
 
 
-print("Hotovo ✅ short_image_test.mp4")
+print("Hotovo ✅ short_zoom_test.mp4")
