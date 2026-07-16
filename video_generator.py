@@ -1,4 +1,5 @@
 import json
+import whisper
 
 from gtts import gTTS
 
@@ -23,23 +24,16 @@ with open(
     scenarios = json.load(file)
 
 
-print(f"Nalezeno scénářů: {len(scenarios)}")
-
-
 video = scenarios[0]
 
 title = video["title"]
 script = video["script"]
 
 
-print("Vytvářím video:")
 print(title)
 
 
 # vytvoření hlasu
-
-print("Generuji AI hlas...")
-
 
 tts = gTTS(
     text=script,
@@ -52,6 +46,30 @@ tts.save(
 
 
 print("Hlas vytvořen ✅")
+
+
+# Whisper rozpoznání
+
+print("Generuji titulky...")
+
+
+model = whisper.load_model(
+    "base"
+)
+
+
+result = model.transcribe(
+    "voice.mp3",
+    language="cs"
+)
+
+
+subtitle_text = result["text"]
+
+
+print(
+    subtitle_text
+)
 
 
 # obrázek
@@ -67,9 +85,9 @@ background = background.resized(
 background = background.with_duration(10)
 
 
-# text
+# titulek
 
-text = TextClip(
+title_clip = TextClip(
     text=title,
     font_size=80,
     color="white",
@@ -77,42 +95,56 @@ text = TextClip(
     method="caption"
 )
 
-text = text.with_position(
-    ("center", "center")
+title_clip = title_clip.with_position(
+    ("center","center")
 )
 
-text = text.with_duration(10)
+title_clip = title_clip.with_duration(10)
 
 
-# spojení
+# spodní titulky
 
-video_clip = CompositeVideoClip(
+subtitle = TextClip(
+    text=subtitle_text,
+    font_size=45,
+    color="white",
+    size=(1000,None),
+    method="caption"
+)
+
+subtitle = subtitle.with_position(
+    ("center","bottom")
+)
+
+subtitle = subtitle.with_duration(10)
+
+
+# video
+
+final = CompositeVideoClip(
     [
         background,
-        text
+        title_clip,
+        subtitle
     ],
     size=(1080,1920)
 )
 
-
-# přidání hlasu
 
 audio = AudioFileClip(
     "voice.mp3"
 )
 
 
-video_clip = video_clip.with_audio(
+final = final.with_audio(
     audio
 )
 
 
-# export
-
-video_clip.write_videofile(
-    "short_with_voice.mp4",
+final.write_videofile(
+    "short_with_subtitles.mp4",
     fps=24
 )
 
 
-print("Hotovo ✅ short_with_voice.mp4")
+print("Hotovo ✅ short_with_subtitles.mp4")
