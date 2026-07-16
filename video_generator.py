@@ -14,13 +14,24 @@ from moviepy import (
 )
 
 
-print("Spouštím video generátor...")
+print("================================")
+print("Spouštím video generátor")
+print("================================")
 
 
-os.makedirs("images", exist_ok=True)
-os.makedirs("videos", exist_ok=True)
+os.makedirs(
+    "images",
+    exist_ok=True
+)
+
+os.makedirs(
+    "videos",
+    exist_ok=True
+)
 
 
+
+# načtení scénáře
 
 with open(
     "shorts_scenare.json",
@@ -30,37 +41,38 @@ with open(
     data = json.load(file)
 
 
-scenario = data[0]
-
-title = scenario["title"]
-scenes = scenario["scenes"]
+video = data[0]
 
 
-print("Video:")
+title = video["title"]
+
+scenes = video["scenes"]
+
+
 print(title)
-
 print(
-    "Počet scén:",
+    "Scény:",
     len(scenes)
 )
 
 
 
-# hlas
+# vytvoření hlasu
 
-text = " ".join(
-    scene["text"]
-    for scene in scenes
+full_text = " ".join(
+    s["text"]
+    for s in scenes
 )
 
 
-print("Vytvářím hlas...")
+print("Tvořím hlas...")
 
 
 tts = gTTS(
-    text=text,
+    full_text,
     lang="cs"
 )
+
 
 tts.save(
     "voice.mp3"
@@ -73,19 +85,17 @@ print("Hlas hotový ✅")
 
 # obrázky
 
-images = []
-
-
 print("Stahuji obrázky...")
+
+
+images = []
 
 
 for i, scene in enumerate(scenes):
 
-    filename = f"images/scene_{i}.jpg"
-
-
     url = (
-        f"https://picsum.photos/1080/1920?random={i}"
+        "https://picsum.photos/1080/1920?random="
+        + str(i)
     )
 
 
@@ -95,13 +105,9 @@ for i, scene in enumerate(scenes):
     )
 
 
-    if not r.content.startswith(b"\xff\xd8"):
-
-        print(
-            "Špatný obrázek:",
-            filename
-        )
-        continue
+    filename = (
+        f"images/scene{i}.jpg"
+    )
 
 
     with open(
@@ -119,10 +125,7 @@ for i, scene in enumerate(scenes):
     )
 
 
-print(
-    "Obrázky:",
-    len(images)
-)
+print("Obrázky hotové ✅")
 
 
 
@@ -131,10 +134,10 @@ print(
 clips = []
 
 
-for image in images:
+for img in images:
 
     clip = ImageClip(
-        image
+        img
     )
 
 
@@ -154,17 +157,17 @@ for image in images:
 
 
 
-video = concatenate_videoclips(
+video_clip = concatenate_videoclips(
     clips
 )
 
 
 
-# titul
+# hlavní titulek
 
 title_clip = TextClip(
     text=title.upper(),
-    font_size=75,
+    font_size=80,
     color="white",
     size=(1000,None),
     method="caption"
@@ -172,7 +175,7 @@ title_clip = TextClip(
 
 
 title_clip = title_clip.with_duration(
-    video.duration
+    video_clip.duration
 )
 
 
@@ -184,7 +187,7 @@ title_clip = title_clip.with_position(
 
 final = CompositeVideoClip(
     [
-        video,
+        video_clip,
         title_clip
     ],
     size=(1080,1920)
@@ -209,4 +212,9 @@ final.write_videofile(
 )
 
 
-print("HOTOVO ✅")
+
+print()
+print("==============================")
+print("VIDEO HOTOVÉ ✅")
+print("videos/viral_short.mp4")
+print("==============================")
