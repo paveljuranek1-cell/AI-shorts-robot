@@ -1,31 +1,31 @@
 [
   {
-    "title": "Neuvěřitelné fakta o vesmíru!",
-    "hook": "Věděli jste, že ve vesmíru existuje více hvězd než zrnek písku na všech plážích Země?",
+    "title": "5 šokujících faktů o zvířatech, které vás dostanou!",
+    "hook": "Věděli jste, že šimpanzi dokážou rozpoznat sami sebe v zrcadle?",
     "scenes": [
       {
-        "text": "V tomto obrovském vesmíru je počet hvězd nepředstavitelný.",
-        "image_prompt": "Nádherný pohled na noční oblohu plnou jasných hvězd, s galaxií na pozadí."
+        "text": "Šimpanzi, naši blízcí příbuzní, procházejí zrcadlem jako by to byla hra!",
+        "image_prompt": "Šimpanze stojící před zrcadlem, s překvapeným výrazem, zkoumá svůj odraz."
       },
       {
-        "text": "Dokonce i naše Slunce je jen jednou z miliard hvězd v naší galaxii.",
-        "image_prompt": "Detailní záběr Slunce se zoomem na jeho povrch a korónu."
+        "text": "Jak daleko se dostanou krávy? Tyto zvířata mají skvělou paměť a kamarády!",
+        "image_prompt": "Skupina krav spokojeně přežvykuje na zeleni, pod širým nebem, s modrým nebem v pozadí."
       },
       {
-        "text": "A věřte nebo ne, některé hvězdy jsou starší než samotný vesmír.",
-        "image_prompt": "Hvězdné pole se zářícími hvězdami, některé se zobrazují jako staré a vyhaslé."
+        "text": "Víte, že chobotnice mají tři srdce? Dvě pumpují krev do žaber, jedno do těla.",
+        "image_prompt": "Chobotnice plavající v korálovém útesu, ukazující své hebké tělo, s třemi jasně viditelnými srdci."
       },
       {
-        "text": "Vědci odhadují, že vesmír je stále v expanze.",
-        "image_prompt": "Animace vesmichem se rozšiřujícím z centrálního bodu, znázorňující expanzi."
+        "text": "A co kočky? Odhaduje se, že vyprodukují až 100 různých zvuků!",
+        "image_prompt": "Roztomilá kočka sedící na okně, s velkýma očima a otevřenou tlamou, jako by něco mňoukala."
       },
       {
-        "text": "A co černé díry? Mohou být časově-věčně mocné.",
-        "image_prompt": "Záhadná černá díra s gravitací, která pohlcuje vše kolem, s okrajovými prstenci."
+        "text": "A nakonec, delfíni se dorozumívají svými vlastními jmény!",
+        "image_prompt": "Skupina delfínů skákajících nad hladinou oceánu, s vodními krůpějemi, které stříkají kolem."
       },
       {
-        "text": "Takže příště, když se podíváte na nebe, vzpomeňte si, že to, co vidíte, je jen malý kousek nekonečna.",
-        "image_prompt": "Širokoúhlý záběr noční oblohy s pohledem na hvězdné souhvězdí."
+        "text": "Jaké další zvířecí tajemství nás čekají? Sledujte naše videa pro víc!",
+        "image_prompt": "Zajímavé zvířecí tváře pohromadě, jakoby se na diváka dívaly s očekáváním, s matným pozadím."
       }
     ]
   }
