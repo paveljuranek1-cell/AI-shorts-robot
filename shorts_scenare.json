@@ -1,31 +1,31 @@
 [
   {
-    "title": "5 šokujících faktů o zvířatech, které vás dostanou!",
-    "hook": "Věděli jste, že šimpanzi dokážou rozpoznat sami sebe v zrcadle?",
+    "title": "Šokující fakta o zvířatech, která vás ohromí!",
+    "hook": "Víte, že někteří žraloci mohou žít až 400 let?",
     "scenes": [
       {
-        "text": "Šimpanzi, naši blízcí příbuzní, procházejí zrcadlem jako by to byla hra!",
-        "image_prompt": "Šimpanze stojící před zrcadlem, s překvapeným výrazem, zkoumá svůj odraz."
+        "text": "Představte si žraloka, který plaval po oceánech za časů, kdy existovali dinosauři!",
+        "image_prompt": "obrázek žraloka plavajícího v čisté modré vodě s dinosaurem na pozadí."
       },
       {
-        "text": "Jak daleko se dostanou krávy? Tyto zvířata mají skvělou paměť a kamarády!",
-        "image_prompt": "Skupina krav spokojeně přežvykuje na zeleni, pod širým nebem, s modrým nebem v pozadí."
+        "text": "A co takový slon? Může cítit vibrace z 8 km vzdálenosti!",
+        "image_prompt": "slon stojící na louce, ucho napjaté, hluboké vibrace viditelné jako vlny v zemi."
       },
       {
-        "text": "Víte, že chobotnice mají tři srdce? Dvě pumpují krev do žaber, jedno do těla.",
-        "image_prompt": "Chobotnice plavající v korálovém útesu, ukazující své hebké tělo, s třemi jasně viditelnými srdci."
+        "text": "Věděli jste, že chobotnice mají tři srdce? Dvě pumpují krev do žaber, jedno do těla.",
+        "image_prompt": "animace chobotnice s vyznačenými srdci, která pulzují, jak plave pod vodou."
       },
       {
-        "text": "A co kočky? Odhaduje se, že vyprodukují až 100 různých zvuků!",
-        "image_prompt": "Roztomilá kočka sedící na okně, s velkýma očima a otevřenou tlamou, jako by něco mňoukala."
+        "text": "A co medúzy? Některé druhy jsou prakticky nesmrtelné!",
+        "image_prompt": "medúza plovoucí v temném moři, s jemnými světelnými efekty kolem ní."
       },
       {
-        "text": "A nakonec, delfíni se dorozumívají svými vlastními jmény!",
-        "image_prompt": "Skupina delfínů skákajících nad hladinou oceánu, s vodními krůpějemi, které stříkají kolem."
+        "text": "Ptáci dokážou slyšet vlny těsně předtím, než udeří blesk! Jak je to možné?",
+        "image_prompt": "pták sedící na větvi, v pozadí se blýská a je slyšet vzdálený hrom."
       },
       {
-        "text": "Jaké další zvířecí tajemství nás čekají? Sledujte naše videa pro víc!",
-        "image_prompt": "Zajímavé zvířecí tváře pohromadě, jakoby se na diváka dívaly s očekáváním, s matným pozadím."
+        "text": "A nakonec! Včely tancují, aby sdělily ostatním do kterých květin mají létat!",
+        "image_prompt": "včela tančící na květu před blýskavým slunečním svitem."
       }
     ]
   }
