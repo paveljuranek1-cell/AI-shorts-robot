@@ -1,31 +1,31 @@
 [
   {
-    "title": "Šokující fakta o zvířatech, která vás ohromí!",
-    "hook": "Víte, že někteří žraloci mohou žít až 400 let?",
+    "title": "Tajemství vesmíru: Co skrývá naše galaxie?",
+    "hook": "Věděli jste, že ve vesmíru existuje více hvězd než zrn písku na všech plážích Země?",
     "scenes": [
       {
-        "text": "Představte si žraloka, který plaval po oceánech za časů, kdy existovali dinosauři!",
-        "image_prompt": "obrázek žraloka plavajícího v čisté modré vodě s dinosaurem na pozadí."
+        "text": "Představte si, že ve vesmíru máme neuvěřitelných 100 miliard galaxií!",
+        "image_prompt": "Pohled z vesmíru na nespočet galaxií, každá s jasně viditelnými hvězdami v jedinečných tvarech."
       },
       {
-        "text": "A co takový slon? Může cítit vibrace z 8 km vzdálenosti!",
-        "image_prompt": "slon stojící na louce, ucho napjaté, hluboké vibrace viditelné jako vlny v zemi."
+        "text": "A nyní si představte, že každá galaxie obsahuje miliardy hvězd.",
+        "image_prompt": "Detailní záběr na jednu galaxii s mnoha hvězdami, obklopenou barevnými mlhovinami."
       },
       {
-        "text": "Věděli jste, že chobotnice mají tři srdce? Dvě pumpují krev do žaber, jedno do těla.",
-        "image_prompt": "animace chobotnice s vyznačenými srdci, která pulzují, jak plave pod vodou."
+        "text": "Takže počet hvězd dosahuje ohromujícího čísla: přibližně 1 sextilion!",
+        "image_prompt": "Animace, která zobrazuje číslo 1 sextilion, zatímco se hvězdy na pozadí třpytí."
       },
       {
-        "text": "A co medúzy? Některé druhy jsou prakticky nesmrtelné!",
-        "image_prompt": "medúza plovoucí v temném moři, s jemnými světelnými efekty kolem ní."
+        "text": "Co to znamená pro nás? Možná existuje další planetární život!",
+        "image_prompt": "Zelená planeta obklopená hvězdami, s jemnými světelnými efekty pro zdůraznění atmosféry."
       },
       {
-        "text": "Ptáci dokážou slyšet vlny těsně předtím, než udeří blesk! Jak je to možné?",
-        "image_prompt": "pták sedící na větvi, v pozadí se blýská a je slyšet vzdálený hrom."
+        "text": "A tady je šokující fakt: Nikdy jsme neviděli 95% vesmíru!",
+        "image_prompt": "Obraz temného vesmíru s vyznačenými oblastmi, které zůstávají skryté, obklopené zářícími hvězdami."
       },
       {
-        "text": "A nakonec! Včely tancují, aby sdělily ostatním do kterých květin mají létat!",
-        "image_prompt": "včela tančící na květu před blýskavým slunečním svitem."
+        "text": "Tak co myslíte? Můžeme být ve vesmíru sami?",
+        "image_prompt": "Člověk hledící na noční oblohu, přemýšlející o vesmíru, se slabým osvětlením dalekohledu v pozadí."
       }
     ]
   }
