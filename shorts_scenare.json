@@ -1,31 +1,31 @@
 [
   {
-    "title": "Tajemství vesmíru: Co skrývá naše galaxie?",
-    "hook": "Věděli jste, že ve vesmíru existuje více hvězd než zrn písku na všech plážích Země?",
+    "title": "Neuvěřitelné tajemství vesmíru, které vás ohromí!",
+    "hook": "Věděli jste, že ve vesmíru je více hvězd než všech zrnek písku na Zemi?",
     "scenes": [
       {
-        "text": "Představte si, že ve vesmíru máme neuvěřitelných 100 miliard galaxií!",
-        "image_prompt": "Pohled z vesmíru na nespočet galaxií, každá s jasně viditelnými hvězdami v jedinečných tvarech."
+        "text": "V této krátké sekvenci se ponoříme do fascinujícího světa vesmíru.",
+        "image_prompt": "Rozlehlý vesmír plný jasných hvězd, s galaxií v pozadí, barevné a dynamické."
       },
       {
-        "text": "A nyní si představte, že každá galaxie obsahuje miliardy hvězd.",
-        "image_prompt": "Detailní záběr na jednu galaxii s mnoha hvězdami, obklopenou barevnými mlhovinami."
+        "text": "Podle vědců je ve vesmíru více než 200 miliard galaxií.",
+        "image_prompt": "Vizualizace různých galaxií s odstíny modré, fialové a červené, s dynamickým pohybem."
       },
       {
-        "text": "Takže počet hvězd dosahuje ohromujícího čísla: přibližně 1 sextilion!",
-        "image_prompt": "Animace, která zobrazuje číslo 1 sextilion, zatímco se hvězdy na pozadí třpytí."
+        "text": "A to znamená, že existuje více hvězd než všech zrnek písku na všech plážích světa!",
+        "image_prompt": "Blízký záběr na písečné pláže, přičemž zrnká písku se postupně mění na zářící hvězdy."
       },
       {
-        "text": "Co to znamená pro nás? Možná existuje další planetární život!",
-        "image_prompt": "Zelená planeta obklopená hvězdami, s jemnými světelnými efekty pro zdůraznění atmosféry."
+        "text": "Ale co když už jsme našli důkaz o inteligentním životě jinde?",
+        "image_prompt": "Záběry z teleskopů a objevů dalších planet s atmosférou, vzrušující a napínavé."
       },
       {
-        "text": "A tady je šokující fakt: Nikdy jsme neviděli 95% vesmíru!",
-        "image_prompt": "Obraz temného vesmíru s vyznačenými oblastmi, které zůstávají skryté, obklopené zářícími hvězdami."
+        "text": "Některé signály z vesmíru, které jsme zachytili, stále zůstávají nevysvětlené.",
+        "image_prompt": "Animace radiačních signálů ze vzdáleného vesmíru, blikající obrazovka s krávou a šumem."
       },
       {
-        "text": "Tak co myslíte? Můžeme být ve vesmíru sami?",
-        "image_prompt": "Člověk hledící na noční oblohu, přemýšlející o vesmíru, se slabým osvětlením dalekohledu v pozadí."
+        "text": "Jsme tedy skutečně sami ve vesmíru? Nebo je tam něco víc?",
+        "image_prompt": "Záběr na astronauta v hlubokém vesmíru, který se dívá na hvězdnou oblohu, s náladou tajemství."
       }
     ]
   }
