@@ -1,31 +1,31 @@
 [
   {
-    "title": "Neuvěřitelné tajemství vesmíru, které vás ohromí!",
-    "hook": "Věděli jste, že ve vesmíru je více hvězd než všech zrnek písku na Zemi?",
+    "title": "Nejzáhadnější zvířata na planetě",
+    "hook": "Věděli jste, že na Zemi žijí tvory, kteří by vás šokovali?",
     "scenes": [
       {
-        "text": "V této krátké sekvenci se ponoříme do fascinujícího světa vesmíru.",
-        "image_prompt": "Rozlehlý vesmír plný jasných hvězd, s galaxií v pozadí, barevné a dynamické."
+        "text": "Začněme s axolotlem – dokáže regenerovat celé části těla!",
+        "image_prompt": "Detailní záběr axolotla ve vodě, s jasnými barvami a elegantními ploutvemi, na pozadí krásně osvětleného akvária."
       },
       {
-        "text": "Podle vědců je ve vesmíru více než 200 miliard galaxií.",
-        "image_prompt": "Vizualizace různých galaxií s odstíny modré, fialové a červené, s dynamickým pohybem."
+        "text": "A co takový tardigrad, známý také jako medvídek? Přežije i ve vesmíru!",
+        "image_prompt": "Mikroskopický záběr tardigrada, krásně osvětlený a realisticky zobrazený, jak se pohybuje ve vlhkém prostředí."
       },
       {
-        "text": "A to znamená, že existuje více hvězd než všech zrnek písku na všech plážích světa!",
-        "image_prompt": "Blízký záběr na písečné pláže, přičemž zrnká písku se postupně mění na zářící hvězdy."
+        "text": "Dále máme neuvěřitelného chobotnici – ta má tři srdce a modrou krev!",
+        "image_prompt": "Živý záběr chobotnice plavající mezi korály, s barevnými detaily na svém těle a nádherným okolím."
       },
       {
-        "text": "Ale co když už jsme našli důkaz o inteligentním životě jinde?",
-        "image_prompt": "Záběry z teleskopů a objevů dalších planet s atmosférou, vzrušující a napínavé."
+        "text": "Narwhal, 'mořský jednorožec', má dlouhý kly, který je ve skutečnosti zub!",
+        "image_prompt": "Záběr narwhala plavajícího v arktických vodách, s majestátním rohem vykukujícím z vody."
       },
       {
-        "text": "Některé signály z vesmíru, které jsme zachytili, stále zůstávají nevysvětlené.",
-        "image_prompt": "Animace radiačních signálů ze vzdáleného vesmíru, blikající obrazovka s krávou a šumem."
+        "text": "A nakonec, oarfish, nejdelší ryba světa, která může měřit až 11 metrů!",
+        "image_prompt": "Záběr oarfishe plavajícího v hlubokém oceánu, se svým štíhlým tělem a lesklými šupinami odrážejícími světlo."
       },
       {
-        "text": "Jsme tedy skutečně sami ve vesmíru? Nebo je tam něco víc?",
-        "image_prompt": "Záběr na astronauta v hlubokém vesmíru, který se dívá na hvězdnou oblohu, s náladou tajemství."
+        "text": "Tyto zvířata nám ukazují, jak zvláštní a rozmanitý je náš svět!",
+        "image_prompt": "Koláž několika zmíněných zvířat v přírodním prostředí, která symbolizuje biodiverzitu a krásu přírody."
       }
     ]
   }
