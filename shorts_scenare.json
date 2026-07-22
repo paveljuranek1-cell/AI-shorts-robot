@@ -1,31 +1,31 @@
 [
   {
-    "title": "Nejzáhadnější zvířata na planetě",
-    "hook": "Věděli jste, že na Zemi žijí tvory, kteří by vás šokovali?",
+    "title": "Neuvěřitelné tajemství oceánů!",
+    "hook": "Víte, kolik tajemství skrývá oceán?",
     "scenes": [
       {
-        "text": "Začněme s axolotlem – dokáže regenerovat celé části těla!",
-        "image_prompt": "Detailní záběr axolotla ve vodě, s jasnými barvami a elegantními ploutvemi, na pozadí krásně osvětleného akvária."
+        "text": "Oceány pokrývají více než 70% naší planety, ale jen malé procento z nich bylo prozkoumáno.",
+        "image_prompt": "široký záběr na modrou hlubokou vodu oceánu pod slunečním světlem, s viditelnými rybami a korály"
       },
       {
-        "text": "A co takový tardigrad, známý také jako medvídek? Přežije i ve vesmíru!",
-        "image_prompt": "Mikroskopický záběr tardigrada, krásně osvětlený a realisticky zobrazený, jak se pohybuje ve vlhkém prostředí."
+        "text": "Pod hladinou se nachází více než 230 000 známých druhů, a každý rok se objevují nové!",
+        "image_prompt": "barevné ryby plavající mezi pestrými korály, s potápěčem v pozadí"
       },
       {
-        "text": "Dále máme neuvěřitelného chobotnici – ta má tři srdce a modrou krev!",
-        "image_prompt": "Živý záběr chobotnice plavající mezi korály, s barevnými detaily na svém těle a nádherným okolím."
+        "text": "Zajímá vás, co se skrývá v nejhlubších částech oceánu? Tam žijí tvory, které nikdy nikdo neviděl!",
+        "image_prompt": "temná hloubka oceánu, s podivnými, fosforeskujícími tvory plavajícími ve tmě"
       },
       {
-        "text": "Narwhal, 'mořský jednorožec', má dlouhý kly, který je ve skutečnosti zub!",
-        "image_prompt": "Záběr narwhala plavajícího v arktických vodách, s majestátním rohem vykukujícím z vody."
+        "text": "Jedním z nejzajímavějších tvorů je obrovský chobotnice, která dokáže měnit barvy a texturu své pleti!",
+        "image_prompt": "záběr na chobotnici, která mění barvy na mořském dně s korály a kamením"
       },
       {
-        "text": "A nakonec, oarfish, nejdelší ryba světa, která může měřit až 11 metrů!",
-        "image_prompt": "Záběr oarfishe plavajícího v hlubokém oceánu, se svým štíhlým tělem a lesklými šupinami odrážejícími světlo."
+        "text": "Oceány jsou také domovem pro obrovské podvodní sopky, které mohou být až tři krát větší než ty na souši!",
+        "image_prompt": "krásný pohled na podvodní sopku vybuchující pod vodou, s okolo ní plujícími rybami"
       },
       {
-        "text": "Tyto zvířata nám ukazují, jak zvláštní a rozmanitý je náš svět!",
-        "image_prompt": "Koláž několika zmíněných zvířat v přírodním prostředí, která symbolizuje biodiverzitu a krásu přírody."
+        "text": "Tak co, chtěli byste se vypravit na cestu za objevováním těchto tajemství oceánu?",
+        "image_prompt": "vrcholová scéna s potápěčem, který se směje, zatímco se dívá na podvodní svět plný života a barev"
       }
     ]
   }
