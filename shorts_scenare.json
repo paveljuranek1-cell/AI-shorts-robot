@@ -1,31 +1,31 @@
 [
   {
-    "title": "Neuvěřitelné tajemství oceánů!",
-    "hook": "Víte, kolik tajemství skrývá oceán?",
+    "title": "Neuvěřitelné tajemství vesmíru!",
+    "hook": "Co kdybych vám řekl, že vesmír má tajemství, o kterých nemáte ani tušení?",
     "scenes": [
       {
-        "text": "Oceány pokrývají více než 70% naší planety, ale jen malé procento z nich bylo prozkoumáno.",
-        "image_prompt": "široký záběr na modrou hlubokou vodu oceánu pod slunečním světlem, s viditelnými rybami a korály"
+        "text": "Představte si, že se ve vesmíru nachází více galaxií než je hvězd v naší! Je to šokující, ale pravdivé.",
+        "image_prompt": "Krásný pohled na vesmír se spoustou galaxií, hvězd a barevnými nebulami, vytvořeno s efektem rozostření."
       },
       {
-        "text": "Pod hladinou se nachází více než 230 000 známých druhů, a každý rok se objevují nové!",
-        "image_prompt": "barevné ryby plavající mezi pestrými korály, s potápěčem v pozadí"
+        "text": "Jedna z těchto galaxií, zvaná GN-z11, je tak daleko, že její světlo k nám putovalo více než 13 miliard let!",
+        "image_prompt": "Zobrazení vzdálené galaxie GN-z11 s jasně viditelnými hvězdami a spirálními rameny, s animací pohybu světla."
       },
       {
-        "text": "Zajímá vás, co se skrývá v nejhlubších částech oceánu? Tam žijí tvory, které nikdy nikdo neviděl!",
-        "image_prompt": "temná hloubka oceánu, s podivnými, fosforeskujícími tvory plavajícími ve tmě"
+        "text": "A teď si představte, že vesmír neustále expanduje! Co to pro nás znamená?",
+        "image_prompt": "Animace rozšiřujícího se vesmíru s různými galaxiemi, jak se vzdalují od sebe v dynamickém pohybu."
       },
       {
-        "text": "Jedním z nejzajímavějších tvorů je obrovský chobotnice, která dokáže měnit barvy a texturu své pleti!",
-        "image_prompt": "záběr na chobotnici, která mění barvy na mořském dně s korály a kamením"
+        "text": "Zřejmě je tu i temná hmota! Představuje více než 25% celkového vesmíru a my nevíme, co to vlastně je.",
+        "image_prompt": "Ilustrace temné hmoty obklopující hvězdy a galaxie, jakoby absorbující světlo, s dramatickým jasem pozadí."
       },
       {
-        "text": "Oceány jsou také domovem pro obrovské podvodní sopky, které mohou být až tři krát větší než ty na souši!",
-        "image_prompt": "krásný pohled na podvodní sopku vybuchující pod vodou, s okolo ní plujícími rybami"
+        "text": "A nakonec, co kdybych vám řekl, že existují planety, kde může pršet skleněné kuličky? To zní jako sci-fi, že?",
+        "image_prompt": "Futuristický pohled na planetu s bouřemi, kde místo deště padají skleněné kuličky z oblohy, s jasnými barvami."
       },
       {
-        "text": "Tak co, chtěli byste se vypravit na cestu za objevováním těchto tajemství oceánu?",
-        "image_prompt": "vrcholová scéna s potápěčem, který se směje, zatímco se dívá na podvodní svět plný života a barev"
+        "text": "Toto jsou jen některé z úžasných tajemství vesmíru. Kde se toulají vaše sny? Vědci stále objevují nová!",
+        "image_prompt": "Mladý vědec s teleskopem, dívající se na hvězdy s nadšením, s pozadím plným hvězd a nebula."
       }
     ]
   }
