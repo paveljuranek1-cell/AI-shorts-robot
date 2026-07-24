@@ -1,31 +1,31 @@
 [
   {
-    "title": "Neuvěřitelné tajemství vesmíru!",
-    "hook": "Co kdybych vám řekl, že vesmír má tajemství, o kterých nemáte ani tušení?",
+    "title": "Neuvěřitelné tajemství zvířat!",
+    "hook": "Myslíte si, že znáte všechna tajemství zvířat? Počkajte, tohle vás šokuje!",
     "scenes": [
       {
-        "text": "Představte si, že se ve vesmíru nachází více galaxií než je hvězd v naší! Je to šokující, ale pravdivé.",
-        "image_prompt": "Krásný pohled na vesmír se spoustou galaxií, hvězd a barevnými nebulami, vytvořeno s efektem rozostření."
+        "text": "Naši kočičí přátelé jsou schopní slyšet zvuky až o 100 kHz! To je o 50 kHz více než my!",
+        "image_prompt": "Detailní záběr na usmívající se kočku s výrazem zvědavosti, v pozadí rozmazaná zvuková vlna."
       },
       {
-        "text": "Jedna z těchto galaxií, zvaná GN-z11, je tak daleko, že její světlo k nám putovalo více než 13 miliard let!",
-        "image_prompt": "Zobrazení vzdálené galaxie GN-z11 s jasně viditelnými hvězdami a spirálními rameny, s animací pohybu světla."
+        "text": "Delfíni mají své vlastní dialekty, které se liší mezi skupinami!",
+        "image_prompt": "Skupina delfínů skáče nad hladinou modrého oceánu, se vzduchovými bublinami kolem."
       },
       {
-        "text": "A teď si představte, že vesmír neustále expanduje! Co to pro nás znamená?",
-        "image_prompt": "Animace rozšiřujícího se vesmíru s různými galaxiemi, jak se vzdalují od sebe v dynamickém pohybu."
+        "text": "Včely dokážou rozpoznat tváře lidí! Jak to vůbec dělají?",
+        "image_prompt": "Detailní záběr na včelu sedící na květu, v pozadí rozmazané tváře lidí."
       },
       {
-        "text": "Zřejmě je tu i temná hmota! Představuje více než 25% celkového vesmíru a my nevíme, co to vlastně je.",
-        "image_prompt": "Ilustrace temné hmoty obklopující hvězdy a galaxie, jakoby absorbující světlo, s dramatickým jasem pozadí."
+        "text": "Sloni mají skvělou paměť. Pamatovat si dokážou desítky let staré události!",
+        "image_prompt": "Záběr na velkého slona, který se opírá o starý strom, s melancholickým pohledem."
       },
       {
-        "text": "A nakonec, co kdybych vám řekl, že existují planety, kde může pršet skleněné kuličky? To zní jako sci-fi, že?",
-        "image_prompt": "Futuristický pohled na planetu s bouřemi, kde místo deště padají skleněné kuličky z oblohy, s jasnými barvami."
+        "text": "Zebry mají jedinečné pruhy stejně jako otisky prstů. Každá zebra je originál!",
+        "image_prompt": "Zebry běhající v savaně, s dramatickým západem slunce v pozadí."
       },
       {
-        "text": "Toto jsou jen některé z úžasných tajemství vesmíru. Kde se toulají vaše sny? Vědci stále objevují nová!",
-        "image_prompt": "Mladý vědec s teleskopem, dívající se na hvězdy s nadšením, s pozadím plným hvězd a nebula."
+        "text": "A nakonec - chobotnice mají tři srdce! Až přemýšlíte, jak jsou rychlé, teď víte proč!",
+        "image_prompt": "Barevná chobotnice plavající mezi korály, s dramatickým osvětlením, které zdůrazňuje její texturu."
       }
     ]
   }
