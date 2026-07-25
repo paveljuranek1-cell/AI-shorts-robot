@@ -1,31 +1,31 @@
 [
   {
-    "title": "Neuvěřitelné tajemství zvířat!",
-    "hook": "Myslíte si, že znáte všechna tajemství zvířat? Počkajte, tohle vás šokuje!",
+    "title": "10 šokujících faktů o vesmíru, které vás ohromí!",
+    "hook": "Co byste řekli, kdybyste se dozvěděli, že vesmír je plný tajemství?",
     "scenes": [
       {
-        "text": "Naši kočičí přátelé jsou schopní slyšet zvuky až o 100 kHz! To je o 50 kHz více než my!",
-        "image_prompt": "Detailní záběr na usmívající se kočku s výrazem zvědavosti, v pozadí rozmazaná zvuková vlna."
+        "text": "Věděli jste, že existuje víc hvězd než zrnek písku na všech plážích Země?",
+        "image_prompt": "Nádherný pohled na noční oblohu plnou hvězd, zdůrazněné galaxií v pozadí."
       },
       {
-        "text": "Delfíni mají své vlastní dialekty, které se liší mezi skupinami!",
-        "image_prompt": "Skupina delfínů skáče nad hladinou modrého oceánu, se vzduchovými bublinami kolem."
+        "text": "Blesky na Jupiteru jsou 10krát silnější než na Zemi!",
+        "image_prompt": "Dramatická animace blesků, které zasahují obří planetu Jupiter, s dramatickým pozadím."
       },
       {
-        "text": "Včely dokážou rozpoznat tváře lidí! Jak to vůbec dělají?",
-        "image_prompt": "Detailní záběr na včelu sedící na květu, v pozadí rozmazané tváře lidí."
+        "text": "Na Marsu svítí modré slunce během západu!",
+        "image_prompt": "Západ slunce na Marsu, modré světlo osvětluje červenou krajinu."
       },
       {
-        "text": "Sloni mají skvělou paměť. Pamatovat si dokážou desítky let staré události!",
-        "image_prompt": "Záběr na velkého slona, který se opírá o starý strom, s melancholickým pohledem."
+        "text": "Ve vesmíru nezní žádný zvuk, protože tam není vzduch!",
+        "image_prompt": "Obrázek prázdného vesmíru s anomálními objekty, které se pohybují bez zvuku."
       },
       {
-        "text": "Zebry mají jedinečné pruhy stejně jako otisky prstů. Každá zebra je originál!",
-        "image_prompt": "Zebry běhající v savaně, s dramatickým západem slunce v pozadí."
+        "text": "Největší známý diamant ve vesmíru je hvězda jménem BPM 37093, také známá jako 'Lucy'!",
+        "image_prompt": "Ilustrace diamantové hvězdy 'Lucy' zářící v temném vesmíru."
       },
       {
-        "text": "A nakonec - chobotnice mají tři srdce! Až přemýšlíte, jak jsou rychlé, teď víte proč!",
-        "image_prompt": "Barevná chobotnice plavající mezi korály, s dramatickým osvětlením, které zdůrazňuje její texturu."
+        "text": "A nakonec, vesmír se neustále rozpíná a stále roste!",
+        "image_prompt": "Grafické znázornění expanze vesmíru s galaxiemi vzdálícími se od sebe."
       }
     ]
   }
