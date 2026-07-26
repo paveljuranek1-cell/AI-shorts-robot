@@ -1,31 +1,31 @@
 [
   {
-    "title": "10 šokujících faktů o vesmíru, které vás ohromí!",
-    "hook": "Co byste řekli, kdybyste se dozvěděli, že vesmír je plný tajemství?",
+    "title": "Šokující fakta o zvířatech!",
+    "hook": "Věděli jste, že sloni umí plakat?",
     "scenes": [
       {
-        "text": "Věděli jste, že existuje víc hvězd než zrnek písku na všech plážích Země?",
-        "image_prompt": "Nádherný pohled na noční oblohu plnou hvězd, zdůrazněné galaxií v pozadí."
+        "text": "Sloni nejsou jen velcí, ale také citliví. Dokonce projevují emoce jako lidé!",
+        "image_prompt": "Detaily slona s pláčem v očích, slámy a listí kolem něj, krásná příroda"
       },
       {
-        "text": "Blesky na Jupiteru jsou 10krát silnější než na Zemi!",
-        "image_prompt": "Dramatická animace blesků, které zasahují obří planetu Jupiter, s dramatickým pozadím."
+        "text": "A co kočky? Ty umí zvláštním způsobem komunikovat s lidmi!",
+        "image_prompt": "Kočka sedící na parapetu a tiše mňoukající, kolem ní květy a slunce"
       },
       {
-        "text": "Na Marsu svítí modré slunce během západu!",
-        "image_prompt": "Západ slunce na Marsu, modré světlo osvětluje červenou krajinu."
+        "text": "Víte, že chobotnice mají tři srdce a modrou krev? To je prostě šílené!",
+        "image_prompt": "Chobotnice plovoucí v oceánu, její modrá krev viditelná v transparentní vodě"
       },
       {
-        "text": "Ve vesmíru nezní žádný zvuk, protože tam není vzduch!",
-        "image_prompt": "Obrázek prázdného vesmíru s anomálními objekty, které se pohybují bez zvuku."
+        "text": "Papoušci umí napodobovat lidský hlas, ale dělají to pro zábavu?",
+        "image_prompt": "Barevný papoušek na rameni člověka, vyjadřující se k ostatním lidem"
       },
       {
-        "text": "Největší známý diamant ve vesmíru je hvězda jménem BPM 37093, také známá jako 'Lucy'!",
-        "image_prompt": "Ilustrace diamantové hvězdy 'Lucy' zářící v temném vesmíru."
+        "text": "A nakonec, včely dokáží rozpoznat tváře! Jaké úžasné malé inženýrky!",
+        "image_prompt": "Včela na květu, detailní záběr na její tvář blízkého pohledu"
       },
       {
-        "text": "A nakonec, vesmír se neustále rozpíná a stále roste!",
-        "image_prompt": "Grafické znázornění expanze vesmíru s galaxiemi vzdálícími se od sebe."
+        "text": "Svět zvířat je opravdu fascinující a plný překvapení. Co vás nejvíce zaujalo?",
+        "image_prompt": "Různá zvířata v přírodě, pestrá scénka, umožňující divákovi vidět rozmanitost"
       }
     ]
   }
