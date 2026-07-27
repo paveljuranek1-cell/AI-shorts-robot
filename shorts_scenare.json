@@ -1,31 +1,31 @@
 [
   {
-    "title": "Šokující fakta o zvířatech!",
-    "hook": "Věděli jste, že sloni umí plakat?",
+    "title": "Šokující fakta o vesmíru, která vás ohromí!",
+    "hook": "Věděli jste, že ve vesmíru je něco, co váží víc než celá naše Země?",
     "scenes": [
       {
-        "text": "Sloni nejsou jen velcí, ale také citliví. Dokonce projevují emoce jako lidé!",
-        "image_prompt": "Detaily slona s pláčem v očích, slámy a listí kolem něj, krásná příroda"
+        "text": "Ve vesmíru existují supertěžké hvězdy, které se nazývají neutronové hvězdy.",
+        "image_prompt": "Detailní pohled na neutronovou hvězdu s jasnými modro-bílými barvami a spirály v pozadí, které znázorňují gravitační pole."
       },
       {
-        "text": "A co kočky? Ty umí zvláštním způsobem komunikovat s lidmi!",
-        "image_prompt": "Kočka sedící na parapetu a tiše mňoukající, kolem ní květy a slunce"
+        "text": "Tyto hvězdy mají hmotnost větší než naše Slunce, ale jsou přitom menší než město.",
+        "image_prompt": "Porovnání velikosti neutronové hvězdy s běžným městem, hvězda je znázorněna jako malá kulatá koule se silným gravitačním polem."
       },
       {
-        "text": "Víte, že chobotnice mají tři srdce a modrou krev? To je prostě šílené!",
-        "image_prompt": "Chobotnice plovoucí v oceánu, její modrá krev viditelná v transparentní vodě"
+        "text": "Zajímavostí je, že jedna čajová lžička materiálu z takové hvězdy by vážila přes 6 miliard tun!",
+        "image_prompt": "Čajová lžička plná těžkého materiálu na pozadí vesmíru s hvězdami a galaxií."
       },
       {
-        "text": "Papoušci umí napodobovat lidský hlas, ale dělají to pro zábavu?",
-        "image_prompt": "Barevný papoušek na rameni člověka, vyjadřující se k ostatním lidem"
+        "text": "Vědcům stále není jasné, co se stane, když neutronová hvězda začne ztrácet hmotnost.",
+        "image_prompt": "Záběr vědců v laboratoři, jak zkoumají model neutronové hvězdy se živými data na obrazovkách."
       },
       {
-        "text": "A nakonec, včely dokáží rozpoznat tváře! Jaké úžasné malé inženýrky!",
-        "image_prompt": "Včela na květu, detailní záběr na její tvář blízkého pohledu"
+        "text": "Je také fascinující, že vesmír se neustále rozpíná a jeho hranice se neustále posouvají.",
+        "image_prompt": "Animace zvětšující se vesmírné scény s galaxiemi, které se od sebe vzdaluju, ukazující nekonečný prostor."
       },
       {
-        "text": "Svět zvířat je opravdu fascinující a plný překvapení. Co vás nejvíce zaujalo?",
-        "image_prompt": "Různá zvířata v přírodě, pestrá scénka, umožňující divákovi vidět rozmanitost"
+        "text": "Kde končí náš vesmír? To je otázka, která nás stále provází.",
+        "image_prompt": "Pohled na nekonečný vesmír s jasnými hvězdami a tajemnou nebulou, vyzařující mystickou atmosféru."
       }
     ]
   }
