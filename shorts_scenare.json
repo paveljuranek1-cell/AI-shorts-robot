@@ -1,31 +1,31 @@
 [
   {
-    "title": "Šokující fakta o vesmíru, která vás ohromí!",
-    "hook": "Věděli jste, že ve vesmíru je něco, co váží víc než celá naše Země?",
+    "title": "5 šokujících faktů o zvířatech, které vás překvapí!",
+    "hook": "Už jste slyšeli, že krab může chodit pozpátku?",
     "scenes": [
       {
-        "text": "Ve vesmíru existují supertěžké hvězdy, které se nazývají neutronové hvězdy.",
-        "image_prompt": "Detailní pohled na neutronovou hvězdu s jasnými modro-bílými barvami a spirály v pozadí, které znázorňují gravitační pole."
+        "text": "Krabi skutečně chodí pozpátku! Ale proč?",
+        "image_prompt": "Záběr na kraba, který se pohybuje po pobřeží, jehož pohyb je pozpátku."
       },
       {
-        "text": "Tyto hvězdy mají hmotnost větší než naše Slunce, ale jsou přitom menší než město.",
-        "image_prompt": "Porovnání velikosti neutronové hvězdy s běžným městem, hvězda je znázorněna jako malá kulatá koule se silným gravitačním polem."
+        "text": "Věděli jste, že sloni umí plakat? A dokonce se smutní, když ztratí blízké?",
+        "image_prompt": "Záběr na slona, který se tváří smutně, obklopen dalšími slony v přírodní rezervaci."
       },
       {
-        "text": "Zajímavostí je, že jedna čajová lžička materiálu z takové hvězdy by vážila přes 6 miliard tun!",
-        "image_prompt": "Čajová lžička plná těžkého materiálu na pozadí vesmíru s hvězdami a galaxií."
+        "text": "Pokožka chameleona mění barvu nejen kvůli camufláži, ale i pro vyjádření emocí!",
+        "image_prompt": "Detailní záběr na chameleona, jehož barva se pomalu mění na jasnější odstíny."
       },
       {
-        "text": "Vědcům stále není jasné, co se stane, když neutronová hvězda začne ztrácet hmotnost.",
-        "image_prompt": "Záběr vědců v laboratoři, jak zkoumají model neutronové hvězdy se živými data na obrazovkách."
+        "text": "Kočky mají na svých tlapkách jemné polštářky, které tlumí zvuk jejich kroků.",
+        "image_prompt": "Záběr na kočku, jak tiše kráčí po dvorku, zaměřená na její tlapky."
       },
       {
-        "text": "Je také fascinující, že vesmír se neustále rozpíná a jeho hranice se neustále posouvají.",
-        "image_prompt": "Animace zvětšující se vesmírné scény s galaxiemi, které se od sebe vzdaluju, ukazující nekonečný prostor."
+        "text": "Žirafy spí jen asi 30 minut denně a většinou ve stoje!",
+        "image_prompt": "Záběr na žirafu, jak spí stojící přímo u stromu v savaně."
       },
       {
-        "text": "Kde končí náš vesmír? To je otázka, která nás stále provází.",
-        "image_prompt": "Pohled na nekonečný vesmír s jasnými hvězdami a tajemnou nebulou, vyzařující mystickou atmosféru."
+        "text": "A nakonec, sovičky dokážou otáčet hlavu až o 270 stupňů! To je úžasné, že?",
+        "image_prompt": "Záběr na sovu, která otáčí hlavou ve tmě, s měsícem v pozadí."
       }
     ]
   }
