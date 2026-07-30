@@ -1,31 +1,31 @@
 [
   {
-    "title": "Neuvěřitelné šokující fakta o zvířatech!",
-    "hook": "Víte, že existují zvířata, která vás šokují plnou vahou pravdy?",
+    "title": "Šokující fakta o vesmíru",
+    "hook": "Věděli jste, že v našem vesmíru je víc než 2 biliony galaxií?",
     "scenes": [
       {
-        "text": "Začneme s tučňáky! Věděli jste, že tučňáci mají svého vlastního 'manžela'?",
-        "image_prompt": "roztomilý tučňák objímající jiného tučňáka na ledové ploše, zasněžené pozadí"
+        "text": "Představte si, že každý bod na noční obloze může být galaxií, ve které existují miliardy hvězd.",
+        "image_prompt": "detailní noční obloha s miliony hvězd, na pozadí záblesky galaxií"
       },
       {
-        "text": "Nebo věděli jste, že chobotnice má tři srdce?",
-        "image_prompt": "chobotnice plavající v oceánu, srdce jasně viditelná v průhledném těle"
+        "text": "Některé galaxie se od nás vzdalují rychlostí až 2,2 milionu kilometrů za hodinu!",
+        "image_prompt": "grafika ilustrující vzdálenosti a rychlosti galaxie, s pohybujícími se šipkami"
       },
       {
-        "text": "A co krávy? Vědí, že na světě existují krávy, které jsou lepšími kamarády než mnozí lidé!",
-        "image_prompt": "usmívající se kráva s dalším spokojeným zvířetem, vidíme zelená pole a modrou oblohu"
+        "text": "A co víc, existují galaxie, které se nikdy nepodívají na naši Zemi svým světlem.",
+        "image_prompt": "animace galaxie skrývající se za obrovskými mraky prachu a plynu"
       },
       {
-        "text": "Co takhle kočky? Ty dokážou spát až 16 hodin denně!",
-        "image_prompt": "roztomilá kočka spící v křesle s měkkými polštáři, sluneční paprsky procházející oknem"
+        "text": "Ale co kdybych vám řekl, že ve vesmíru existují i černé díry, které pohlcují vše kolem sebe?",
+        "image_prompt": "ilustrace černé díry s efektem gravitačního tahu, v pozadí hvězdné pole"
       },
       {
-        "text": "A nakonec, víte, že vosy mohou poznat své přátele na obličeji?",
-        "image_prompt": "vosa detailně zobrazená na květu, zblízka pohled na její oči a strukturu těla"
+        "text": "Jedna z největších objevených černých děr je 66 miliardkrát těžší než naše Slunce!",
+        "image_prompt": "porovnání velikosti černé díry a Slunce, vizuál jako metriky"
       },
       {
-        "text": "S těmito fakty už nikdy nebudete na zvířata pohlížet stejně!",
-        "image_prompt": "kreativní koláž různých zvířat z celého světa v prosluněném parku, lidé se smějí a vychutnávají si přírodu"
+        "text": "Takže, když se podíváte na hvězdy, vzpomeňte si, že vesmír skrývá stále více šokujících tajemství.",
+        "image_prompt": "ráno na obloze, na obzoru srážející se planety, s mřížkou hvězd"
       }
     ]
   }
