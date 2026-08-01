@@ -1,31 +1,31 @@
 [
   {
-    "title": "5 šokujících faktů o zvířatech, které vás ohromí!",
-    "hook": "Věděli jste, že medúzy nemají mozek? To je jen začátek!",
+    "title": "Šokující fakta o zvířatech, která vás dostanou!",
+    "hook": "Tohle zvíře může přežít ve vakuu? Podívejte se na to!",
     "scenes": [
       {
-        "text": "Medúzy jsou fascinující bytosti bez mozku, srdce a kostí!",
-        "image_prompt": "barevné medúzy plovoucí v tyrkysových vodách, dramatické osvětlení, detaily jejich jemného těla"
+        "text": "Víte, že medúzy mohou být prakticky nesmrtelné?",
+        "image_prompt": "Krásný záběr na medúzu v průhledné vodě, světélkující v různých barvách."
       },
       {
-        "text": "Jeden z nejnebezpečnějších pavouků na světě, černá vdova, má jed, který je 15krát silnější než jed kobry!",
-        "image_prompt": "černá vdova na klidné větvi s dramatickým kontrastem, zaměření na její lesklé tělo a červenou skvrnu na břiše"
+        "text": "Neuvěříte, že nějaká zvířata dokážou spát až 20 hodin denně!",
+        "image_prompt": "Roztomilé lenochody visící na větvi, spící se zkroucenými tlapkami."
       },
       {
-        "text": "Zjistíte, že sloni se dokážou smát! Ano, mají dokonce své 'vtipy'!",
-        "image_prompt": "skupina slonů hrající si na savaně, jeden slon se 'směje' s ušima rozevřenými, jiní sloni kolem něho se tváří zvědavě"
+        "text": "Krávy mají nejlepší kamarády a když jsou odděleny, stresují!",
+        "image_prompt": "Šťastné krávy na zelené louce, které se navzájem olizují."
       },
       {
-        "text": "A víte, že chobotnice mají tři srdce? Dvě pumpují krev do žaber, jedno do zbytku těla!",
-        "image_prompt": "chobotnice plavající pod vodou, blízký záběr na její linie a textury, podivná atmosféra podmořské scenérie"
+        "text": "Korálové útesy jsou domovem více než 25 % všech druhů mořských živočichů!",
+        "image_prompt": "Barevný korálový útes s pestrými rybami plavajícími kolem korálů."
       },
       {
-        "text": "Na světě existuje ryba, která dokáže 'chrápat' jako člověk. Říká se jí 'chránící ryba'!",
-        "image_prompt": "barevná ryba na mořském dně, jak vypadá ležící, s malými bublinkami vycházejícími z úst, podvodní příroda kolem"
+        "text": "Octomilci mají tři srdce a modrou krev!",
+        "image_prompt": "Detailní záběr na octomilce v akváriu, ukazující jeho tvar a barvu."
       },
       {
-        "text": "A nakonec - některé druhy tučňáků se o novorozená mláďata dělí jako rodiče. Jsou to skutečné rodinné hodnoty!",
-        "image_prompt": "tučňáci stojící vedle sebe na ledovém povrchu, mláďata mezi nimi, vše se odehrává v malebném arktickém prostředí"
+        "text": "A nakonec, sloni si pamatují a navštěvují svá místa z mládí, i po letech!",
+        "image_prompt": "Skupina slonů v africké savaně, jak se schází ve známém místě."
       }
     ]
   }
