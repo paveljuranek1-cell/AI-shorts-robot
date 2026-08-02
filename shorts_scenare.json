@@ -1,31 +1,31 @@
 [
   {
-    "title": "Šokující fakta o zvířatech, která vás dostanou!",
-    "hook": "Tohle zvíře může přežít ve vakuu? Podívejte se na to!",
+    "title": "Šokující fakta o vesmíru, která vás ohromí!",
+    "hook": "Věděli jste, že ve vesmíru existuje více hvězd než všech zrnek písku na Zemi?",
     "scenes": [
       {
-        "text": "Víte, že medúzy mohou být prakticky nesmrtelné?",
-        "image_prompt": "Krásný záběr na medúzu v průhledné vodě, světélkující v různých barvách."
+        "text": "Vesmír je plný tajemství, ale toto fakta vám vyrazí dech!",
+        "image_prompt": "Pohled na překrásnou galaxii plnou jasných hvězd a barevných mlhovin."
       },
       {
-        "text": "Neuvěříte, že nějaká zvířata dokážou spát až 20 hodin denně!",
-        "image_prompt": "Roztomilé lenochody visící na větvi, spící se zkroucenými tlapkami."
+        "text": "Každý den se v našem vesmíru narodí téměř 2000 nových hvězd.",
+        "image_prompt": "Kreativní znázornění vzniku hvězd s jasným oslnivým světlem na pozadí."
       },
       {
-        "text": "Krávy mají nejlepší kamarády a když jsou odděleny, stresují!",
-        "image_prompt": "Šťastné krávy na zelené louce, které se navzájem olizují."
+        "text": "Existuje černá díra, která je 40 miliardkrát těžší než naše Slunce.",
+        "image_prompt": "Ilustrace obrovské černé díry s prstencem modré mlhoviny kolem ní."
       },
       {
-        "text": "Korálové útesy jsou domovem více než 25 % všech druhů mořských živočichů!",
-        "image_prompt": "Barevný korálový útes s pestrými rybami plavajícími kolem korálů."
+        "text": "Kdybychom mohli cestovat rychlostí světla, cesta k nejbližší hvězdě by trvala více než 4 roky.",
+        "image_prompt": "Animace představující rychlost světla, s efektem pohybu mezi hvězdami."
       },
       {
-        "text": "Octomilci mají tři srdce a modrou krev!",
-        "image_prompt": "Detailní záběr na octomilce v akváriu, ukazující jeho tvar a barvu."
+        "text": "A víte, že ve vesmíru existují 'pláče hvězd', které se 'pohádají' o svou energii?",
+        "image_prompt": "Animovaný GIF s rušným dynamickým scénářem hvězd kolidujících v akci."
       },
       {
-        "text": "A nakonec, sloni si pamatují a navštěvují svá místa z mládí, i po letech!",
-        "image_prompt": "Skupina slonů v africké savaně, jak se schází ve známém místě."
+        "text": "Tak co, ustojíte si tuto úžasnou krásu vesmíru? Sledujte pro více šokujících faktů!",
+        "image_prompt": "Úchvatný pohled na noční oblohu plnou hvězd a galaxií, s nádechem magie."
       }
     ]
   }
