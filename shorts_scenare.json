@@ -1,31 +1,31 @@
 [
   {
-    "title": "Šokující fakta o vesmíru, která vás ohromí!",
-    "hook": "Věděli jste, že ve vesmíru existuje více hvězd než všech zrnek písku na Zemi?",
+    "title": "Neuvěřitelné šokující fakta o vesmíru!",
+    "hook": "Věděl(a) jsi, že náš vesmír může být jen jedním z mnoha?",
     "scenes": [
       {
-        "text": "Vesmír je plný tajemství, ale toto fakta vám vyrazí dech!",
-        "image_prompt": "Pohled na překrásnou galaxii plnou jasných hvězd a barevných mlhovin."
+        "text": "Představ si, že vesmír je nekonečný. Co když existují miliony dalších vesmírů?",
+        "image_prompt": "Ohromující záběr na nekonečné hvězdné nebe s spirálovými galaxiemi a zářícími hvězdami."
       },
       {
-        "text": "Každý den se v našem vesmíru narodí téměř 2000 nových hvězd.",
-        "image_prompt": "Kreativní znázornění vzniku hvězd s jasným oslnivým světlem na pozadí."
+        "text": "Vědci odhadují, že 85% vesmíru tvoří temná hmota, kterou vůbec neznáme!",
+        "image_prompt": "Graficky stylizovaná ilustrace temné hmoty v kontrastu s viditelnými hvězdami a galaxiemi."
       },
       {
-        "text": "Existuje černá díra, která je 40 miliardkrát těžší než naše Slunce.",
-        "image_prompt": "Ilustrace obrovské černé díry s prstencem modré mlhoviny kolem ní."
+        "text": "Naše Slunce je jen průměrná hvězda. Dáváme mu až moc pozornosti! ",
+        "image_prompt": "Záběr na Slunce srovnávaného s obrovskými hvězdami v pozadí, jako je Betelgeuze."
       },
       {
-        "text": "Kdybychom mohli cestovat rychlostí světla, cesta k nejbližší hvězdě by trvala více než 4 roky.",
-        "image_prompt": "Animace představující rychlost světla, s efektem pohybu mezi hvězdami."
+        "text": "Existuje místo, kde je gravitace tak silná, že ani světlo nemůže uniknout – černé díry!",
+        "image_prompt": "Dramatická animace černé díry s točící se hmotou a zářícími hvězdami kolem."
       },
       {
-        "text": "A víte, že ve vesmíru existují 'pláče hvězd', které se 'pohádají' o svou energii?",
-        "image_prompt": "Animovaný GIF s rušným dynamickým scénářem hvězd kolidujících v akci."
+        "text": "Na Marsu zaznamenali vlny zvuku, které nemohou pocházet z vítr. Co to bude?",
+        "image_prompt": "Záběr na červenou planetu Mars s animací kmitání vzduchu kolem různých útvarů."
       },
       {
-        "text": "Tak co, ustojíte si tuto úžasnou krásu vesmíru? Sledujte pro více šokujících faktů!",
-        "image_prompt": "Úchvatný pohled na noční oblohu plnou hvězd a galaxií, s nádechem magie."
+        "text": "A nakonec, víš, že na Zemi jsme jako malí superhrdinové? Naše tělo dokáže přežít extrémní podmínky!",
+        "image_prompt": "Vizuálně ohromující animace lidského těla obklopeného extrémními podmínkami, jako jsou vysoké teploty a vakuum."
       }
     ]
   }
