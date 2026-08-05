@@ -1,31 +1,31 @@
 [
   {
-    "title": "Šokující fakta o zvířatech, která vás překvapí!",
-    "hook": "Věděli jste, že nejlepší počítačoví hráči se během hry mění na zvířata?",
+    "title": "Nejlepší šokující fakta o vesmíru!",
+    "hook": "Věděli jste, že ve vesmíru může pršet sklo?",
     "scenes": [
       {
-        "text": "Pojďme začít s faktem, o kterém jste možná nikdy neslyšeli!",
-        "image_prompt": "Záběr na vzrušený YouTuber, který sedí u stolu s mikrofonem, dynamické osvětlení a pozadí s obrázky zvířat."
+        "text": "Vítejte ve fascinujícím světě vesmíru, kde se dějí neuvěřitelné věci!",
+        "image_prompt": "rozsáhlý pohled na vesmír s tisíci hvězdami a barevnými mračny plynu"
       },
       {
-        "text": "Věděli jste, že včely mohou vidět ultrafialové světlo? To jim pomáhá najít květy!",
-        "image_prompt": "Detailní záběr na včelu sedící na květu, se zřetelně viditelným UV světlem a barevnými květinami v pozadí."
+        "text": "Představte si planetu HD 189733b, kde prší sklo v rychlosti 7 200 km/h!",
+        "image_prompt": "animace planetární atmosféry s padajícími skleněnými kapkami v jasně modré barvě"
       },
       {
-        "text": "A co prase? To je mnohem inteligentnější, než si většina lidí myslí!",
-        "image_prompt": "Záběr na prasata, jak hrají hru s dřevěnými bloky v malém výběhu, a radostně se pohybují."
+        "text": "A co takhle černé díry? Tyto obludy pohlcují vše, co se k nim přiblíží!",
+        "image_prompt": "dramatic black hole in space, surrounded by bright light and swirling matter"
       },
       {
-        "text": "Možná budete překvapeni, ale chobotnice mají tři srdce a modrou krev!",
-        "image_prompt": "Podvodní záběr na chobotnici s překrásně osvětlenými š tentacles, které plavou v moři."
+        "text": "Nebo věděli jste, že existují galaxie, které se pohybují rychlostí přes 1,3 milionu km/h?",
+        "image_prompt": "animace galaxie se svištícími hvězdami a barevnými spirálami"
       },
       {
-        "text": "A co teprve axolotl? Tento obojživelník dokáže regenerovat ztracené končetiny!",
-        "image_prompt": "Záběr na axolotla plovoucího v akváriu, jak se divně otáčí a jeho barevné žábry se pohybují."
+        "text": "A nakonec, vesmír je tak velký, že obsahuje více hvězd než všechno zrno písku na Zemi!",
+        "image_prompt": "detailní záběr na pláž s zrnky písku, přechod na obrovské množství hvězd na noční obloze"
       },
       {
-        "text": "Tak co říkáte? Zvířata opravdu skrývají tajemství, která nás překvapují!",
-        "image_prompt": "Záběr na nadšeného diváka sledujícího video na telefonu, široký úsměv a pozadí se zvířecími motivy."
+        "text": "A přesto, že je vesmír tak velký, stále zůstává plný tajemství, která ještě čekají na odhalení!",
+        "image_prompt": "pohled na nekonečný vesmír s otázkami a záhadnými symboly plovoucími ve tmě"
       }
     ]
   }
