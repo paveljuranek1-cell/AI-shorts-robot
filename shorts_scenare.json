@@ -1,31 +1,31 @@
 [
   {
-    "title": "Nejlepší šokující fakta o vesmíru!",
-    "hook": "Věděli jste, že ve vesmíru může pršet sklo?",
+    "title": "Největší tajemství vesmíru, které nám stále uniká!",
+    "hook": "Co kdybych vám řekl, že vesmír skrývá tajemství, které může změnit vše?",
     "scenes": [
       {
-        "text": "Vítejte ve fascinujícím světě vesmíru, kde se dějí neuvěřitelné věci!",
-        "image_prompt": "rozsáhlý pohled na vesmír s tisíci hvězdami a barevnými mračny plynu"
+        "text": "Vesmír je obrovský a plný záhad. Ale existuje jedno tajemství, které nás fascinuje už celé generace.",
+        "image_prompt": "Obrázek nekonečného vesmíru s hvězdami a galaxiemi, detailní záběr"
       },
       {
-        "text": "Představte si planetu HD 189733b, kde prší sklo v rychlosti 7 200 km/h!",
-        "image_prompt": "animace planetární atmosféry s padajícími skleněnými kapkami v jasně modré barvě"
+        "text": "Víte, že víc než 90% vesmíru je neviditelné? Říká se tomu temná hmota a temná energie!",
+        "image_prompt": "Grafické znázornění temné hmoty a energie v propletených galaxiích"
       },
       {
-        "text": "A co takhle černé díry? Tyto obludy pohlcují vše, co se k nim přiblíží!",
-        "image_prompt": "dramatic black hole in space, surrounded by bright light and swirling matter"
+        "text": "Ale co přesně to znamená pro nás? Odborníci stále bojují s tím, jak tuto záhadu rozluštit.",
+        "image_prompt": "Vědec v laboratoři u tabule, plné vzorců a diagramů, zamyšlený výraz"
       },
       {
-        "text": "Nebo věděli jste, že existují galaxie, které se pohybují rychlostí přes 1,3 milionu km/h?",
-        "image_prompt": "animace galaxie se svištícími hvězdami a barevnými spirálami"
+        "text": "Někteří věří, že bez temné hmoty by se galaxie vůbec nemohly udržet pohromadě.",
+        "image_prompt": "Animace galaxie, kde se hvězdy a planety pohybují furt a vytvářejí dynamickou scenérii"
       },
       {
-        "text": "A nakonec, vesmír je tak velký, že obsahuje více hvězd než všechno zrno písku na Zemi!",
-        "image_prompt": "detailní záběr na pláž s zrnky písku, přechod na obrovské množství hvězd na noční obloze"
+        "text": "To znamená, že máme obrovské množství nepoznané síly přímo kolem nás!",
+        "image_prompt": "Detailní záběr na noční oblohu, kde jsou vidět jasné hvězdy a mlhoviny"
       },
       {
-        "text": "A přesto, že je vesmír tak velký, stále zůstává plný tajemství, která ještě čekají na odhalení!",
-        "image_prompt": "pohled na nekonečný vesmír s otázkami a záhadnými symboly plovoucími ve tmě"
+        "text": "Představte si, co všechno může toto tajemství odhalit! Co myslíte, najdeme jednoho dne odpovědi?",
+        "image_prompt": "Introspektivní záběr na astronoma s teleskopem, zírajícího do hvězdné oblohy"
       }
     ]
   }
