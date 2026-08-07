@@ -1,31 +1,31 @@
 [
   {
-    "title": "Největší tajemství vesmíru, které nám stále uniká!",
-    "hook": "Co kdybych vám řekl, že vesmír skrývá tajemství, které může změnit vše?",
+    "title": "Největší záhady vesmíru!",
+    "hook": "Co se skrývá ve tmě vesmíru?",
     "scenes": [
       {
-        "text": "Vesmír je obrovský a plný záhad. Ale existuje jedno tajemství, které nás fascinuje už celé generace.",
-        "image_prompt": "Obrázek nekonečného vesmíru s hvězdami a galaxiemi, detailní záběr"
+        "text": "Vesmír je plný tajemství, která nás fascinují.",
+        "image_prompt": "úchvatný pohled na noční oblohu s miliony hvězd, ve kterém se objevují tajemné tvary a galaxie"
       },
       {
-        "text": "Víte, že víc než 90% vesmíru je neviditelné? Říká se tomu temná hmota a temná energie!",
-        "image_prompt": "Grafické znázornění temné hmoty a energie v propletených galaxiích"
+        "text": "Víte, že téměř 85% hmoty vesmíru je temná hmota?",
+        "image_prompt": "animace zjizvené galaxie, která ukazuje temnou hmotu přitahující hvězdy a galaxie"
       },
       {
-        "text": "Ale co přesně to znamená pro nás? Odborníci stále bojují s tím, jak tuto záhadu rozluštit.",
-        "image_prompt": "Vědec v laboratoři u tabule, plné vzorců a diagramů, zamyšlený výraz"
+        "text": "A co černé díry? Mohou nás pohltit tak rychle, že se nám to ani nezdá.",
+        "image_prompt": "dramatičtě ztvárnění černé díry, kolem které se spirálovitě pohybují hvězdy a prach"
       },
       {
-        "text": "Někteří věří, že bez temné hmoty by se galaxie vůbec nemohly udržet pohromadě.",
-        "image_prompt": "Animace galaxie, kde se hvězdy a planety pohybují furt a vytvářejí dynamickou scenérii"
+        "text": "Existují i exoplanety, na kterých by mohli žít mimozemšťané!",
+        "image_prompt": "vizuál vzdálené planety obíhající kolem jasné hvězdy, s protáhlou atmosférou a mořem"
       },
       {
-        "text": "To znamená, že máme obrovské množství nepoznané síly přímo kolem nás!",
-        "image_prompt": "Detailní záběr na noční oblohu, kde jsou vidět jasné hvězdy a mlhoviny"
+        "text": "A co třeba supernova? Vybuchující hvězda, která osvětluje galaxii!",
+        "image_prompt": "nádherná supernova vybuchující v noci, s jasnými barvami a prachovými oblaky"
       },
       {
-        "text": "Představte si, co všechno může toto tajemství odhalit! Co myslíte, najdeme jednoho dne odpovědi?",
-        "image_prompt": "Introspektivní záběr na astronoma s teleskopem, zírajícího do hvězdné oblohy"
+        "text": "Kdo ví, co dalšího skrývá nekonečný vesmír!",
+        "image_prompt": "pohled na nekonečný vesmír s obrovským množstvím hvězd a fialovými, modrými a zlatými odstíny"
       }
     ]
   }
