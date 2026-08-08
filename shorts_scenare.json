@@ -1,31 +1,31 @@
 [
   {
-    "title": "Největší záhady vesmíru!",
-    "hook": "Co se skrývá ve tmě vesmíru?",
+    "title": "Neuvěřitelné šokující fakta o vesmíru!",
+    "hook": "Věděli jste, že ve vesmíru zvoní hvězdy?",
     "scenes": [
       {
-        "text": "Vesmír je plný tajemství, která nás fascinují.",
-        "image_prompt": "úchvatný pohled na noční oblohu s miliony hvězd, ve kterém se objevují tajemné tvary a galaxie"
+        "text": "Možná si myslíte, že vesmír je tichý, ale je to přesně naopak!",
+        "image_prompt": "Noční obloha plná hvězd, jasné mléčná dráha a zářící galaxie, atmosférické efekty, dramatické osvětlení."
       },
       {
-        "text": "Víte, že téměř 85% hmoty vesmíru je temná hmota?",
-        "image_prompt": "animace zjizvené galaxie, která ukazuje temnou hmotu přitahující hvězdy a galaxie"
+        "text": "Hvězdy vytvářejí zvukové vlny, které jsou slyšitelné při správné technologii.",
+        "image_prompt": "Záběr na futuristické zařízení, které analyzuje zvukové vlny ve vesmíru, jasné modro-červené barevné efekty."
       },
       {
-        "text": "A co černé díry? Mohou nás pohltit tak rychle, že se nám to ani nezdá.",
-        "image_prompt": "dramatičtě ztvárnění černé díry, kolem které se spirálovitě pohybují hvězdy a prach"
+        "text": "Například, hvězda Betelgeuse má zvuk do frekvence 1000 Hz!",
+        "image_prompt": "Detailní záběr na hvězdu Betelgeuse s vizualizací zvukových vln, pulzující energetická vlna."
       },
       {
-        "text": "Existují i exoplanety, na kterých by mohli žít mimozemšťané!",
-        "image_prompt": "vizuál vzdálené planety obíhající kolem jasné hvězdy, s protáhlou atmosférou a mořem"
+        "text": "Někteří vědci dokonce říkají, že vesmír je jedna velká symfonie.",
+        "image_prompt": "Obraz vesmíru se zvukovými vlnami v podobě barevných pruhů tancujících kolem planet."
       },
       {
-        "text": "A co třeba supernova? Vybuchující hvězda, která osvětluje galaxii!",
-        "image_prompt": "nádherná supernova vybuchující v noci, s jasnými barvami a prachovými oblaky"
+        "text": "A to není všechno! Co kdybych vám řekl, že černé díry mohou zpívat?",
+        "image_prompt": "Obrázek černé díry s dramatickou aurou a metaforickým zobrazením tóny vycházejícími z okrajů."
       },
       {
-        "text": "Kdo ví, co dalšího skrývá nekonečný vesmír!",
-        "image_prompt": "pohled na nekonečný vesmír s obrovským množstvím hvězd a fialovými, modrými a zlatými odstíny"
+        "text": "Takže příště, když se podíváte na hvězdy, pamatujte, že možná slyšíte jejich melodii!",
+        "image_prompt": "Osoba zírající na noční oblohu, s úžasným výraze na tváři, hvězdy pulzují v rytmu jako hudba."
       }
     ]
   }
