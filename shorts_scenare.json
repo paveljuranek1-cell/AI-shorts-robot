@@ -1,31 +1,31 @@
 [
   {
-    "title": "Neuvěřitelné šokující fakta o vesmíru!",
-    "hook": "Věděli jste, že ve vesmíru zvoní hvězdy?",
+    "title": "Neuvěřitelné fakty o vesmíru, které vás ohromí!",
+    "hook": "Věděli jste, že ve vesmíru prší železo?",
     "scenes": [
       {
-        "text": "Možná si myslíte, že vesmír je tichý, ale je to přesně naopak!",
-        "image_prompt": "Noční obloha plná hvězd, jasné mléčná dráha a zářící galaxie, atmosférické efekty, dramatické osvětlení."
+        "text": "Vesmír je plný překvapení a tajemství.",
+        "image_prompt": "Náhled na majestátní galaxii s jasnými hvězdami a barevnými mlhovinami na tmavém pozadí vesmíru."
       },
       {
-        "text": "Hvězdy vytvářejí zvukové vlny, které jsou slyšitelné při správné technologii.",
-        "image_prompt": "Záběr na futuristické zařízení, které analyzuje zvukové vlny ve vesmíru, jasné modro-červené barevné efekty."
+        "text": "Na planetě WASP-76b prší železo, protože je tak horká, že se železo odpařuje a pak se v noci sráží.",
+        "image_prompt": "Vizualizace horké exoplanety s atmosférou, ve které klesají kapky železa při západu slunce."
       },
       {
-        "text": "Například, hvězda Betelgeuse má zvuk do frekvence 1000 Hz!",
-        "image_prompt": "Detailní záběr na hvězdu Betelgeuse s vizualizací zvukových vln, pulzující energetická vlna."
+        "text": "Všimli jste si, že hormony mohou ovlivnit chování zvířat na Zemi i ve vesmíru?",
+        "image_prompt": "Záběry astronauta pozorujícího zvířata na Zemi z vesmíru, se zajímavou grafikou a živými barvami."
       },
       {
-        "text": "Někteří vědci dokonce říkají, že vesmír je jedna velká symfonie.",
-        "image_prompt": "Obraz vesmíru se zvukovými vlnami v podobě barevných pruhů tancujících kolem planet."
+        "text": "Nejvíce zdokumentovaná černá díra se nachází ve vzdálené galaxii a je masivnější než celý náš sluneční systém.",
+        "image_prompt": "Ilustrace černé díry s jasným halo světla kolem, ukazující gravitační tah."
       },
       {
-        "text": "A to není všechno! Co kdybych vám řekl, že černé díry mohou zpívat?",
-        "image_prompt": "Obrázek černé díry s dramatickou aurou a metaforickým zobrazením tóny vycházejícími z okrajů."
+        "text": "A co teprve fakt, že všechna hmota ve vesmíru tvoří jen 5% z jeho celkového obsahu?",
+        "image_prompt": "Grafika znázorňující složení vesmíru, kde je 5% zobrazeno jako jasný kruh a zbytek jako temná hmota a temná energie."
       },
       {
-        "text": "Takže příště, když se podíváte na hvězdy, pamatujte, že možná slyšíte jejich melodii!",
-        "image_prompt": "Osoba zírající na noční oblohu, s úžasným výraze na tváři, hvězdy pulzují v rytmu jako hudba."
+        "text": "Zkušenosti z vesmíru nám pomáhají pochopit nejen vesmír, ale i sami sebe.",
+        "image_prompt": "Astronaut v prostoru, který se dívá na Zemi, s reflexí ve skafandru a duchovním pocitem."
       }
     ]
   }
