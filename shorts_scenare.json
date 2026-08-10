@@ -1,31 +1,31 @@
 [
   {
-    "title": "Neuvěřitelné fakty o vesmíru, které vás ohromí!",
-    "hook": "Věděli jste, že ve vesmíru prší železo?",
+    "title": "Nejpodivnější zvířata na světě!",
+    "hook": "Toto zvíře vás opravdu šokuje – podívejte se na něj!",
     "scenes": [
       {
-        "text": "Vesmír je plný překvapení a tajemství.",
-        "image_prompt": "Náhled na majestátní galaxii s jasnými hvězdami a barevnými mlhovinami na tmavém pozadí vesmíru."
+        "text": "Vydejte se s námi na dobrodružství za neobvyklými tvory planety!",
+        "image_prompt": "vysoký les s tajemnými stíny a barevnými, exotickými zvířaty, která se skrývají mezi stromy"
       },
       {
-        "text": "Na planetě WASP-76b prší železo, protože je tak horká, že se železo odpařuje a pak se v noci sráží.",
-        "image_prompt": "Vizualizace horké exoplanety s atmosférou, ve které klesají kapky železa při západu slunce."
+        "text": "Začněme s axolotlem – vodním tvorem, který nikdy nedospěje!",
+        "image_prompt": "barevný axolotl plavající v průhledné vodě, s nadšeným výrazem a rozvětvenými žábrami"
       },
       {
-        "text": "Všimli jste si, že hormony mohou ovlivnit chování zvířat na Zemi i ve vesmíru?",
-        "image_prompt": "Záběry astronauta pozorujícího zvířata na Zemi z vesmíru, se zajímavou grafikou a živými barvami."
+        "text": "A co takový tardigrad? Je tak odolný, že přežije i vesmír!",
+        "image_prompt": "extrémně zvětšený pohled na tardigrada, detailní záběr jeho chlupatého těla a nožiček"
       },
       {
-        "text": "Nejvíce zdokumentovaná černá díra se nachází ve vzdálené galaxii a je masivnější než celý náš sluneční systém.",
-        "image_prompt": "Ilustrace černé díry s jasným halo světla kolem, ukazující gravitační tah."
+        "text": "Toto je mývalí ježek, kombinace dvou různých zvířat!",
+        "image_prompt": "záběr mývalího ježka s jemnými hnědými bodlinami a přívětivým obličejem, jak se krmí ovocem"
       },
       {
-        "text": "A co teprve fakt, že všechna hmota ve vesmíru tvoří jen 5% z jeho celkového obsahu?",
-        "image_prompt": "Grafika znázorňující složení vesmíru, kde je 5% zobrazeno jako jasný kruh a zbytek jako temná hmota a temná energie."
+        "text": "Podívejte se na mořské koníky! Sameček nosí mláďata.",
+        "image_prompt": "mořský koník plavající v korálovém útesu, s bublinkami kolem a krásnými barvami"
       },
       {
-        "text": "Zkušenosti z vesmíru nám pomáhají pochopit nejen vesmír, ale i sami sebe.",
-        "image_prompt": "Astronaut v prostoru, který se dívá na Zemi, s reflexí ve skafandru a duchovním pocitem."
+        "text": "A na závěr, plešatý kůže! Zvíře, kterého málokdo zná.",
+        "image_prompt": "blízký záběr plešatého kůže s jeho specifickým vzhledem a inteligentním výrazem, jak sedí na větvi"
       }
     ]
   }
