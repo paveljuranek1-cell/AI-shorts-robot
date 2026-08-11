@@ -1,31 +1,31 @@
 [
   {
-    "title": "Nejpodivnější zvířata na světě!",
-    "hook": "Toto zvíře vás opravdu šokuje – podívejte se na něj!",
+    "title": "Šokující fakta o vesmíru, která vás ohromí!",
+    "hook": "Věděli jste, že ve vesmíru jsou věci, které vám doslova vyrazí dech?",
     "scenes": [
       {
-        "text": "Vydejte se s námi na dobrodružství za neobvyklými tvory planety!",
-        "image_prompt": "vysoký les s tajemnými stíny a barevnými, exotickými zvířaty, která se skrývají mezi stromy"
+        "text": "V první scéně uvidíte nekonečný vesmír s tisíci hvězd, které se blyští.",
+        "image_prompt": "široký záběr na noční oblohu plnou zářících hvězd a galaxie s jemnými barevnými efekty"
       },
       {
-        "text": "Začněme s axolotlem – vodním tvorem, který nikdy nedospěje!",
-        "image_prompt": "barevný axolotl plavající v průhledné vodě, s nadšeným výrazem a rozvětvenými žábrami"
+        "text": "Existuje více hvězd než všechna zrna písku na Zemi!",
+        "image_prompt": "blízký záběr na písečnou pláž, který se postupně mění na noční oblohu plnou jasných hvězd"
       },
       {
-        "text": "A co takový tardigrad? Je tak odolný, že přežije i vesmír!",
-        "image_prompt": "extrémně zvětšený pohled na tardigrada, detailní záběr jeho chlupatého těla a nožiček"
+        "text": "Na Marsu existují obrovské kaňony, které jsou 10krát hlubší než Grand Canyon!",
+        "image_prompt": "vášnivá vizualizace kaňonů na Marsu, s rudými skalními stěnami a širokým údolím"
       },
       {
-        "text": "Toto je mývalí ježek, kombinace dvou různých zvířat!",
-        "image_prompt": "záběr mývalího ježka s jemnými hnědými bodlinami a přívětivým obličejem, jak se krmí ovocem"
+        "text": "Každou sekundu jedno černá díra pohlcuje hmotu!",
+        "image_prompt": "dramaticzní ilustrace černé díry, která je obklopena spirálovými prsty z hvězdné hmoty, jak mizí dovnitř"
       },
       {
-        "text": "Podívejte se na mořské koníky! Sameček nosí mláďata.",
-        "image_prompt": "mořský koník plavající v korálovém útesu, s bublinkami kolem a krásnými barvami"
+        "text": "Teplota na povrchu Venuše je dostatečně horká na to, aby roztavila olovo.",
+        "image_prompt": "zhmotněná představa Venuše jako žhavé koule s teploměrem ukazujícím extrémní teploty"
       },
       {
-        "text": "A na závěr, plešatý kůže! Zvíře, kterého málokdo zná.",
-        "image_prompt": "blízký záběr plešatého kůže s jeho specifickým vzhledem a inteligentním výrazem, jak sedí na větvi"
+        "text": "A nakonec – ve vesmíru není žádný zvuk, protože tam není co nosit.",
+        "image_prompt": "návodný obraz prázdného vesmíru, kde se odrážejí vibrace, aby ukázal, že zvuk neexistuje"
       }
     ]
   }
