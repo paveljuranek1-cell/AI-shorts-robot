@@ -1,31 +1,31 @@
 [
   {
-    "title": "Šokující fakta o vesmíru, která vás ohromí!",
-    "hook": "Věděli jste, že ve vesmíru jsou věci, které vám doslova vyrazí dech?",
+    "title": "Neuvěřitelné záhady vesmíru!",
+    "hook": "Věděli jste, že ve vesmíru existují místa, kde čas plyne jinak?",
     "scenes": [
       {
-        "text": "V první scéně uvidíte nekonečný vesmír s tisíci hvězd, které se blyští.",
-        "image_prompt": "široký záběr na noční oblohu plnou zářících hvězd a galaxie s jemnými barevnými efekty"
+        "text": "Představte si černou díru, která pohlcuje vše kolem sebe.",
+        "image_prompt": "Impozantní snímek černé díry s okolním vesmírem, hvězdami a zakřivením prostoru."
       },
       {
-        "text": "Existuje více hvězd než všechna zrna písku na Zemi!",
-        "image_prompt": "blízký záběr na písečnou pláž, který se postupně mění na noční oblohu plnou jasných hvězd"
+        "text": "Když se přiblížíte, čas se zpomaluje. Místo, kde se vaše hodinky zastaví.",
+        "image_prompt": "Animace hodinek, které se zpomalují ve tmě černé díry, s dramatickými efekty."
       },
       {
-        "text": "Na Marsu existují obrovské kaňony, které jsou 10krát hlubší než Grand Canyon!",
-        "image_prompt": "vášnivá vizualizace kaňonů na Marsu, s rudými skalními stěnami a širokým údolím"
+        "text": "Vědci říkají, že na okraji černé díry byste mohli žít věčně, zatímco zde na Zemi by ubíhaly miliony let.",
+        "image_prompt": "Krychle času se rozpadající na kusy, s pozadím různého časového období na Zemi."
       },
       {
-        "text": "Každou sekundu jedno černá díra pohlcuje hmotu!",
-        "image_prompt": "dramaticzní ilustrace černé díry, která je obklopena spirálovými prsty z hvězdné hmoty, jak mizí dovnitř"
+        "text": "A co exoplanety? Existují místa, kde by mohl být život, a my o nich ani nevíme!",
+        "image_prompt": "Barevná ilustrace exoplanety s modrým oceánem a zelenou vegetací, s hvězdami na pozadí."
       },
       {
-        "text": "Teplota na povrchu Venuše je dostatečně horká na to, aby roztavila olovo.",
-        "image_prompt": "zhmotněná představa Venuše jako žhavé koule s teploměrem ukazujícím extrémní teploty"
+        "text": "Některé z těchto planet obíhají kolem hvězd, které jsou starší než náš sluneční systém.",
+        "image_prompt": "Snímek staré hvězdy s obíhajícími planetami, barvy temně modré a fialové."
       },
       {
-        "text": "A nakonec – ve vesmíru není žádný zvuk, protože tam není co nosit.",
-        "image_prompt": "návodný obraz prázdného vesmíru, kde se odrážejí vibrace, aby ukázal, že zvuk neexistuje"
+        "text": "Co tedy skrývá vesmír? Jaké další tajemství ještě čekají na objevení?",
+        "image_prompt": "Rozlehlý vesmír plný hvězd, s tajemnou siluetou planety na foregroundu."
       }
     ]
   }
