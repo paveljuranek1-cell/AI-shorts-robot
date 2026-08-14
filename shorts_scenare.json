@@ -1,31 +1,31 @@
 [
   {
-    "title": "10 šokujících faktů o zvířatech!",
-    "hook": "Zvířata, která nikdy neuvidíte stejnýma očima!",
+    "title": "Záhadné tajemství pyramid: Jak se to podařilo?",
+    "hook": "Co kdybych vám řekl, že tajemství pyramíd je mnohem šokující než si myslíte?",
     "scenes": [
       {
-        "text": "Věděli jste, že chobotnice má tři srdce?",
-        "image_prompt": "Chobotnice plavající v jasně osvíceném korálovém útesu, blízko kameny a fantastických ryb."
+        "text": "Pyramida Chéopsova je nejslavnější z egyptských pyramid. Ale víte, že do její konstrukce byly zapojeny obrovské kamenné bloky z vzdálenosti více než 800 kilometrů?",
+        "image_prompt": "Úchvatný pohled na pyramidu Chéopsovu při západu slunce s jasnou oblohou a pyramidou osvětlenou slunečními paprsky."
       },
       {
-        "text": "A co takhle hlemýžď? Ten může spát až 3 roky v kuse!",
-        "image_prompt": "Hlemýžď zavrtaný do země, obklopený zelenou travou a květinami, s kapkami rosy."
+        "text": "Zajímavé je, že se odhaduje, že stavba trvala jen 20 let a zapojilo se do ní přes 20 tisíc dělníků. Jak to jen mohli zvládnout?",
+        "image_prompt": "Rekonstrukce dobového zobrazení dělníků pracujících na pyramidě, s viditelným nástrojem a konstrukčními prvky."
       },
       {
-        "text": "Kohouti umí slyšet zemětřesení až tři dny předem!",
-        "image_prompt": "Kohout na slunném dvoře, jak vzpíná hlavu a sleduje nebe s dramatickými mraky v pozadí."
+        "text": "Někteří experti tvrdí, že kameny byly přepravovány na dřevěných saních, jiné teorie však naznačují, že mohli využít speciální techniku s vodou pro usnadnění pohybu.",
+        "image_prompt": "Detailní záběr na dřevěné saně a dokumentaci starověkého způsobu přepravy těžkých kamenů."
       },
       {
-        "text": "A víte, že želvy mohou dýchat skrz zadek? Ano, je to pravda!",
-        "image_prompt": "Želva plovoucí ve vodě, s jasným pozadím modré hladiny a slunečními paprsky."
+        "text": "Ale to není všechno! Byly prokazatelně použity i astronomické navigace při umisťování bloků. Jak mohli Egypťané vědět, jak přesně postavit pyramidy?",
+        "image_prompt": "Animace ukazující starověké Egypťany v noci, jak sledují hvězdy a mapují souhvězdí s pyramídou v pozadí."
       },
       {
-        "text": "Sloni jsou jediná zvířata, která si uvědomují, že umí umřít.",
-        "image_prompt": "Skupina slonů ve volné přírodě, v majestátní krajině, jak se starají o mladého sloníka."
+        "text": "Pyramidy nejsou jen hrobky; jsou to monumenty astronomického a technologického umění, které dodnes tajemství neodhalila.",
+        "image_prompt": "Vzrušující záběr na pyramidy s úžasným nočním nebem plným hvězd a Měsícem."
       },
       {
-        "text": "A nakonec, ve stádech ryb se může pohybovat až 10 milionů jedinců!",
-        "image_prompt": "Obrovský škol ryb plavající v harmonii v křišťálově čisté vodě, s dramatickým podvodním osvětlením."
+        "text": "A co si o tom myslíte vy? Jaké další tajemství se skrývá za těmito stoletími starými monumenty? Napište mi do komentářů!",
+        "image_prompt": "Kreativní grafika s otázkami a komentářovým polem, které vyzývá diváka k diskusi, s pyramidami v pozadí."
       }
     ]
   }
