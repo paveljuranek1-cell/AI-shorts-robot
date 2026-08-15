@@ -1,31 +1,31 @@
 [
   {
-    "title": "Záhadné tajemství pyramid: Jak se to podařilo?",
-    "hook": "Co kdybych vám řekl, že tajemství pyramíd je mnohem šokující než si myslíte?",
+    "title": "Neuvěřitelná tajemství vesmíru!",
+    "hook": "Víte, že ve vesmíru se nachází víc hvězd než zrnek písku na všech plážích Země?",
     "scenes": [
       {
-        "text": "Pyramida Chéopsova je nejslavnější z egyptských pyramid. Ale víte, že do její konstrukce byly zapojeny obrovské kamenné bloky z vzdálenosti více než 800 kilometrů?",
-        "image_prompt": "Úchvatný pohled na pyramidu Chéopsovu při západu slunce s jasnou oblohou a pyramidou osvětlenou slunečními paprsky."
+        "text": "Představte si, že každá hvězda může mít vlastní planetární systém.",
+        "image_prompt": "Nádherný záběr mlhoviny s jasnými hvězdami, a kolem nich obíhající barevné planety."
       },
       {
-        "text": "Zajímavé je, že se odhaduje, že stavba trvala jen 20 let a zapojilo se do ní přes 20 tisíc dělníků. Jak to jen mohli zvládnout?",
-        "image_prompt": "Rekonstrukce dobového zobrazení dělníků pracujících na pyramidě, s viditelným nástrojem a konstrukčními prvky."
+        "text": "Některé z těchto planet by mohly mít život!",
+        "image_prompt": "Zelená planeta s modrými oceány a bouřkovými mraky, obklopená třpytícími se hvězdami."
       },
       {
-        "text": "Někteří experti tvrdí, že kameny byly přepravovány na dřevěných saních, jiné teorie však naznačují, že mohli využít speciální techniku s vodou pro usnadnění pohybu.",
-        "image_prompt": "Detailní záběr na dřevěné saně a dokumentaci starověkého způsobu přepravy těžkých kamenů."
+        "text": "Zajímavé je, že vesmír stále roste a rozpíná se.",
+        "image_prompt": "Animace vesmíru, kde se galaxie vzdaluje jedna od druhé v dynamickém pohybu."
       },
       {
-        "text": "Ale to není všechno! Byly prokazatelně použity i astronomické navigace při umisťování bloků. Jak mohli Egypťané vědět, jak přesně postavit pyramidy?",
-        "image_prompt": "Animace ukazující starověké Egypťany v noci, jak sledují hvězdy a mapují souhvězdí s pyramídou v pozadí."
+        "text": "Co takhle černé díry? Tyto symboly destrukce mohou dosáhnout velikosti milionů sluncí.",
+        "image_prompt": "Ilustrace černé díry, která nasává okolní hvězdy, obklopená jasnými barvami a efekty."
       },
       {
-        "text": "Pyramidy nejsou jen hrobky; jsou to monumenty astronomického a technologického umění, které dodnes tajemství neodhalila.",
-        "image_prompt": "Vzrušující záběr na pyramidy s úžasným nočním nebem plným hvězd a Měsícem."
+        "text": "A víte, že nejstarší světlo, které vidíme, je staré více než 13 miliard let?",
+        "image_prompt": "Záběr na kosmické pozadí s různobarevnými galaxií a starým světlem, které prochází prostorem."
       },
       {
-        "text": "A co si o tom myslíte vy? Jaké další tajemství se skrývá za těmito stoletími starými monumenty? Napište mi do komentářů!",
-        "image_prompt": "Kreativní grafika s otázkami a komentářovým polem, které vyzývá diváka k diskusi, s pyramidami v pozadí."
+        "text": "To všechno je jen špička ledovce. Co se skrývá za hranicemi našeho poznání?",
+        "image_prompt": "Tajemná galaxie v pozadí s transparetntním nápisem 'Co je za hranicemi?'."
       }
     ]
   }
