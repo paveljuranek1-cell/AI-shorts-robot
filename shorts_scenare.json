@@ -1,31 +1,31 @@
 [
   {
-    "title": "Neuvěřitelná tajemství vesmíru!",
-    "hook": "Víte, že ve vesmíru se nachází víc hvězd než zrnek písku na všech plážích Země?",
+    "title": "Neuvěřitelné tajemství vesmíru!",
+    "hook": "Věděli jste, že naše galaxie má tajemství, které může změnit vše, co víme o vesmíru?",
     "scenes": [
       {
-        "text": "Představte si, že každá hvězda může mít vlastní planetární systém.",
-        "image_prompt": "Nádherný záběr mlhoviny s jasnými hvězdami, a kolem nich obíhající barevné planety."
+        "text": "Naše galaxie, Mléčná dráha, skrývá víc, než si většina z nás vůbec dokáže představit.",
+        "image_prompt": "Působivý pohled na Mléčnou dráhu s jasně viditelnými hvězdami a mlhovinami ve tmě noční oblohy."
       },
       {
-        "text": "Některé z těchto planet by mohly mít život!",
-        "image_prompt": "Zelená planeta s modrými oceány a bouřkovými mraky, obklopená třpytícími se hvězdami."
+        "text": "Existuje tajná část galaxie, kde se nachází černé díry, které obklopuje temná hmota.",
+        "image_prompt": "Ilustrace černé díry s kolem obíhajícími hvězdami a temnou hmotou okolo, s dramatickými efekty."
       },
       {
-        "text": "Zajímavé je, že vesmír stále roste a rozpíná se.",
-        "image_prompt": "Animace vesmíru, kde se galaxie vzdaluje jedna od druhé v dynamickém pohybu."
+        "text": "Tato temná hmota tvoří až 27 % celé hmotnosti galaxie, ale nikdo neví, co to vlastně je.",
+        "image_prompt": "Grafické zobrazení složení galaxie, ukazující podíl temné hmoty, normální hmoty a energie."
       },
       {
-        "text": "Co takhle černé díry? Tyto symboly destrukce mohou dosáhnout velikosti milionů sluncí.",
-        "image_prompt": "Ilustrace černé díry, která nasává okolní hvězdy, obklopená jasnými barvami a efekty."
+        "text": "Jaká tajemství ještě skrývá vesmír? Přemýšleli jste někdy, co by se stalo, kdybychom se dostali blíž k černé díře?",
+        "image_prompt": "Vizuální efekty ukazující hypotetický pohyb k černé díře s deformovaným prostorem a intenzivním gravitačním polem."
       },
       {
-        "text": "A víte, že nejstarší světlo, které vidíme, je staré více než 13 miliard let?",
-        "image_prompt": "Záběr na kosmické pozadí s různobarevnými galaxií a starým světlem, které prochází prostorem."
+        "text": "Některé teorie naznačují, že černé díry by mohly být brány do jiných dimenzí!",
+        "image_prompt": "Fantastická ilustrace portálu do jiné dimenze vycházejícího z černé díry, s barevnými spirálami a jiskřícími efekty."
       },
       {
-        "text": "To všechno je jen špička ledovce. Co se skrývá za hranicemi našeho poznání?",
-        "image_prompt": "Tajemná galaxie v pozadí s transparetntním nápisem 'Co je za hranicemi?'."
+        "text": "Co říkáte? Můžeme znát pravdu o temné hmotě a černých dírách?",
+        "image_prompt": "Závěrečný záběr na nekonečný vesmír se spoustou hvězd a záhadných objektů, s dotazem zobrazeným na obrazovce."
       }
     ]
   }
