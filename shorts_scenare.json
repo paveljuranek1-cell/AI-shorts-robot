@@ -1,31 +1,31 @@
 [
   {
-    "title": "Neuvěřitelné tajemství vesmíru!",
-    "hook": "Věděli jste, že naše galaxie má tajemství, které může změnit vše, co víme o vesmíru?",
+    "title": "Nejzáhadnější zvířata na světě",
+    "hook": "Víte, že existují zvířata, která vypadají jako z jiného světa?",
     "scenes": [
       {
-        "text": "Naše galaxie, Mléčná dráha, skrývá víc, než si většina z nás vůbec dokáže představit.",
-        "image_prompt": "Působivý pohled na Mléčnou dráhu s jasně viditelnými hvězdami a mlhovinami ve tmě noční oblohy."
+        "text": "Začněme s axolotlem, který umí regenerovat své části těla! Ano, opravdu se mu to daří.",
+        "image_prompt": "barevný axolotl plavající v křišťálově čisté vodě, jeho žábry a regenerované končetiny jsou výjimečně viditelné"
       },
       {
-        "text": "Existuje tajná část galaxie, kde se nachází černé díry, které obklopuje temná hmota.",
-        "image_prompt": "Ilustrace černé díry s kolem obíhajícími hvězdami a temnou hmotou okolo, s dramatickými efekty."
+        "text": "Co takhle najít ptáka, který nikdy neletí? Kloboučník se raději prochází po zemi.",
+        "image_prompt": "podivný pták kloboučník s barevným peřím, kráčející po zemi s nezvyklým výrazem"
       },
       {
-        "text": "Tato temná hmota tvoří až 27 % celé hmotnosti galaxie, ale nikdo neví, co to vlastně je.",
-        "image_prompt": "Grafické zobrazení složení galaxie, ukazující podíl temné hmoty, normální hmoty a energie."
+        "text": "A zde máme brouka, který se umí převléknout za kousky trusu! V přírodě je dost šikovný.",
+        "image_prompt": "malý brouk schovaný mezi kousky hnědého trusu, jeho detaily jsou perfektně zachyceny"
       },
       {
-        "text": "Jaká tajemství ještě skrývá vesmír? Přemýšleli jste někdy, co by se stalo, kdybychom se dostali blíž k černé díře?",
-        "image_prompt": "Vizuální efekty ukazující hypotetický pohyb k černé díře s deformovaným prostorem a intenzivním gravitačním polem."
+        "text": "Znáte také medúzu Turritopsis dohrnii? Ta má schopnost vrátit se do svého mladého stavu!",
+        "image_prompt": "krásná, zářivá medúza plovoucí ve vodě, její buňky se obnovují a jsou vizuálně fascinující"
       },
       {
-        "text": "Některé teorie naznačují, že černé díry by mohly být brány do jiných dimenzí!",
-        "image_prompt": "Fantastická ilustrace portálu do jiné dimenze vycházejícího z černé díry, s barevnými spirálami a jiskřícími efekty."
+        "text": "Další skvost? Chobotnice, která dokáže měnit barvy a texturu pleti jak se jí zlíbí.",
+        "image_prompt": "chobotnice dokonale splývající s pozadím skalnatého mořského dna, ukazující různé barvy"
       },
       {
-        "text": "Co říkáte? Můžeme znát pravdu o temné hmotě a černých dírách?",
-        "image_prompt": "Závěrečný záběr na nekonečný vesmír se spoustou hvězd a záhadných objektů, s dotazem zobrazeným na obrazovce."
+        "text": "A nakonec, štír, který je luminescenční! V noci září jako skutečný poklad.",
+        "image_prompt": "tmavý štír pod UV světlem, jeho tělíčko září modrobílým světlem v temnotě"
       }
     ]
   }
