@@ -1,31 +1,31 @@
 [
   {
-    "title": "Nejzáhadnější zvířata na světě",
-    "hook": "Víte, že existují zvířata, která vypadají jako z jiného světa?",
+    "title": "Největší záhady vesmíru!",
+    "hook": "Věděli jste, že v našem vesmíru může být víc než jen to, co vidíme?",
     "scenes": [
       {
-        "text": "Začněme s axolotlem, který umí regenerovat své části těla! Ano, opravdu se mu to daří.",
-        "image_prompt": "barevný axolotl plavající v křišťálově čisté vodě, jeho žábry a regenerované končetiny jsou výjimečně viditelné"
+        "text": "Existuje více než 100 miliard galaxií, ale co se skrývá v jejich temných zákoutích?",
+        "image_prompt": "Obrázek nádherné galaxie s jasnými hvězdami, temné oblasti ukrývající tajemství."
       },
       {
-        "text": "Co takhle najít ptáka, který nikdy neletí? Kloboučník se raději prochází po zemi.",
-        "image_prompt": "podivný pták kloboučník s barevným peřím, kráčející po zemi s nezvyklým výrazem"
+        "text": "Myslíte si, že chápete černé díry? Oni pohlcují všechno, co se k nim přiblíží!",
+        "image_prompt": "Pohled na obrovské černé díry s vírem kolem jejich okrajů, space imagery."
       },
       {
-        "text": "A zde máme brouka, který se umí převléknout za kousky trusu! V přírodě je dost šikovný.",
-        "image_prompt": "malý brouk schovaný mezi kousky hnědého trusu, jeho detaily jsou perfektně zachyceny"
+        "text": "A co tajemná temná hmota? Tvoří 27% vesmíru a stále nevíme, co to je!",
+        "image_prompt": "Grafika znázorňující temnou hmotu jako záhadné stíny v kosmickém prostoru."
       },
       {
-        "text": "Znáte také medúzu Turritopsis dohrnii? Ta má schopnost vrátit se do svého mladého stavu!",
-        "image_prompt": "krásná, zářivá medúza plovoucí ve vodě, její buňky se obnovují a jsou vizuálně fascinující"
+        "text": "Věsíme se všichni na tom, že čas je lineární? Možná, že by mohl i skákat!",
+        "image_prompt": "Obrázek hodinek, které deformují čas, s výrazným pozadím vesmírné scény."
       },
       {
-        "text": "Další skvost? Chobotnice, která dokáže měnit barvy a texturu pleti jak se jí zlíbí.",
-        "image_prompt": "chobotnice dokonale splývající s pozadím skalnatého mořského dna, ukazující různé barvy"
+        "text": "A tyto úžasné exoplanety? Některé by mohly podporovat život, ale jak? ",
+        "image_prompt": "Barevná exoplaneta s modrou atmosférou a zelenými povrchy, obklopená dalšími planetami."
       },
       {
-        "text": "A nakonec, štír, který je luminescenční! V noci září jako skutečný poklad.",
-        "image_prompt": "tmavý štír pod UV světlem, jeho tělíčko září modrobílým světlem v temnotě"
+        "text": "Zatímco se díváme na oblohu, vesmír stále skrývá nekonečné záhady. Jaké další objevy nás čekají?",
+        "image_prompt": "Vesnická krajina s lidmi dívajícími se na hvězdné nebe, s různými konstelacemi a mlhovinami."
       }
     ]
   }
