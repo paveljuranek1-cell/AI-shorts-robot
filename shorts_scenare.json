@@ -1,31 +1,31 @@
 [
   {
-    "title": "Neuvěřitelné fakty o vesmíru, které vás ohromí!",
-    "hook": "Věděli jste, že ve vesmíru existují objekty, které byste nikdy nečekali?",
+    "title": "Šokující fakta o vesmíru, která vás ohromí!",
+    "hook": "Věděli jste, že ve vesmíru existuje místo, kde čas plyne pomaleji?",
     "scenes": [
       {
-        "text": "Začněme s fascinujícími černými dírami. Tyto obrovské gravitační pasti mají sílu pohltit i světlo.",
-        "image_prompt": "Přibližující se černá díra v temném vesmíru, s viditelným efektem ohýbání světla kolem ní."
+        "text": "Podívejte se na tuto úchvatnou animaci vesmíru, kde galaxie vznikají a umírají.",
+        "image_prompt": "barevná animace vzniku a zániku galaxií, hvězdné nebe, bílé a modré krystalky energie"
       },
       {
-        "text": "A co takhle neutronové hvězdy? Jsou tak husté, že lžička jejich materiálu by vážila jako celá hora.",
-        "image_prompt": "Neutronová hvězda na pozadí hvězdné oblohy, s ilustrací lžičky vedle hory pro srovnání."
+        "text": "V centru naší galaxie se nachází černá díra, která je tak silná, že pohlcuje světlo.",
+        "image_prompt": "temné a strašidelné zobrazení černé díry s jasným okolím, světlo se ohýbá kolem ní"
       },
       {
-        "text": "Vesmír se neustále rozpíná! Každou sekundu se galaxie od sebe vzdaluje rychlostí, která vás ohromí.",
-        "image_prompt": "Animace expanze vesmíru, ukazující rapidní vzdálenost galaxií od sebe."
+        "text": "A co teprve to, že v kosmu jsou více než dva biliony galaxií?",
+        "image_prompt": "nádherná ilustrace rozlehlého vesmíru s tisíci galaxií, jasné hvězdy na tmavém pozadí"
       },
       {
-        "text": "Vědci zjistili, že existuje více hvězd ve vesmíru než zrn písku na všech plážích Země.",
-        "image_prompt": "Detailní záběr na pláž s množstvím písku, přičemž nápis znázorňuje obrovské množství hvězd."
+        "text": "Existuje také pláně zmrzlého vodního ledu na Marsu a mohlo by tam být život!",
+        "image_prompt": "pohled na zamrzlou plochu na Marsu s odrazy slunečního světla, červená půda a modré ledy"
       },
       {
-        "text": "A tady je další zajímavost: V našem Slunečním systému je více než 200 známých měsíců.",
-        "image_prompt": "Infografika zobrazující různorodé měsíce kolem planet Slunečního systému, s náznakem jejich velikosti a rozmanitosti."
+        "text": "A tady je šílená věc: na Saturnových prstencích si můžete udělat piknik!",
+        "image_prompt": "vizuálně fascinující záběr na Saturn a jeho prstence, živé barvy a animace pikniku na prstenci"
       },
       {
-        "text": "Tak co, přátelé? Který fakt vás nejvíce překvapil? Dejte vědět v komentářích!",
-        "image_prompt": "Záběr na krásnou hvězdnou oblohu s nápisem \"Co si myslíte?\" a prostor pro komentáře."
+        "text": "Tak co, co byste dělali, kdybyste mohli navštívit vesmír? Dejte nám vědět do komentářů!",
+        "image_prompt": "lidé v skafandrech na povrchu cizí planety, s pozadím barevného vesmíru a planet"
       }
     ]
   }
