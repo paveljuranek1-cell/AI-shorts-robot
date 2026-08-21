@@ -1,31 +1,31 @@
 [
   {
-    "title": "Šokující fakta o vesmíru, která vás ohromí!",
-    "hook": "Věděli jste, že ve vesmíru existuje místo, kde čas plyne pomaleji?",
+    "title": "Neuvěřitelné fakta o zvířatech, která vás ohromí!",
+    "hook": "Věděli jste, že sloni mohou plakat?",
     "scenes": [
       {
-        "text": "Podívejte se na tuto úchvatnou animaci vesmíru, kde galaxie vznikají a umírají.",
-        "image_prompt": "barevná animace vzniku a zániku galaxií, hvězdné nebe, bílé a modré krystalky energie"
+        "text": "Sloni jsou nejen nádherná stvoření, ale také cítí emoce.",
+        "image_prompt": "Úžasný záběr na slona v přírodě, jak se dívá smutně s lesklýma očima."
       },
       {
-        "text": "V centru naší galaxie se nachází černá díra, která je tak silná, že pohlcuje světlo.",
-        "image_prompt": "temné a strašidelné zobrazení černé díry s jasným okolím, světlo se ohýbá kolem ní"
+        "text": "A co teprve chobotnice, její mozek je v každém chapadle!",
+        "image_prompt": "Barevná chobotnice plavající v korálovém útesu, chapadla se pohybují jako velmi flexibilní."
       },
       {
-        "text": "A co teprve to, že v kosmu jsou více než dva biliony galaxií?",
-        "image_prompt": "nádherná ilustrace rozlehlého vesmíru s tisíci galaxií, jasné hvězdy na tmavém pozadí"
+        "text": "Až 70 procent koček nemá schopnost pít slanou vodu!",
+        "image_prompt": "Roztomilá kočka sedící u misky s vodou, zamyšleně zírající ven z okna na moře."
       },
       {
-        "text": "Existuje také pláně zmrzlého vodního ledu na Marsu a mohlo by tam být život!",
-        "image_prompt": "pohled na zamrzlou plochu na Marsu s odrazy slunečního světla, červená půda a modré ledy"
+        "text": "Víte, že medvědi mohou běžet až 50 kilometrů za hodinu?",
+        "image_prompt": "Obrovský medvěd sprintující v divočině, tráva a stromy v pozadí se rozmazávají."
       },
       {
-        "text": "A tady je šílená věc: na Saturnových prstencích si můžete udělat piknik!",
-        "image_prompt": "vizuálně fascinující záběr na Saturn a jeho prstence, živé barvy a animace pikniku na prstenci"
+        "text": "Skotští psi mohou pochopit až 165 různých slov!",
+        "image_prompt": "Škotští teriéři hrající si na zahradě, jeden z nich sedí a dává pozor na svého majitele."
       },
       {
-        "text": "Tak co, co byste dělali, kdybyste mohli navštívit vesmír? Dejte nám vědět do komentářů!",
-        "image_prompt": "lidé v skafandrech na povrchu cizí planety, s pozadím barevného vesmíru a planet"
+        "text": "A nakonec, nejstarší známý papoušek žil 83 let!",
+        "image_prompt": "Barevný papoušek, sedící na větvi s výhledem na sluneční západ, s výrazem plným moudrosti."
       }
     ]
   }
