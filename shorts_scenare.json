@@ -1,31 +1,31 @@
 [
   {
-    "title": "Neuvěřitelné fakta o zvířatech, která vás ohromí!",
-    "hook": "Věděli jste, že sloni mohou plakat?",
+    "title": "Poznejte neuvěřitelné zvířecí schopnosti!",
+    "hook": "Věděli jste, že existují zvířata, která mají nadpřirozené schopnosti?",
     "scenes": [
       {
-        "text": "Sloni jsou nejen nádherná stvoření, ale také cítí emoce.",
-        "image_prompt": "Úžasný záběr na slona v přírodě, jak se dívá smutně s lesklýma očima."
+        "text": "Osmák degu! Věděl jste, že jeho sluch je tak citlivý, že slyší i ultrazvuky?",
+        "image_prompt": "Osmák degu sedí na větvi, s ušima ve vzduchu, obklopený barevným pozadím přírody."
       },
       {
-        "text": "A co teprve chobotnice, její mozek je v každém chapadle!",
-        "image_prompt": "Barevná chobotnice plavající v korálovém útesu, chapadla se pohybují jako velmi flexibilní."
+        "text": "Delfíni dokážou rozpoznávat sami sebe v zrcadle. To je známka vysoké inteligence!",
+        "image_prompt": "Skupina delfínů skáče nad hladinu moře, za nimi jsou bílé vlny a modrá obloha."
       },
       {
-        "text": "Až 70 procent koček nemá schopnost pít slanou vodu!",
-        "image_prompt": "Roztomilá kočka sedící u misky s vodou, zamyšleně zírající ven z okna na moře."
+        "text": "Krávy mají svůj vlastní jazyk. Komunikují prostřednictvím různých zvuků!",
+        "image_prompt": "Šťastná kráva stojí na zeleném pastvině a mečí, kolem ní se pásou další krávy."
       },
       {
-        "text": "Víte, že medvědi mohou běžet až 50 kilometrů za hodinu?",
-        "image_prompt": "Obrovský medvěd sprintující v divočině, tráva a stromy v pozadí se rozmazávají."
+        "text": "Ptáci dokáží rozlišit barvy lépe než lidé. Každý detail jejich prostředí je pro ně důležitý!",
+        "image_prompt": "Barevná skupina ptáků na větvi, kteří ze všech stran zkoumají okolí."
       },
       {
-        "text": "Skotští psi mohou pochopit až 165 různých slov!",
-        "image_prompt": "Škotští teriéři hrající si na zahradě, jeden z nich sedí a dává pozor na svého majitele."
+        "text": "Cicváci dokonce dokážou cítit, když se blíží zemětřesení. To je přírodní radar!",
+        "image_prompt": "Záběr na skupinu cikád, které se usazují na stromě, s uvolněnou atmosférou před bouří."
       },
       {
-        "text": "A nakonec, nejstarší známý papoušek žil 83 let!",
-        "image_prompt": "Barevný papoušek, sedící na větvi s výhledem na sluneční západ, s výrazem plným moudrosti."
+        "text": "A co takhle chameleoni? Rychlost jejich změny barvy je fascinující a slouží k ochraně!",
+        "image_prompt": "Chameleon se mění z zelené na hnědou na pozadí barevné zahrady."
       }
     ]
   }
