@@ -1,31 +1,31 @@
 [
   {
-    "title": "Poznejte neuvěřitelné zvířecí schopnosti!",
-    "hook": "Věděli jste, že existují zvířata, která mají nadpřirozené schopnosti?",
+    "title": "Šokující fakta o zvířatech, která vás ohromí!",
+    "hook": "Věděli jste, že tučňáci mají jeden z nejúžasnějších vytrvalostních tréninků?",
     "scenes": [
       {
-        "text": "Osmák degu! Věděl jste, že jeho sluch je tak citlivý, že slyší i ultrazvuky?",
-        "image_prompt": "Osmák degu sedí na větvi, s ušima ve vzduchu, obklopený barevným pozadím přírody."
+        "text": "Začněme s tučňáky! Tito fascinující ptáci musí každý rok urazit přes 80 kilometrů, aby se dostali k potravě.",
+        "image_prompt": "Skupina tučňáků na ledovci, někteří skáčí do vody, zatímco jiní se chystají na cestu."
       },
       {
-        "text": "Delfíni dokážou rozpoznávat sami sebe v zrcadle. To je známka vysoké inteligence!",
-        "image_prompt": "Skupina delfínů skáče nad hladinu moře, za nimi jsou bílé vlny a modrá obloha."
+        "text": "Ale víte, jaké jsou největší zvířata na Zemi? Řeč je o modré velrybě, která může vážit až 180 tun!",
+        "image_prompt": "Obrovská modrá velryba plující majestátně v hlubokém modrém oceánu, obklopena rybami a korály."
       },
       {
-        "text": "Krávy mají svůj vlastní jazyk. Komunikují prostřednictvím různých zvuků!",
-        "image_prompt": "Šťastná kráva stojí na zeleném pastvině a mečí, kolem ní se pásou další krávy."
+        "text": "A co třeba sloni? Slonice si pamatují své blízké celé roky, i když je odděleně.",
+        "image_prompt": "Emotivní scéna slonice, která se znovu setkává se svým mládětem v přírodě."
       },
       {
-        "text": "Ptáci dokáží rozlišit barvy lépe než lidé. Každý detail jejich prostředí je pro ně důležitý!",
-        "image_prompt": "Barevná skupina ptáků na větvi, kteří ze všech stran zkoumají okolí."
+        "text": "Překvapivé je také to, že chameleoni mění barvu nejen kvůli camufláže, ale i na vyjádření emocí!",
+        "image_prompt": "Chameleon na větvi, přecházející z jasně zelené barvy na růžovou, vyjadřující svou emoci."
       },
       {
-        "text": "Cicváci dokonce dokážou cítit, když se blíží zemětřesení. To je přírodní radar!",
-        "image_prompt": "Záběr na skupinu cikád, které se usazují na stromě, s uvolněnou atmosférou před bouří."
+        "text": "Víte, že chobotnice mají tři srdce? Dvě pumpují krev do žaber, zatímco třetí do zbytku těla.",
+        "image_prompt": "Barevná chobotnice plavající v moři, její srdce pulzují tak, aby bylo patrné."
       },
       {
-        "text": "A co takhle chameleoni? Rychlost jejich změny barvy je fascinující a slouží k ochraně!",
-        "image_prompt": "Chameleon se mění z zelené na hnědou na pozadí barevné zahrady."
+        "text": "A poslední, ale stejně šokující - žirafy mají jazyk dlouhý až 45 centimetrů! Ideální na okusování listů ze stromů.",
+        "image_prompt": "Žirafa se natahuje, aby dosáhla na listy vysokého stromu s jasně modrou oblohou na pozadí."
       }
     ]
   }
