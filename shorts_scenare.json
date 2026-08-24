@@ -1,31 +1,31 @@
 [
   {
-    "title": "Šokující fakta o zvířatech, která vás ohromí!",
-    "hook": "Věděli jste, že tučňáci mají jeden z nejúžasnějších vytrvalostních tréninků?",
+    "title": "10 šokujících faktů o zvířatech, které vás překvapí!",
+    "hook": "Věděli jste, že chobotnice má tři srdce? To je jen začátek!",
     "scenes": [
       {
-        "text": "Začněme s tučňáky! Tito fascinující ptáci musí každý rok urazit přes 80 kilometrů, aby se dostali k potravě.",
-        "image_prompt": "Skupina tučňáků na ledovci, někteří skáčí do vody, zatímco jiní se chystají na cestu."
+        "text": "Chobotnice má kromě tří srdcí také modrou krev! Jak to možné?",
+        "image_prompt": "Záběr na chobotnici plovoucí v oceánu, s jasně modrou krví viditelnou při procházení vodou."
       },
       {
-        "text": "Ale víte, jaké jsou největší zvířata na Zemi? Řeč je o modré velrybě, která může vážit až 180 tun!",
-        "image_prompt": "Obrovská modrá velryba plující majestátně v hlubokém modrém oceánu, obklopena rybami a korály."
+        "text": "Nejrychlejší zvíře na planetě? To je sokol stěhovavý, dosahující až 386 km/h!",
+        "image_prompt": "Sokol stěhovavý ve vzduchu, s roztaženými křídly, ukazující rychlost a sílu."
       },
       {
-        "text": "A co třeba sloni? Slonice si pamatují své blízké celé roky, i když je odděleně.",
-        "image_prompt": "Emotivní scéna slonice, která se znovu setkává se svým mládětem v přírodě."
+        "text": "Krabi mají oči, které se otáčí! Jsou schopni vidět na všechny strany.",
+        "image_prompt": "Detailní záběr na kraba s otáčejícími se očima, s pozadím tropického pobřeží."
       },
       {
-        "text": "Překvapivé je také to, že chameleoni mění barvu nejen kvůli camufláže, ale i na vyjádření emocí!",
-        "image_prompt": "Chameleon na větvi, přecházející z jasně zelené barvy na růžovou, vyjadřující svou emoci."
+        "text": "Medúzy? Mnoho z nich je téměř nesmrtelných! Jak to dokážou?",
+        "image_prompt": "Záběr na medúzu plovoucí ve vodě, s jemným světelným efektem, který ukazuje její průhlednost."
       },
       {
-        "text": "Víte, že chobotnice mají tři srdce? Dvě pumpují krev do žaber, zatímco třetí do zbytku těla.",
-        "image_prompt": "Barevná chobotnice plavající v moři, její srdce pulzují tak, aby bylo patrné."
+        "text": "Sloni jsou známí svou pamětí, ale také umějí plakat!",
+        "image_prompt": "Slon stojící na savaně, s kapkou vody stékající mu po tváři, vyjádření emocí."
       },
       {
-        "text": "A poslední, ale stejně šokující - žirafy mají jazyk dlouhý až 45 centimetrů! Ideální na okusování listů ze stromů.",
-        "image_prompt": "Žirafa se natahuje, aby dosáhla na listy vysokého stromu s jasně modrou oblohou na pozadí."
+        "text": "A nakonec, včely dokážou rozpoznat lidské tváře! Jaké překvapení!",
+        "image_prompt": "Záběr na včelu bzučící kolem pestrobarevných květin, s koncentrací na detailní pohled na včelí hlavu."
       }
     ]
   }
