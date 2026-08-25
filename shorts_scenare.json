@@ -1,31 +1,31 @@
 [
   {
-    "title": "10 šokujících faktů o zvířatech, které vás překvapí!",
-    "hook": "Věděli jste, že chobotnice má tři srdce? To je jen začátek!",
+    "title": "Neuvěřitelné šokující fakta o vesmíru!",
+    "hook": "Věděli jste, že ve vesmíru je víc hvězd než zrn písku na Zemi?",
     "scenes": [
       {
-        "text": "Chobotnice má kromě tří srdcí také modrou krev! Jak to možné?",
-        "image_prompt": "Záběr na chobotnici plovoucí v oceánu, s jasně modrou krví viditelnou při procházení vodou."
+        "text": "Vesmír je tak ohromný, že ani nevíme, kolik hvězd vlastně existuje!",
+        "image_prompt": "Nádherný pohled na noční oblohu plnou hvězd, velké galaxie a jasné mlhoviny."
       },
       {
-        "text": "Nejrychlejší zvíře na planetě? To je sokol stěhovavý, dosahující až 386 km/h!",
-        "image_prompt": "Sokol stěhovavý ve vzduchu, s roztaženými křídly, ukazující rychlost a sílu."
+        "text": "Každou sekundu umírá 56 miliard hvězd, ale vznikají nové.",
+        "image_prompt": "Umělecká vizualizace umírající hvězdy explodující jako supernova, s jasnými barvami a dynamikou."
       },
       {
-        "text": "Krabi mají oči, které se otáčí! Jsou schopni vidět na všechny strany.",
-        "image_prompt": "Detailní záběr na kraba s otáčejícími se očima, s pozadím tropického pobřeží."
+        "text": "Existují černé díry, které jsou tak silné, že pohlcují světlo?",
+        "image_prompt": "Ilustrace černé díry se spirálovými víry světlých částic pohybujících se směrem k ní."
       },
       {
-        "text": "Medúzy? Mnoho z nich je téměř nesmrtelných! Jak to dokážou?",
-        "image_prompt": "Záběr na medúzu plovoucí ve vodě, s jemným světelným efektem, který ukazuje její průhlednost."
+        "text": "Na Marsu je obrovský kaňon, který je 10krát hlubší než Grand Canyon!",
+        "image_prompt": "Snímek grandiózního kaňonu na Marsu, s výraznými červenými a oranžovými skalami pod jasně modrou oblohou."
       },
       {
-        "text": "Sloni jsou známí svou pamětí, ale také umějí plakat!",
-        "image_prompt": "Slon stojící na savaně, s kapkou vody stékající mu po tváři, vyjádření emocí."
+        "text": "Vědci objevili galaxie, které vznikly jen 500 milionů let po Velkém třesku.",
+        "image_prompt": "Animace ukazující vznik galaxií ve vesmíru, s explodujícími hvězdami a kývajícími se mlhovinami."
       },
       {
-        "text": "A nakonec, včely dokážou rozpoznat lidské tváře! Jaké překvapení!",
-        "image_prompt": "Záběr na včelu bzučící kolem pestrobarevných květin, s koncentrací na detailní pohled na včelí hlavu."
+        "text": "A jaký je váš největší objev o vesmíru? Pište do komentářů!",
+        "image_prompt": "Interaktivní obrazovka s prostorovými efekty, která zve diváky k zapojení do diskuze."
       }
     ]
   }
