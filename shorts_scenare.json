@@ -1,31 +1,31 @@
 [
   {
-    "title": "Neuvěřitelné šokující fakta o vesmíru!",
-    "hook": "Věděli jste, že ve vesmíru je víc hvězd než zrn písku na Zemi?",
+    "title": "Neuvěřitelné tajemství vesmíru!",
+    "hook": "Věděli jste, že ve vesmíru existuje víc zmizelých planet než těch, které známe?",
     "scenes": [
       {
-        "text": "Vesmír je tak ohromný, že ani nevíme, kolik hvězd vlastně existuje!",
-        "image_prompt": "Nádherný pohled na noční oblohu plnou hvězd, velké galaxie a jasné mlhoviny."
+        "text": "Vesmír je plný záhad, ale tahle je opravdu šokující!",
+        "image_prompt": "Dramatická animace galaxie s mnoha rozsvícenými hvězdami a tajemnými objekty."
       },
       {
-        "text": "Každou sekundu umírá 56 miliard hvězd, ale vznikají nové.",
-        "image_prompt": "Umělecká vizualizace umírající hvězdy explodující jako supernova, s jasnými barvami a dynamikou."
+        "text": "Existují planety, které byly spatřeny, ale nikdy nalezeny znovu.",
+        "image_prompt": "Vizualizace planety obklopené tmavým prázdným prostorem a ztracené v dunění vesmíru."
       },
       {
-        "text": "Existují černé díry, které jsou tak silné, že pohlcují světlo?",
-        "image_prompt": "Ilustrace černé díry se spirálovými víry světlých částic pohybujících se směrem k ní."
+        "text": "Existuje teorie o 'zmizelých planetách', které se mohly ztratit kvůli gravitačnímu působení.",
+        "image_prompt": "Ilustrace dvou planet, které se navzájem ovlivňují ve smyčce gravitace s dynamickými efekty."
       },
       {
-        "text": "Na Marsu je obrovský kaňon, který je 10krát hlubší než Grand Canyon!",
-        "image_prompt": "Snímek grandiózního kaňonu na Marsu, s výraznými červenými a oranžovými skalami pod jasně modrou oblohou."
+        "text": "Nedávné studie naznačují, že celá sluneční soustava může skrývat tajemství.",
+        "image_prompt": "Záhadné diagramy sluneční soustavy s probleskujícími body znázorňujícími možné skryté planety."
       },
       {
-        "text": "Vědci objevili galaxie, které vznikly jen 500 milionů let po Velkém třesku.",
-        "image_prompt": "Animace ukazující vznik galaxií ve vesmíru, s explodujícími hvězdami a kývajícími se mlhovinami."
+        "text": "Jaké neobjevené světy ještě čekají na to, aby byly prozkoumány?",
+        "image_prompt": "Krátký klip z astronauta hledícího na neznámý planetární povrch skrze brýle."
       },
       {
-        "text": "A jaký je váš největší objev o vesmíru? Pište do komentářů!",
-        "image_prompt": "Interaktivní obrazovka s prostorovými efekty, která zve diváky k zapojení do diskuze."
+        "text": "Co byste dělali, kdybyste objevili novou planetu?",
+        "image_prompt": "Zamyslená osoba stojící u okna s pohledem na hvězdné nebe, přemýšlející o svých možnostech."
       }
     ]
   }
