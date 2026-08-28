@@ -1,31 +1,31 @@
 [
   {
-    "title": "Neuvěřitelné tajemství vesmíru!",
-    "hook": "Věděli jste, že ve vesmíru existuje víc zmizelých planet než těch, které známe?",
+    "title": "Neuvěřitelné tajemství zvířat!",
+    "hook": "Věděli jste, že některá zvířata mají schopnosti, které vás ohromí?",
     "scenes": [
       {
-        "text": "Vesmír je plný záhad, ale tahle je opravdu šokující!",
-        "image_prompt": "Dramatická animace galaxie s mnoha rozsvícenými hvězdami a tajemnými objekty."
+        "text": "Začněme s chobotnicemi, které dokážou měnit barvu a texturu své pokožky!",
+        "image_prompt": "Blízký záběr na chobotnici, jak se mění v různých barvách a vzorech na pozadí krásného korálového útesu."
       },
       {
-        "text": "Existují planety, které byly spatřeny, ale nikdy nalezeny znovu.",
-        "image_prompt": "Vizualizace planety obklopené tmavým prázdným prostorem a ztracené v dunění vesmíru."
+        "text": "A co teprve ptáci? Některé druhy dokážou napodobovat lidskou řeč naprosto dokonale!",
+        "image_prompt": "Záběr na papouška mluvícího k lidem, zatímco se prochází po větvi s barevnými listy kolem."
       },
       {
-        "text": "Existuje teorie o 'zmizelých planetách', které se mohly ztratit kvůli gravitačnímu působení.",
-        "image_prompt": "Ilustrace dvou planet, které se navzájem ovlivňují ve smyčce gravitace s dynamickými efekty."
+        "text": "Věděli jste, že krávy mají osobnosti a dokážou tvořit přátelství?",
+        "image_prompt": "Záběr na skupinu krav pasoucích se na louce, dvě z nich se navzájem dotýkají čumáčky a vypadají jako by se objímaly."
       },
       {
-        "text": "Nedávné studie naznačují, že celá sluneční soustava může skrývat tajemství.",
-        "image_prompt": "Záhadné diagramy sluneční soustavy s probleskujícími body znázorňujícími možné skryté planety."
+        "text": "A co medúzy? Ty jsou tak staré, že byly na Zemi ještě před dinosaury!",
+        "image_prompt": "Slow-motion záběr na medúzu plovoucí v modré vodě, její jemná struktura se pohybuje elegantně."
       },
       {
-        "text": "Jaké neobjevené světy ještě čekají na to, aby byly prozkoumány?",
-        "image_prompt": "Krátký klip z astronauta hledícího na neznámý planetární povrch skrze brýle."
+        "text": "Některé kočky dokážou skákat až šestkrát výš, než je jejich vlastní výška!",
+        "image_prompt": "Záběr na kočku skákající vysoko do vzduchu na pozadí zahrady plné květin."
       },
       {
-        "text": "Co byste dělali, kdybyste objevili novou planetu?",
-        "image_prompt": "Zamyslená osoba stojící u okna s pohledem na hvězdné nebe, přemýšlející o svých možnostech."
+        "text": "A nakonec, věděli jste, že některé ryby dokážou vytvářet zvuky, aby si navzájem komunikovaly?",
+        "image_prompt": "Záběr na rybu, která pohybuje svými žábrami, zatímco pod vodou jsou vidět bublinky a barevné korály."
       }
     ]
   }
