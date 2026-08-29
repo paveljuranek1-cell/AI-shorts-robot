@@ -1,31 +1,31 @@
 [
   {
-    "title": "Neuvěřitelné tajemství zvířat!",
-    "hook": "Věděli jste, že některá zvířata mají schopnosti, které vás ohromí?",
+    "title": "5 šokujících faktů o vesmíru, které vás ohromí!",
+    "hook": "Víš, že vesmír má vlastní zvuk?",
     "scenes": [
       {
-        "text": "Začněme s chobotnicemi, které dokážou měnit barvu a texturu své pokožky!",
-        "image_prompt": "Blízký záběr na chobotnici, jak se mění v různých barvách a vzorech na pozadí krásného korálového útesu."
+        "text": "Všichni víme, že vesmír je nekonečný, ale víte, že se neustále rozšiřuje?",
+        "image_prompt": "Záběr na nekonečné hvězdné pole s animací ukazující, jak se galaxie vzdalují od sebe."
       },
       {
-        "text": "A co teprve ptáci? Některé druhy dokážou napodobovat lidskou řeč naprosto dokonale!",
-        "image_prompt": "Záběr na papouška mluvícího k lidem, zatímco se prochází po větvi s barevnými listy kolem."
+        "text": "Hlava vám zamotá fakt, že černé díry nejsou jen černé! Mohou být i jasnější než celé galaxie.",
+        "image_prompt": "Kontrastní obrázek černé díry obklopené jasným zářením a krásnými barvami."
       },
       {
-        "text": "Věděli jste, že krávy mají osobnosti a dokážou tvořit přátelství?",
-        "image_prompt": "Záběr na skupinu krav pasoucích se na louce, dvě z nich se navzájem dotýkají čumáčky a vypadají jako by se objímaly."
+        "text": "Vesmír nemá žádný zvuk, ale NASA převedla vibrace černých děr na zvuky, které můžete slyšet!",
+        "image_prompt": "Záběr na vědecké zařízení přetvářející vibrace, zatímco na pozadí jsou vidět hvězdy."
       },
       {
-        "text": "A co medúzy? Ty jsou tak staré, že byly na Zemi ještě před dinosaury!",
-        "image_prompt": "Slow-motion záběr na medúzu plovoucí v modré vodě, její jemná struktura se pohybuje elegantně."
+        "text": "Šokující zpráva: Existují planety, kde prší sklo. Ano, čtete správně!",
+        "image_prompt": "Ilustrace exotické planety s deštěm skleněných kapek a podivnými rostlinami."
       },
       {
-        "text": "Některé kočky dokážou skákat až šestkrát výš, než je jejich vlastní výška!",
-        "image_prompt": "Záběr na kočku skákající vysoko do vzduchu na pozadí zahrady plné květin."
+        "text": "A co teprve myšlenka, že ve vesmíru existují miliardy planet, které mohou podporovat život?",
+        "image_prompt": "Grafika s mnoha různými planetami, z nichž každá má vlastní atmosféru a terén."
       },
       {
-        "text": "A nakonec, věděli jste, že některé ryby dokážou vytvářet zvuky, aby si navzájem komunikovaly?",
-        "image_prompt": "Záběr na rybu, která pohybuje svými žábrami, zatímco pod vodou jsou vidět bublinky a barevné korály."
+        "text": "Vesmír je plný tajemství. Co nás ještě čeká? To se dozvíme v dalších objevech!",
+        "image_prompt": "Záběr na astronomický teleskop mířící na oblohu, s hvězdami a mlhovinami v pozadí."
       }
     ]
   }
