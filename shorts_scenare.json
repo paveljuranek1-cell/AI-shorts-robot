@@ -1,31 +1,31 @@
 [
   {
-    "title": "5 šokujících faktů o vesmíru, které vás ohromí!",
-    "hook": "Víš, že vesmír má vlastní zvuk?",
+    "title": "Šokující fakta o zvířatech, která vás ohromí!",
+    "hook": "Věděli jste, že existuje ryba, která dokáže žít bez vody?",
     "scenes": [
       {
-        "text": "Všichni víme, že vesmír je nekonečný, ale víte, že se neustále rozšiřuje?",
-        "image_prompt": "Záběr na nekonečné hvězdné pole s animací ukazující, jak se galaxie vzdalují od sebe."
+        "text": "Tato ryba, zvaná mudrlín, dokáže přežít mimo vodu až několik dní!",
+        "image_prompt": "Detailní záběr na mudrlína plavajícího v bažině, s dramatickým osvětlením a prostorným pozadím."
       },
       {
-        "text": "Hlava vám zamotá fakt, že černé díry nejsou jen černé! Mohou být i jasnější než celé galaxie.",
-        "image_prompt": "Kontrastní obrázek černé díry obklopené jasným zářením a krásnými barvami."
+        "text": "A co tato zvířata? Sloni mohou cítit vibrace země až na 8 kilometrů daleko!",
+        "image_prompt": "Skupina slonů v savaně, s viditelnými vibracemi v písku a napjatými ušima."
       },
       {
-        "text": "Vesmír nemá žádný zvuk, ale NASA převedla vibrace černých děr na zvuky, které můžete slyšet!",
-        "image_prompt": "Záběr na vědecké zařízení přetvářející vibrace, zatímco na pozadí jsou vidět hvězdy."
+        "text": "A žirafy? Svým jazykem dokážou olíznout vlastní uši! Může to znít šíleně!",
+        "image_prompt": "Žirafa ohýbající se, s jazykem dlouhým a modrým, olizující ucho ve slunečním světle."
       },
       {
-        "text": "Šokující zpráva: Existují planety, kde prší sklo. Ano, čtete správně!",
-        "image_prompt": "Ilustrace exotické planety s deštěm skleněných kapek a podivnými rostlinami."
+        "text": "Ale to není vše! Včely mají svůj vlastní 'tanec', kterým komunikují o potravě!",
+        "image_prompt": "Včely tančící v úlu, s barevnými květinami v pozadí a letícími včelami."
       },
       {
-        "text": "A co teprve myšlenka, že ve vesmíru existují miliardy planet, které mohou podporovat život?",
-        "image_prompt": "Grafika s mnoha různými planetami, z nichž každá má vlastní atmosféru a terén."
+        "text": "A věděli jste, že tučňáci mají důmyslné 'srdce' pro výběr partnera?",
+        "image_prompt": "Tučňáci tancující na ledu, s nádherným pozadím sněhu a modré oblohy."
       },
       {
-        "text": "Vesmír je plný tajemství. Co nás ještě čeká? To se dozvíme v dalších objevech!",
-        "image_prompt": "Záběr na astronomický teleskop mířící na oblohu, s hvězdami a mlhovinami v pozadí."
+        "text": "Zvířata nás neustále překvapují! Jaké další šokující fakta znáte vy?",
+        "image_prompt": "Různá zvířata na jednom záběru, s otázkou vypsanou na obrazovce, což vyvolává zvědavost."
       }
     ]
   }
