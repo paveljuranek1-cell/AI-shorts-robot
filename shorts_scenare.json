@@ -1,31 +1,31 @@
 [
   {
-    "title": "Šokující fakta o zvířatech, která vás ohromí!",
-    "hook": "Věděli jste, že existuje ryba, která dokáže žít bez vody?",
+    "title": "Nejzáhadnější zvíře na světě!",
+    "hook": "Věděli jste, že existuje zvíře, které nikdy nespí?",
     "scenes": [
       {
-        "text": "Tato ryba, zvaná mudrlín, dokáže přežít mimo vodu až několik dní!",
-        "image_prompt": "Detailní záběr na mudrlína plavajícího v bažině, s dramatickým osvětlením a prostorným pozadím."
+        "text": "Seznamte se s dlouhověkým medúzem, který je podle vědeckých studií nesmrtelný!",
+        "image_prompt": "záběr na medúzu s průhledným tělem, jak pluje v modré vodě s osvětlením, které ukazuje její jemné detaily"
       },
       {
-        "text": "A co tato zvířata? Sloni mohou cítit vibrace země až na 8 kilometrů daleko!",
-        "image_prompt": "Skupina slonů v savaně, s viditelnými vibracemi v písku a napjatými ušima."
+        "text": "Tato medúza, známá jako Turritopsis dohrnii, je schopná se vrátit k mladé formě.",
+        "image_prompt": "animace, jak se medúza transformuje zpět do mladé podoby, s dramatickým pozadím"
       },
       {
-        "text": "A žirafy? Svým jazykem dokážou olíznout vlastní uši! Může to znít šíleně!",
-        "image_prompt": "Žirafa ohýbající se, s jazykem dlouhým a modrým, olizující ucho ve slunečním světle."
+        "text": "Jak je to možné? Turritopsis dokáže reorganizovat své buňky a začít život znovu.",
+        "image_prompt": "blízký pohled na medúzu, jejíž buňky se za pomoci světla mění, aby ukázaly proces regenerace"
       },
       {
-        "text": "Ale to není vše! Včely mají svůj vlastní 'tanec', kterým komunikují o potravě!",
-        "image_prompt": "Včely tančící v úlu, s barevnými květinami v pozadí a letícími včelami."
+        "text": "Je to jako z filmu! Ale to není všechno - umí také přežít extrémní podmínky.",
+        "image_prompt": "obrázek medúzy plující ve vodě s jasným pozadím, které ukazuje změny teploty a podmínek"
       },
       {
-        "text": "A věděli jste, že tučňáci mají důmyslné 'srdce' pro výběr partnera?",
-        "image_prompt": "Tučňáci tancující na ledu, s nádherným pozadím sněhu a modré oblohy."
+        "text": "To dokazuje, že příroda má své vlastní tajemství, o kterých pořád ještě nevíme.",
+        "image_prompt": "koláž čtyř různých zvířat s fascinujícími schopnostmi, jako jsou chameleon nebo axolotl, s dramatickým osvětlením"
       },
       {
-        "text": "Zvířata nás neustále překvapují! Jaké další šokující fakta znáte vy?",
-        "image_prompt": "Různá zvířata na jednom záběru, s otázkou vypsanou na obrazovce, což vyvolává zvědavost."
+        "text": "Kdo ví, jaké další záhady nám oceány ještě schovávají? Sledujte nás pro další úžasné příběhy!",
+        "image_prompt": "záběr podmořského světa, plného barevných ryb a korálových útesů, s nádechem mystiky a tajuplnosti"
       }
     ]
   }
