@@ -1,31 +1,31 @@
 [
   {
-    "title": "10 šokujících faktů o vesmíru, které vás ohromí!",
-    "hook": "Věděli jste, že vesmír je plný překvapení? Pojďte se podívat!",
+    "title": "10 šokujících faktů, které vás ohromí!",
+    "hook": "Věděli jste, že v našich tělech je víc atomů než hvězd v galaxii?",
     "scenes": [
       {
-        "text": "Vesmír je tak velký, že se neustále rozpíná. Ano, slyšíte správně!",
-        "image_prompt": "animace vesmíru, jak se rozpíná, s různými galaxií, které se vzdaluje"
+        "text": "Každý z nás má v těle více než 7 miliard atomů, což je více než počet hvězd v naší Galaxii!",
+        "image_prompt": "Záběr na lidské tělo s plovoucími atomy a hvězdami pozadí, které vytvářejí vesmírný efekt."
       },
       {
-        "text": "Existují hvězdy, které jsou větší než celé hvězdné systémy. Například hvězda VY Canis Majoris je obrovská!",
-        "image_prompt": "ohlédnutí na hvězdu VY Canis Majoris s vedlejšími hvězdami pro porovnání velikosti"
+        "text": "A teď to nejlepší: sklenice vody, kterou pijete, může být částí dinosauru!",
+        "image_prompt": "Doplněná sklenice s vodou, ve které se odrážejí siluety dinosaurů a prehistorické krajiny."
       },
       {
-        "text": "Jakmile se dostanete na černou díru, už nikdy se nevrátíte zpět. Je to past na světlo!",
-        "image_prompt": "vizuální efekt černé díry s okolními hvězdami, které se zakřivují směrem k ní"
+        "text": "Sloni jsou jediné zvířata, která nemohou skákat. A co budete říkat na to, že jsou také výborní plavci?",
+        "image_prompt": "Slon skákající do vody, jehož obrovské tělo vytváří velké vlny, s radostí se vrhnou do řeky."
       },
       {
-        "text": "Na Marsu prší kyselina sírová. Zní to jako sci-fi, ale je to pravda!",
-        "image_prompt": "pohled na krajinu Marsu, kde se jemně sype kyselina sírová z mraků"
+        "text": "Věděli jste, že medúzy jsou téměř nesmrtelné? Umí se regenerovat a vrátit zpět do mladého stavu!",
+        "image_prompt": "Záběr na barevné medúzy plovoucí v hlubokém moři, efekt s jemným světlem a pohybem."
       },
       {
-        "text": "V centrální části naší galaxie se nachází obrovská černá díra, která se nazývá Sagittarius A.",
-        "image_prompt": "vizualizace centrální černé díry se spirálovými rameny galaxie, které ji obklopují"
+        "text": "Žirafy mají stejný počet krčních obratlů jako lidé – pouze 7!",
+        "image_prompt": "Žirafa zdvijící hlavu vysoko nad africkou savanou, s výhledem na stádo zvířat v pozadí."
       },
       {
-        "text": "A nakonec, vědci se domnívají, že ve vesmíru může být více než 2 biliony galaxií!",
-        "image_prompt": "animace několika galaxií v různých tvarech a barvách, které se hromadí do jednoho pohledu"
+        "text": "A poslední fakt: Vědci odhadují, že ve vesmíru je více než 2 triliony galaxií! Co myslíte, kolik z nich bylo objeveno?",
+        "image_prompt": "Velkolepý pohled na vesmír s nespočtem galaxií a hvězd, přičemž jedna galaxie výrazně svítí."
       }
     ]
   }
