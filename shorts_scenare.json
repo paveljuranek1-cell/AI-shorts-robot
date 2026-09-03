@@ -1,31 +1,31 @@
 [
   {
-    "title": "10 šokujících faktů, které vás ohromí!",
-    "hook": "Věděli jste, že v našich tělech je víc atomů než hvězd v galaxii?",
+    "title": "Šokující fakta o vesmíru, která vás ohromí!",
+    "hook": "Víte, že ve vesmíru je více hvězd než zrnek písku na všech plážích Země?",
     "scenes": [
       {
-        "text": "Každý z nás má v těle více než 7 miliard atomů, což je více než počet hvězd v naší Galaxii!",
-        "image_prompt": "Záběr na lidské tělo s plovoucími atomy a hvězdami pozadí, které vytvářejí vesmírný efekt."
+        "text": "Pojďme se podívat na šokující fakta o vesmíru!",
+        "image_prompt": "vzhled nekonečné galaxie plné hvězd a barevných mlhovin s dramatickým osvětlením"
       },
       {
-        "text": "A teď to nejlepší: sklenice vody, kterou pijete, může být částí dinosauru!",
-        "image_prompt": "Doplněná sklenice s vodou, ve které se odrážejí siluety dinosaurů a prehistorické krajiny."
+        "text": "Vědci odhadují, že v našem vesmíru je více než 100 miliard galaxií.",
+        "image_prompt": "snímek různých galaxií, kde každá má jiný tvar a barvu, s podtržením jejich rozmanitosti"
       },
       {
-        "text": "Sloni jsou jediné zvířata, která nemohou skákat. A co budete říkat na to, že jsou také výborní plavci?",
-        "image_prompt": "Slon skákající do vody, jehož obrovské tělo vytváří velké vlny, s radostí se vrhnou do řeky."
+        "text": "Každá galaxie obsahuje miliardy hvězd – a to je teprve začátek!",
+        "image_prompt": "detailní pohled na blízkou galaxii s vyznačenými jednotlivými hvězdami a jejich oběžnými dráhami"
       },
       {
-        "text": "Věděli jste, že medúzy jsou téměř nesmrtelné? Umí se regenerovat a vrátit zpět do mladého stavu!",
-        "image_prompt": "Záběr na barevné medúzy plovoucí v hlubokém moři, efekt s jemným světlem a pohybem."
+        "text": "Některé hvězdy jsou tak velké, že by se do nich vešla celá naše Sluneční soustava.",
+        "image_prompt": "vizuální porovnání velikosti obří hvězdy a Sluneční soustavy, s ikonami planet uvnitř hvězdy"
       },
       {
-        "text": "Žirafy mají stejný počet krčních obratlů jako lidé – pouze 7!",
-        "image_prompt": "Žirafa zdvijící hlavu vysoko nad africkou savanou, s výhledem na stádo zvířat v pozadí."
+        "text": "Ale to není vše. Vesmír se neustále rozpíná!",
+        "image_prompt": "animace, která ukazuje rozpínající se vesmír s modrými a červenými odstíny, znázorňující expanzi"
       },
       {
-        "text": "A poslední fakt: Vědci odhadují, že ve vesmíru je více než 2 triliony galaxií! Co myslíte, kolik z nich bylo objeveno?",
-        "image_prompt": "Velkolepý pohled na vesmír s nespočtem galaxií a hvězd, přičemž jedna galaxie výrazně svítí."
+        "text": "Kdo ví, co dalšího nám vesmír skrývá? Ostatně, lidé se teprve začínají pídit po odpovědích.",
+        "image_prompt": "záběr na astronoma na observatoři, jak sleduje hvězdy se svým dalekohledem, s hvězdnou oblohou nad ním"
       }
     ]
   }
