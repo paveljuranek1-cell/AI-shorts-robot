@@ -1,31 +1,31 @@
 [
   {
-    "title": "Šokující fakta o vesmíru, která vás ohromí!",
-    "hook": "Víte, že ve vesmíru je více hvězd než zrnek písku na všech plážích Země?",
+    "title": "Neuvěřitelné zvířecí super schopnosti!",
+    "hook": "Věděli jste, že některá zvířata mohou dělat věci, které byste nikdy nečekali?",
     "scenes": [
       {
-        "text": "Pojďme se podívat na šokující fakta o vesmíru!",
-        "image_prompt": "vzhled nekonečné galaxie plné hvězd a barevných mlhovin s dramatickým osvětlením"
+        "text": "Zvířata mají v zásobě neuvěřitelné schopnosti, které mohou ohromit!",
+        "image_prompt": "Dynamický záběr na rozmanité skupiny zvířat v divočině, zatímco dramatičtí hudební podkres vytváří napětí."
       },
       {
-        "text": "Vědci odhadují, že v našem vesmíru je více než 100 miliard galaxií.",
-        "image_prompt": "snímek různých galaxií, kde každá má jiný tvar a barvu, s podtržením jejich rozmanitosti"
+        "text": "Například chameleon dokáže měnit barvy během několika sekund, aby se skryl před predátory.",
+        "image_prompt": "Detailní záběr na chameleona, jak se mění barvou, na pozadí zeleného listí a slunečního světla."
       },
       {
-        "text": "Každá galaxie obsahuje miliardy hvězd – a to je teprve začátek!",
-        "image_prompt": "detailní pohled na blízkou galaxii s vyznačenými jednotlivými hvězdami a jejich oběžnými dráhami"
+        "text": "Nebo si představte, jak delfíni používají echolokaci k hledání potravy ve tmě oceánu.",
+        "image_prompt": "Podvodní záběr delfínů, jak plavou v modré vodě, vyzařující zvukové vlny, které se odrážejí od okolních objektů."
       },
       {
-        "text": "Některé hvězdy jsou tak velké, že by se do nich vešla celá naše Sluneční soustava.",
-        "image_prompt": "vizuální porovnání velikosti obří hvězdy a Sluneční soustavy, s ikonami planet uvnitř hvězdy"
+        "text": "Některé druhy ptáků jsou mistry v napodobování lidské řeči a zvuků z okolí.",
+        "image_prompt": "Záběr na papouška sedícího na větvi, jak napodobuje smích a zvuky přírody kolem sebe."
       },
       {
-        "text": "Ale to není vše. Vesmír se neustále rozpíná!",
-        "image_prompt": "animace, která ukazuje rozpínající se vesmír s modrými a červenými odstíny, znázorňující expanzi"
+        "text": "A věděli jste, že plejtvák obrovský je největší zvíře na Zemi a jeho srdce váží jako malý automobil?",
+        "image_prompt": "Impozantní záběr na plejtváka, jak se vynořuje z hlubin oceánu, s dramatickým pozadím zapadajícího slunce."
       },
       {
-        "text": "Kdo ví, co dalšího nám vesmír skrývá? Ostatně, lidé se teprve začínají pídit po odpovědích.",
-        "image_prompt": "záběr na astronoma na observatoři, jak sleduje hvězdy se svým dalekohledem, s hvězdnou oblohou nad ním"
+        "text": "Každé z těchto zvířat nám ukazuje, jak fascinující a rozmanitý je svět přírody!",
+        "image_prompt": "Koláž nejrůznějších zvířat v přírodě, od nejmenších k největším, s animovanými prvky a rychlým střídáním záběrů."
       }
     ]
   }
