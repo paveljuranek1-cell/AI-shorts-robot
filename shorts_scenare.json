@@ -1,31 +1,31 @@
 [
   {
-    "title": "Neuvěřitelné zvířecí super schopnosti!",
-    "hook": "Věděli jste, že některá zvířata mohou dělat věci, které byste nikdy nečekali?",
+    "title": "Neuvěřitelné schopnosti zvířat, které vás šokují!",
+    "hook": "Věděli jste, že někteří zvířata mají super schopnosti, které lidé ani netuší?",
     "scenes": [
       {
-        "text": "Zvířata mají v zásobě neuvěřitelné schopnosti, které mohou ohromit!",
-        "image_prompt": "Dynamický záběr na rozmanité skupiny zvířat v divočině, zatímco dramatičtí hudební podkres vytváří napětí."
+        "text": "Začněme s octopusem, který se dokáže přizpůsobit jakémukoliv prostředí!",
+        "image_prompt": "detailní snímek chameleona a chobotnice, jak mění barvy v různých prostředích, jako jsou korálové útesy a písečné dno."
       },
       {
-        "text": "Například chameleon dokáže měnit barvy během několika sekund, aby se skryl před predátory.",
-        "image_prompt": "Detailní záběr na chameleona, jak se mění barvou, na pozadí zeleného listí a slunečního světla."
+        "text": "Další na řadě je delfín, který dokáže echolokací vidět pod vodou i ve tmě!",
+        "image_prompt": "delfín skákající nad hladinou modrého moře, za ním se světélkují ryby a bubliny."
       },
       {
-        "text": "Nebo si představte, jak delfíni používají echolokaci k hledání potravy ve tmě oceánu.",
-        "image_prompt": "Podvodní záběr delfínů, jak plavou v modré vodě, vyzařující zvukové vlny, které se odrážejí od okolních objektů."
+        "text": "A co teprve netopýři? Ti se orientují zvukem a mohou letět i ve tmě bez sebemenšího problému!",
+        "image_prompt": "noční obloha s netopýrem obletujícím osvětlené město, pod jeho křídly se víří vzduch."
       },
       {
-        "text": "Některé druhy ptáků jsou mistry v napodobování lidské řeči a zvuků z okolí.",
-        "image_prompt": "Záběr na papouška sedícího na větvi, jak napodobuje smích a zvuky přírody kolem sebe."
+        "text": "Jak na to? Zvířata využívají svá smyslová vnímání, která mají vyladěná lépe než my.",
+        "image_prompt": "infografika znázorňující smyslové vnímání různých zvířat, jako jsou psi, kočky a sloni, s grafickými prvky."
       },
       {
-        "text": "A věděli jste, že plejtvák obrovský je největší zvíře na Zemi a jeho srdce váží jako malý automobil?",
-        "image_prompt": "Impozantní záběr na plejtváka, jak se vynořuje z hlubin oceánu, s dramatickým pozadím zapadajícího slunce."
+        "text": "A nakonec, víte, že gorylová matka dokáže identifikovat své mládě i podle zvuku jeho volání?",
+        "image_prompt": "snímek gorily v džungli, jak objímá své mládě, kolem nich bujná zeleň a sluneční světlo."
       },
       {
-        "text": "Každé z těchto zvířat nám ukazuje, jak fascinující a rozmanitý je svět přírody!",
-        "image_prompt": "Koláž nejrůznějších zvířat v přírodě, od nejmenších k největším, s animovanými prvky a rychlým střídáním záběrů."
+        "text": "Tohle jsou jen některé z mnoha zázraků zvířecí říše, které nás stále fascinují!",
+        "image_prompt": "kreativní koláž různých zvířat s úžasnými schopnostmi, v barevném a dynamickém stylu."
       }
     ]
   }
