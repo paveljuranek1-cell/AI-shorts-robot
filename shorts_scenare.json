@@ -1,31 +1,31 @@
 [
   {
-    "title": "Neuvěřitelné schopnosti zvířat, které vás šokují!",
-    "hook": "Věděli jste, že někteří zvířata mají super schopnosti, které lidé ani netuší?",
+    "title": "Neuvěřitelné šokující fakta o našem vesmíru!",
+    "hook": "Věděli jste, že ve vesmíru je více hvězd než zrnek písku na všech plážích na Zemi?",
     "scenes": [
       {
-        "text": "Začněme s octopusem, který se dokáže přizpůsobit jakémukoliv prostředí!",
-        "image_prompt": "detailní snímek chameleona a chobotnice, jak mění barvy v různých prostředích, jako jsou korálové útesy a písečné dno."
+        "text": "Vědci odhadují, že v našem vesmíru existují až 2 biliony galaxií!",
+        "image_prompt": "obrovská animace vesmíru plná hvězd a galaxií, pulsující barvy a povzbuzující atmosféra"
       },
       {
-        "text": "Další na řadě je delfín, který dokáže echolokací vidět pod vodou i ve tmě!",
-        "image_prompt": "delfín skákající nad hladinou modrého moře, za ním se světélkují ryby a bubliny."
+        "text": "A každá z těchto galaxií má miliardy hvězd, které svítí jako malé slunce.",
+        "image_prompt": "detailní záběr na různobarevné hvězdy, jejichž světlo pomalu blikuje"
       },
       {
-        "text": "A co teprve netopýři? Ti se orientují zvukem a mohou letět i ve tmě bez sebemenšího problému!",
-        "image_prompt": "noční obloha s netopýrem obletujícím osvětlené město, pod jeho křídly se víří vzduch."
+        "text": "Ale co když vám řeknu, že v naší galaxii, Mléčné dráze, můžeme najít více než 100 miliard hvězd?",
+        "image_prompt": "snímek spirální galaxie Mléčné dráhy s vystupujícími hvězdami a plynými mraky"
       },
       {
-        "text": "Jak na to? Zvířata využívají svá smyslová vnímání, která mají vyladěná lépe než my.",
-        "image_prompt": "infografika znázorňující smyslové vnímání různých zvířat, jako jsou psi, kočky a sloni, s grafickými prvky."
+        "text": "A dokonce i v našem slunečním systému jsou planety, které byste nikdy nečekali vidět!",
+        "image_prompt": "animace sluneční soustavy s planetami v různých barvách a texturách"
       },
       {
-        "text": "A nakonec, víte, že gorylová matka dokáže identifikovat své mládě i podle zvuku jeho volání?",
-        "image_prompt": "snímek gorily v džungli, jak objímá své mládě, kolem nich bujná zeleň a sluneční světlo."
+        "text": "Venuše, naši sousedku, pokrývá toxicita a extrémní teploty. Je to peklo na Zemi!",
+        "image_prompt": "vysokoteplotní animace Venuse s vulkanickou aktivitou a toxickými mraky"
       },
       {
-        "text": "Tohle jsou jen některé z mnoha zázraků zvířecí říše, které nás stále fascinují!",
-        "image_prompt": "kreativní koláž různých zvířat s úžasnými schopnostmi, v barevném a dynamickém stylu."
+        "text": "Vesmír je plný tajemství, která čekají na to, až budou odhalena. Co dalšího nás čeká?",
+        "image_prompt": "mysteriózní záběr na tajemné černé díry a záhadné objekty ve vesmíru, podivné barvy a atmosféra tajemství"
       }
     ]
   }
