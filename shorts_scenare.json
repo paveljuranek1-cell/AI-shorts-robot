@@ -1,31 +1,31 @@
 [
   {
-    "title": "Neuvěřitelné šokující fakta o našem vesmíru!",
-    "hook": "Věděli jste, že ve vesmíru je více hvězd než zrnek písku na všech plážích na Zemi?",
+    "title": "Neuvěřitelná fakta o zvířatech!",
+    "hook": "Věděli jste, že delfíni mají jména?",
     "scenes": [
       {
-        "text": "Vědci odhadují, že v našem vesmíru existují až 2 biliony galaxií!",
-        "image_prompt": "obrovská animace vesmíru plná hvězd a galaxií, pulsující barvy a povzbuzující atmosféra"
+        "text": "Delfíni si vyvíjejí vlastní jména pro volání jeden druhého!",
+        "image_prompt": "záběr na delfíny skákající nad hladinou moře, sluneční paprsky se odrážejí na vodě"
       },
       {
-        "text": "A každá z těchto galaxií má miliardy hvězd, které svítí jako malé slunce.",
-        "image_prompt": "detailní záběr na různobarevné hvězdy, jejichž světlo pomalu blikuje"
+        "text": "A co sloni? Ti si dokonce pamatují cesty za vodou i po letech!",
+        "image_prompt": "skupina slonů kráčejících skrze africkou savanu při západu slunce"
       },
       {
-        "text": "Ale co když vám řeknu, že v naší galaxii, Mléčné dráze, můžeme najít více než 100 miliard hvězd?",
-        "image_prompt": "snímek spirální galaxie Mléčné dráhy s vystupujícími hvězdami a plynými mraky"
+        "text": "Kočky mají schopnost chápat lidské emoce a reagují na ně!",
+        "image_prompt": "uvolněná kočka ležící u člověka na pohovce, v pozadí je rodinná atmosféra"
       },
       {
-        "text": "A dokonce i v našem slunečním systému jsou planety, které byste nikdy nečekali vidět!",
-        "image_prompt": "animace sluneční soustavy s planetami v různých barvách a texturách"
+        "text": "A jací jsou nejlepší skokani? To jsou žirafy - mohou skočit až 5 metrů!",
+        "image_prompt": "žirafa přeskakující překážku v přírodní rezervaci, diváci s otevřenými ústy"
       },
       {
-        "text": "Venuše, naši sousedku, pokrývá toxicita a extrémní teploty. Je to peklo na Zemi!",
-        "image_prompt": "vysokoteplotní animace Venuse s vulkanickou aktivitou a toxickými mraky"
+        "text": "Ptáci papoušci se mohou naučit až 100 slov a mají smysl pro humor!",
+        "image_prompt": "barevný papoušek sedící na rameni člověka, provádějící komické triky"
       },
       {
-        "text": "Vesmír je plný tajemství, která čekají na to, až budou odhalena. Co dalšího nás čeká?",
-        "image_prompt": "mysteriózní záběr na tajemné černé díry a záhadné objekty ve vesmíru, podivné barvy a atmosféra tajemství"
+        "text": "A nakonec, věděli jste, že krabi mohou chodit bokem rychlostí téměř 3 km/h?",
+        "image_prompt": "krab jedoucí po pláži, na pozadí modré moře a bílý písek"
       }
     ]
   }
