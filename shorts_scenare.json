@@ -1,31 +1,31 @@
 [
   {
-    "title": "Neuvěřitelná fakta o zvířatech!",
-    "hook": "Věděli jste, že delfíni mají jména?",
+    "title": "Neuvěřitelná tajemství vesmíru!",
+    "hook": "Věděli jste, že existuje místo ve vesmíru, kde čas skoro zastavuje?",
     "scenes": [
       {
-        "text": "Delfíni si vyvíjejí vlastní jména pro volání jeden druhého!",
-        "image_prompt": "záběr na delfíny skákající nad hladinou moře, sluneční paprsky se odrážejí na vodě"
+        "text": "Představte si, že existuje černá díra, kde gravitace je tak silná, že ani světlo nemůže uniknout.",
+        "image_prompt": "temná obloha s dynamickým zobrazením černé díry obklopené jasnými hvězdami a spirálovitými mlhovinami."
       },
       {
-        "text": "A co sloni? Ti si dokonce pamatují cesty za vodou i po letech!",
-        "image_prompt": "skupina slonů kráčejících skrze africkou savanu při západu slunce"
+        "text": "Tato černá díra, zvaná Sagittarus A*, je umístěna uprostřed naší galaxie.",
+        "image_prompt": "animovaný 3D model galaxie s centrální černou dírou, kolem které obíhá hvězdné systémy."
       },
       {
-        "text": "Kočky mají schopnost chápat lidské emoce a reagují na ně!",
-        "image_prompt": "uvolněná kočka ležící u člověka na pohovce, v pozadí je rodinná atmosféra"
+        "text": "Vědci zjistili, že pokud byste se k ní přiblížili, čas by pro vás plynul mnohem pomaleji.",
+        "image_prompt": "ilustrace člověka poblíž černé díry, zatímco hodiny kolem něj ukazují jiný čas než na Zemi."
       },
       {
-        "text": "A jací jsou nejlepší skokani? To jsou žirafy - mohou skočit až 5 metrů!",
-        "image_prompt": "žirafa přeskakující překážku v přírodní rezervaci, diváci s otevřenými ústy"
+        "text": "Představte si, že zrychlíte svoji cestu do budoucnosti, jen tím, že se přiblížíte k jejímu okraji!",
+        "image_prompt": "kreativní vizualizace futuristického vozidla v prostředí černé díry, s jasně viditelnými efekty gravitace."
       },
       {
-        "text": "Ptáci papoušci se mohou naučit až 100 slov a mají smysl pro humor!",
-        "image_prompt": "barevný papoušek sedící na rameni člověka, provádějící komické triky"
+        "text": "A navíc, černé díry jsou zodpovědné za pohyb galaxií.",
+        "image_prompt": "animace dvou galaxií, jak se navzájem ovlivňují skrze gravitační síly černých dír."
       },
       {
-        "text": "A nakonec, věděli jste, že krabi mohou chodit bokem rychlostí téměř 3 km/h?",
-        "image_prompt": "krab jedoucí po pláži, na pozadí modré moře a bílý písek"
+        "text": "Vesmír je opravdu plný překvapení a tajemství! Co dalšího se tam ukrývá?",
+        "image_prompt": "scéna širého vesmíru s hvězdnými mraky, meteority a různobarevnými galaxií, evokující pocit tajemství."
       }
     ]
   }
