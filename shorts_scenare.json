@@ -1,31 +1,31 @@
 [
   {
-    "title": "Neuvěřitelná tajemství vesmíru!",
-    "hook": "Věděli jste, že existuje místo ve vesmíru, kde čas skoro zastavuje?",
+    "title": "Nejpodivnější zvířata, která jste nikdy neviděli!",
+    "hook": "Věděli jste, že na Zemi žijí zvířata, která vypadají jako z pohádek?",
     "scenes": [
       {
-        "text": "Představte si, že existuje černá díra, kde gravitace je tak silná, že ani světlo nemůže uniknout.",
-        "image_prompt": "temná obloha s dynamickým zobrazením černé díry obklopené jasnými hvězdami a spirálovitými mlhovinami."
+        "text": "Představujeme vám axolotla – úžasnou vodní příšerku, která nikdy neroste z larvální fáze!",
+        "image_prompt": "detailní pohled na axolotla, plavajícího v průzračné vodě s křehkými růžovými žábrami"
       },
       {
-        "text": "Tato černá díra, zvaná Sagittarus A*, je umístěna uprostřed naší galaxie.",
-        "image_prompt": "animovaný 3D model galaxie s centrální černou dírou, kolem které obíhá hvězdné systémy."
+        "text": "A co třeba okapi? Je to tak trochu kombinace zebra a žirafy!",
+        "image_prompt": "jedinečné zvíře okapi stojící v hustém deštném pralese, jeho zbarvení připomíná zebří pruhy"
       },
       {
-        "text": "Vědci zjistili, že pokud byste se k ní přiblížili, čas by pro vás plynul mnohem pomaleji.",
-        "image_prompt": "ilustrace člověka poblíž černé díry, zatímco hodiny kolem něj ukazují jiný čas než na Zemi."
+        "text": "Nepřestávejte koukat! Tady je munja, zvíře, které dokáže přežít ve velmi extrémních podmínkách!",
+        "image_prompt": "munja, odolné zvíře, klidně se pohybující po skalách v drsném počasí"
       },
       {
-        "text": "Představte si, že zrychlíte svoji cestu do budoucnosti, jen tím, že se přiblížíte k jejímu okraji!",
-        "image_prompt": "kreativní vizualizace futuristického vozidla v prostředí černé díry, s jasně viditelnými efekty gravitace."
+        "text": "Podívejte se na tento úžasný tvar – mýval velký! Někteří tvrdí, že je to živý skvost!",
+        "image_prompt": "roztomilý mýval s výraznými pruhy na ocase, sedící na větvi stromu"
       },
       {
-        "text": "A navíc, černé díry jsou zodpovědné za pohyb galaxií.",
-        "image_prompt": "animace dvou galaxií, jak se navzájem ovlivňují skrze gravitační síly černých dír."
+        "text": "A konečně, víte, co je to 'sloní ryba'? Tohle není pohádka, ale opravdové zvíře!",
+        "image_prompt": "podivná sloní ryba plavající ve slané vodě s velkým tělem a charakteristickými rysy"
       },
       {
-        "text": "Vesmír je opravdu plný překvapení a tajemství! Co dalšího se tam ukrývá?",
-        "image_prompt": "scéna širého vesmíru s hvězdnými mraky, meteority a různobarevnými galaxií, evokující pocit tajemství."
+        "text": "Svět je plný divů a tyto zvířata vám jenom ukážou, jak je příroda úžasná!",
+        "image_prompt": "koláž všech předchozích zvířat s barevným pozadím a nápisem 'Divoká příroda!'"
       }
     ]
   }
