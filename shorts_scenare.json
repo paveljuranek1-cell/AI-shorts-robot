@@ -1,31 +1,31 @@
 [
   {
-    "title": "Nejpodivnější zvířata, která jste nikdy neviděli!",
-    "hook": "Věděli jste, že na Zemi žijí zvířata, která vypadají jako z pohádek?",
+    "title": "Náhled do tajemství vesmíru: Proč je temná hmotnost tak šokující?",
+    "hook": "Věděli jste, že 85% vesmíru je neviditelné?",
     "scenes": [
       {
-        "text": "Představujeme vám axolotla – úžasnou vodní příšerku, která nikdy neroste z larvální fáze!",
-        "image_prompt": "detailní pohled na axolotla, plavajícího v průzračné vodě s křehkými růžovými žábrami"
+        "text": "Temná hmota tvoří většinu vesmíru, ale nikdo neví, co to vlastně je!",
+        "image_prompt": "otevřený pohled na hvězdné nebe s žhnoucími galaxiemi a v pozadí temné, tajemné siluety."
       },
       {
-        "text": "A co třeba okapi? Je to tak trochu kombinace zebra a žirafy!",
-        "image_prompt": "jedinečné zvíře okapi stojící v hustém deštném pralese, jeho zbarvení připomíná zebří pruhy"
+        "text": "Představte si, že každá galaxie je pouze ledovcem, jehož většina je pod vodou, a právě temná hmota tvoří tu část, kterou nevidíme.",
+        "image_prompt": "animace galaxie otočující se, ukazující jen vrchol a poté plynule přecházející do obrovského ledovce pod hladinou."
       },
       {
-        "text": "Nepřestávejte koukat! Tady je munja, zvíře, které dokáže přežít ve velmi extrémních podmínkách!",
-        "image_prompt": "munja, odolné zvíře, klidně se pohybující po skalách v drsném počasí"
+        "text": "Astronomové zjistili, že temná hmota interaguje s běžnou hmotou pouze gravitací. Co je tedy její pravá podstata?",
+        "image_prompt": "vědci pracující s teleskopem v noci, obklopení diagramy a modely znázorňujícími síly gravitace."
       },
       {
-        "text": "Podívejte se na tento úžasný tvar – mýval velký! Někteří tvrdí, že je to živý skvost!",
-        "image_prompt": "roztomilý mýval s výraznými pruhy na ocase, sedící na větvi stromu"
+        "text": "Někteří vědci věří, že temná hmota může být složena z dosud neobjevených částic, které mají unikátní vlastnosti.",
+        "image_prompt": "laboratoř se zkumavkami a zařízeními pro experimenty, s animací částic pohybujících se v ní."
       },
       {
-        "text": "A konečně, víte, co je to 'sloní ryba'? Tohle není pohádka, ale opravdové zvíře!",
-        "image_prompt": "podivná sloní ryba plavající ve slané vodě s velkým tělem a charakteristickými rysy"
+        "text": "A co je ještě šokující? Temná hmota ovlivňuje formování galaxií a dokonce způsobuje gravitační čočky!",
+        "image_prompt": "vizualizace galaxie deformované gravitační čočkou, ukazující světelné efekty a šíření světla."
       },
       {
-        "text": "Svět je plný divů a tyto zvířata vám jenom ukážou, jak je příroda úžasná!",
-        "image_prompt": "koláž všech předchozích zvířat s barevným pozadím a nápisem 'Divoká příroda!'"
+        "text": "Představte si, že to, co vás obklopuje, je vlastně jen špička obrovské tajemné hmoty. Co dalšího se ukrývá v temnotě?",
+        "image_prompt": "pohled na vesmír z pohledu astronauta, který objevuje neznámé, tmavé objekty v pozadí s jasnými hvězdami."
       }
     ]
   }
