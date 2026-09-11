@@ -1,31 +1,31 @@
 [
   {
-    "title": "Náhled do tajemství vesmíru: Proč je temná hmotnost tak šokující?",
-    "hook": "Věděli jste, že 85% vesmíru je neviditelné?",
+    "title": "Neuvěřitelné tajemství v oceánu!",
+    "hook": "Věděli jste, že v hlubinách oceánu se skrývá něco, co nikdy předtím neviděli lidé?",
     "scenes": [
       {
-        "text": "Temná hmota tvoří většinu vesmíru, ale nikdo neví, co to vlastně je!",
-        "image_prompt": "otevřený pohled na hvězdné nebe s žhnoucími galaxiemi a v pozadí temné, tajemné siluety."
+        "text": "V oceánu existuje neuvěřitelné množství neprozkoumaných oblastí.",
+        "image_prompt": "panoramatický pohled na hluboký oceán, s tajemnými tvary a stíny pod vodou."
       },
       {
-        "text": "Představte si, že každá galaxie je pouze ledovcem, jehož většina je pod vodou, a právě temná hmota tvoří tu část, kterou nevidíme.",
-        "image_prompt": "animace galaxie otočující se, ukazující jen vrchol a poté plynule přecházející do obrovského ledovce pod hladinou."
+        "text": "Vědci objevili dosud neznámou množinu podmořských sopek.",
+        "image_prompt": "animace podmořské sopky s erupcí, vytvářející nádherné podvodní efekty a bubliny."
       },
       {
-        "text": "Astronomové zjistili, že temná hmota interaguje s běžnou hmotou pouze gravitací. Co je tedy její pravá podstata?",
-        "image_prompt": "vědci pracující s teleskopem v noci, obklopení diagramy a modely znázorňujícími síly gravitace."
+        "text": "Tyto sopky mohou ovlivnit celosvětové klima.",
+        "image_prompt": "grafika koláče s ukázkou, jak podmořské sopečné aktivity ovlivňují počasí na Zemi."
       },
       {
-        "text": "Někteří vědci věří, že temná hmota může být složena z dosud neobjevených částic, které mají unikátní vlastnosti.",
-        "image_prompt": "laboratoř se zkumavkami a zařízeními pro experimenty, s animací částic pohybujících se v ní."
+        "text": "Některé typy mořských živočichů žijí pouze kolem těchto sopek.",
+        "image_prompt": "barevné a fantastické mořské živočichy plavající kolem sopky, v živých barvách."
       },
       {
-        "text": "A co je ještě šokující? Temná hmota ovlivňuje formování galaxií a dokonce způsobuje gravitační čočky!",
-        "image_prompt": "vizualizace galaxie deformované gravitační čočkou, ukazující světelné efekty a šíření světla."
+        "text": "Každý rok se objevují nové druhy, které změnily naše chápání života.",
+        "image_prompt": "vědec ve vodě s potápěčskou výbavou, objevující nový druh ryby, která svítí ve tmě."
       },
       {
-        "text": "Představte si, že to, co vás obklopuje, je vlastně jen špička obrovské tajemné hmoty. Co dalšího se ukrývá v temnotě?",
-        "image_prompt": "pohled na vesmír z pohledu astronauta, který objevuje neznámé, tmavé objekty v pozadí s jasnými hvězdami."
+        "text": "Co dalšího se skrývá v hlubinách oceánu? Nikdy nevíme, co můžeme objevit!",
+        "image_prompt": "náhled na obrovské, tajemné stvoření, které zpod hladiny vyplouvá s jemným zářením."
       }
     ]
   }
