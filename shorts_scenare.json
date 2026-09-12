@@ -1,31 +1,31 @@
 [
   {
-    "title": "Neuvěřitelné tajemství v oceánu!",
-    "hook": "Věděli jste, že v hlubinách oceánu se skrývá něco, co nikdy předtím neviděli lidé?",
+    "title": "Šokující fakta o vesmíru!",
+    "hook": "Věděli jste, že ve vesmíru je více hvězd než zrn písku na Zemi?",
     "scenes": [
       {
-        "text": "V oceánu existuje neuvěřitelné množství neprozkoumaných oblastí.",
-        "image_prompt": "panoramatický pohled na hluboký oceán, s tajemnými tvary a stíny pod vodou."
+        "text": "Vesmír není jen prázdné místo, je plný záhad a překvapení!",
+        "image_prompt": "Obrázek nádherné galaxie s jasně zářícími hvězdami a barevnými mlhovinami."
       },
       {
-        "text": "Vědci objevili dosud neznámou množinu podmořských sopek.",
-        "image_prompt": "animace podmořské sopky s erupcí, vytvářející nádherné podvodní efekty a bubliny."
+        "text": "Například, naše Slunce je jen jednou z více než 100 miliard hvězd v naší galaxii.",
+        "image_prompt": "Pohled na Slunce vycházející nad horizontem Země, s barevnými odlesky na obloze."
       },
       {
-        "text": "Tyto sopky mohou ovlivnit celosvětové klima.",
-        "image_prompt": "grafika koláče s ukázkou, jak podmořské sopečné aktivity ovlivňují počasí na Zemi."
+        "text": "Ale to je nic v porovnání s celým vesmírem, který obsahuje triliony hvězd!",
+        "image_prompt": "Rozlehlý kosmický prostor s miliony hvězd a galaxiemi v různých barvách."
       },
       {
-        "text": "Některé typy mořských živočichů žijí pouze kolem těchto sopek.",
-        "image_prompt": "barevné a fantastické mořské živočichy plavající kolem sopky, v živých barvách."
+        "text": "A co je ještě šílenější? Vesmír se stále rozpíná!",
+        "image_prompt": "Animace ukazující rozpínání vesmíru s odcházejícími galaxií v pozadí."
       },
       {
-        "text": "Každý rok se objevují nové druhy, které změnily naše chápání života.",
-        "image_prompt": "vědec ve vodě s potápěčskou výbavou, objevující nový druh ryby, která svítí ve tmě."
+        "text": "Myslíte, že je to fascinující? A co říkáte na černé díry?",
+        "image_prompt": "Vizuálně ohromující černá díra s okolním vířením hvězdného materiálu."
       },
       {
-        "text": "Co dalšího se skrývá v hlubinách oceánu? Nikdy nevíme, co můžeme objevit!",
-        "image_prompt": "náhled na obrovské, tajemné stvoření, které zpod hladiny vyplouvá s jemným zářením."
+        "text": "Jedna černá díra může mít hmotnost miliard Sluncí – a stále nám zůstává mnoho otázek!",
+        "image_prompt": "Obrázek astronoma sledujícího černou díru z dalekohledu, s vrcholem vesmíru na pozadí."
       }
     ]
   }
