@@ -1,31 +1,31 @@
 [
   {
-    "title": "Šokující fakta o vesmíru!",
-    "hook": "Věděli jste, že ve vesmíru je více hvězd než zrn písku na Zemi?",
+    "title": "Tajné fakty o vesmíru, které vás šokují!",
+    "hook": "Věděli jste, že ve vesmíru je víc hvězd než zrn písku na Zemi?",
     "scenes": [
       {
-        "text": "Vesmír není jen prázdné místo, je plný záhad a překvapení!",
-        "image_prompt": "Obrázek nádherné galaxie s jasně zářícími hvězdami a barevnými mlhovinami."
+        "text": "Když se podíváme na noční oblohu, vidíme jen malý zlomek z toho, co vesmír skutečně skrývá.",
+        "image_prompt": "Panoramatický záběr noční oblohy plné hvězd s Mléčnou dráhou jasně viditelnou na pozadí."
       },
       {
-        "text": "Například, naše Slunce je jen jednou z více než 100 miliard hvězd v naší galaxii.",
-        "image_prompt": "Pohled na Slunce vycházející nad horizontem Země, s barevnými odlesky na obloze."
+        "text": "Astronomové odhadují, že ve vesmíru je asi 100 miliard galaxí, každá s miliony hvězd.",
+        "image_prompt": "Grafika znázorňující různé galaxie, rozmanité barvy a tvary, s animací přesunu mezi nimi."
       },
       {
-        "text": "Ale to je nic v porovnání s celým vesmírem, který obsahuje triliony hvězd!",
-        "image_prompt": "Rozlehlý kosmický prostor s miliony hvězd a galaxiemi v různých barvách."
+        "text": "Ale to není všechno! Existují oblasti, kde je hmota doslova 'neviditelná' – černé díry.",
+        "image_prompt": "Ilustrace černé díry s obklopujícími hvězdami a světelnými efekty, jak jsou strhávány do ní."
       },
       {
-        "text": "A co je ještě šílenější? Vesmír se stále rozpíná!",
-        "image_prompt": "Animace ukazující rozpínání vesmíru s odcházejícími galaxií v pozadí."
+        "text": "A co takhle to, že vesmír stále roste a my ho nikdy nebudeme moci celé prozkoumat?",
+        "image_prompt": "Animace znázorňující expanzi vesmíru, jak se galaxie vzdalují jedna od druhé."
       },
       {
-        "text": "Myslíte, že je to fascinující? A co říkáte na černé díry?",
-        "image_prompt": "Vizuálně ohromující černá díra s okolním vířením hvězdného materiálu."
+        "text": "Někteří vědci věří, že existují paralelní vesmíry, což znamená, že může existovat více verzí nás samých!",
+        "image_prompt": "Grafické ztvárnění multivesmíru s různými verzemi Země a lidí, které se mírně liší."
       },
       {
-        "text": "Jedna černá díra může mít hmotnost miliard Sluncí – a stále nám zůstává mnoho otázek!",
-        "image_prompt": "Obrázek astronoma sledujícího černou díru z dalekohledu, s vrcholem vesmíru na pozadí."
+        "text": "Tak co říkáte? Odkud pocházíme a kam směřujeme? Vesmír má stále mnoho tajemství.",
+        "image_prompt": "Uživatelsky přívětivej vizuální živý grafič následující pohled do nekonečna, s otazníky a hvězdami."
       }
     ]
   }
