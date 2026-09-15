@@ -1,31 +1,31 @@
 [
   {
-    "title": "Tajemství vesmíru: Co skrývá černá díra?",
-    "hook": "Věděli jste, že černé díry mohou pohlcovat celé hvězdy?",
+    "title": "5 šokujících faktů o zvířatech, které vás ohromí!",
+    "hook": "Víte, že sloni mají schopnost plakat? To je jen začátek!",
     "scenes": [
       {
-        "text": "Zde je fascinující pohled na černou díru, která nasává vše kolem sebe.",
-        "image_prompt": "detailní záběr na černou díru ve vesmíru, kolem ní spirálovité akreční diskové oblačnosti, hvězdné světlo se ohýbá."
+        "text": "Sloni jsou jediné zvířata, která projevují smutek a dokážou plakat.",
+        "image_prompt": "slon s lesklýma očima, který stojí na slunci v přírodě, s bolestivým výrazem, v pozadí zelené stromy"
       },
       {
-        "text": "Tyto objekty mají tak silnou gravitaci, že nic, ani světlo, nemůže uniknout.",
-        "image_prompt": "vizuální znázornění černé díry s efektem ohybání světla, s bílými hvězdami na pozadí."
+        "text": "Zajímalo vás někdy, jak dlouho může manatee zadržet dech? Může to být až 20 minut!",
+        "image_prompt": "manatee plavající pod vodou, klidná modrá voda a sluneční paprsky prosvítající pod hladinu"
       },
       {
-        "text": "Existují dokonce i teorie, že černé díry by mohly být bránami do jiných vesmírů.",
-        "image_prompt": "umělecká ilustrace brány do jiného vesmíru s živými barvami a neznámými objekty."
+        "text": "Už jste slyšeli o druhu včel, které se nazývá 'včely assassin'? Jsou skutečně nebezpečné!",
+        "image_prompt": "včela s agresivním výrazem, posazená na květu, popředí barevných květin a jasného slunečního světla"
       },
       {
-        "text": "Ale jak sem uvnitř nic nevydává zvuk, lidé často o nich mluví jako o 'zvukových tichých zabijácích'.",
-        "image_prompt": "animace černé díry, z níž vycházejí vlny energie a zvukové vlny, které se proměňují v tichou temnotu."
+        "text": "Kočky mají schopnost rozdávat 'purr' zvuk, který dokáže uklidnit i lidi.",
+        "image_prompt": "spokojená kočka ležící na sluníčku, s otevřenýma očima a uvolněným výrazem, pozadí zahrady"
       },
       {
-        "text": "Vědci se snaží pochopit jejich tajemství už desítky let.",
-        "image_prompt": "skupina vědců pracující na počítačích s holografickými projekcemi černých děr a dat."
+        "text": "A teď něčím, co jste určitě nevěděli: chobotnice mají tři srdce!",
+        "image_prompt": "chobotnice plavající po dně oceánu, živě barevná a majestátní, obklopená korály"
       },
       {
-        "text": "Co si o tom myslíte? Jsou černé díry skutečně bránami do neznáma?",
-        "image_prompt": "pohled na noční oblohu plnou hvězd s nádechem tajemství a otázkami zobrazenými jako popisky."
+        "text": "Není to úžasné, jak se tajemné zvířecí schopnosti vyvíjejí v přírodě?",
+        "image_prompt": "koláž různých zvířat, jako slon, včela, kočka a chobotnice, na jednom obrázku, s jasným pozadím."
       }
     ]
   }
