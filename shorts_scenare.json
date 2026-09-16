@@ -1,31 +1,31 @@
 [
   {
-    "title": "5 šokujících faktů o zvířatech, které vás ohromí!",
-    "hook": "Víte, že sloni mají schopnost plakat? To je jen začátek!",
+    "title": "Vesmírné záhady, které vás ohromí!",
+    "hook": "Věděli jste, že ve vesmíru může existovat více než jeden čas?",
     "scenes": [
       {
-        "text": "Sloni jsou jediné zvířata, která projevují smutek a dokážou plakat.",
-        "image_prompt": "slon s lesklýma očima, který stojí na slunci v přírodě, s bolestivým výrazem, v pozadí zelené stromy"
+        "text": "Představte si, že existují místa ve vesmíru, kde se čas chová úplně jinak...",
+        "image_prompt": "Silné barevné zobrazení vesmíru s galaxiemi, meteority a abstraktními časovými spirálami."
       },
       {
-        "text": "Zajímalo vás někdy, jak dlouho může manatee zadržet dech? Může to být až 20 minut!",
-        "image_prompt": "manatee plavající pod vodou, klidná modrá voda a sluneční paprsky prosvítající pod hladinu"
+        "text": "Toto jsou černé díry, které zakřivují prostor a čas kolem sebe.",
+        "image_prompt": "Animace černé díry, jak pohlcuje okolní hvězdy a světlo, s dramatickým osvětlením."
       },
       {
-        "text": "Už jste slyšeli o druhu včel, které se nazývá 'včely assassin'? Jsou skutečně nebezpečné!",
-        "image_prompt": "včela s agresivním výrazem, posazená na květu, popředí barevných květin a jasného slunečního světla"
+        "text": "Když se přiblížíte k černé díře, čas se zpomaluje. Pro astronauty by to znamenalo, že by stárli pomaleji než my na Zemi!",
+        "image_prompt": "Zobrazení astronauta v blízkosti okraje černé díry s fascinujícími efekty zakřiveného světla."
       },
       {
-        "text": "Kočky mají schopnost rozdávat 'purr' zvuk, který dokáže uklidnit i lidi.",
-        "image_prompt": "spokojená kočka ležící na sluníčku, s otevřenýma očima a uvolněným výrazem, pozadí zahrady"
+        "text": "Ale to není vše! Existují také teorie o kvantovém provázání, které ukazuje, že částice mohou být propojeny napříč vesmírem.",
+        "image_prompt": "Zobrazení částic spojených jemnými vlákny energie mezi různými body ve vesmíru."
       },
       {
-        "text": "A teď něčím, co jste určitě nevěděli: chobotnice mají tři srdce!",
-        "image_prompt": "chobotnice plavající po dně oceánu, živě barevná a majestátní, obklopená korály"
+        "text": "A co takhle myšlenka multivesmíru? Můžeme být jen jedním z mnoha vesmírů!",
+        "image_prompt": "Vizuálně ohromující zobrazení nekonečných paralelních vesmírů s různými barvami a tvary."
       },
       {
-        "text": "Není to úžasné, jak se tajemné zvířecí schopnosti vyvíjejí v přírodě?",
-        "image_prompt": "koláž různých zvířat, jako slon, včela, kočka a chobotnice, na jednom obrázku, s jasným pozadím."
+        "text": "Záhady vesmíru stále čekají na odhalení. Co dalšího se skrývá v temných koutech našeho vesmíru?",
+        "image_prompt": "Vysoké rozlišení temného vesmíru s jasnými hvězdami, náznaky skrytých objektů a otazníků v pozadí."
       }
     ]
   }
