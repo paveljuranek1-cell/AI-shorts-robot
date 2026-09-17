@@ -1,31 +1,31 @@
 [
   {
-    "title": "Vesmírné záhady, které vás ohromí!",
-    "hook": "Věděli jste, že ve vesmíru může existovat více než jeden čas?",
+    "title": "Největší záhady vesmíru",
+    "hook": "Vědci dodnes neví, co je to temná hmota!",
     "scenes": [
       {
-        "text": "Představte si, že existují místa ve vesmíru, kde se čas chová úplně jinak...",
-        "image_prompt": "Silné barevné zobrazení vesmíru s galaxiemi, meteority a abstraktními časovými spirálami."
+        "text": "Víte, že 85% vesmíru je složeno z temné hmoty, kterou nemůžeme ani vidět?",
+        "image_prompt": "Mystický, tmavý prostor plný hvězd s úžasnou galaxií v pozadí, která září v různých barvách."
       },
       {
-        "text": "Toto jsou černé díry, které zakřivují prostor a čas kolem sebe.",
-        "image_prompt": "Animace černé díry, jak pohlcuje okolní hvězdy a světlo, s dramatickým osvětlením."
+        "text": "A co takhle černé díry? Ty dokážou pohlcovat vše, dokonce i světlo!",
+        "image_prompt": "Ilustrace černé díry s kolem ní vířícími hvězdami a zářícím diskem akrece."
       },
       {
-        "text": "Když se přiblížíte k černé díře, čas se zpomaluje. Pro astronauty by to znamenalo, že by stárli pomaleji než my na Zemi!",
-        "image_prompt": "Zobrazení astronauta v blízkosti okraje černé díry s fascinujícími efekty zakřiveného světla."
+        "text": "Ale co když vám řeknu, že historie naší planety není nic ve srovnání s rozsahem vesmíru?",
+        "image_prompt": "Obrovský vesmír s naší zemí na pozadí, znázorněný jako malý modrý bod proti bezednému prostoru."
       },
       {
-        "text": "Ale to není vše! Existují také teorie o kvantovém provázání, které ukazuje, že částice mohou být propojeny napříč vesmírem.",
-        "image_prompt": "Zobrazení částic spojených jemnými vlákny energie mezi různými body ve vesmíru."
+        "text": "Existuje také teorie multiversa – tedy že existuje nekonečně mnohem více vesmírů!",
+        "image_prompt": "Vizuální ztvárnění multiversa, kde se objevují různé vesmíry s různými barvami, tvary a strukturami."
       },
       {
-        "text": "A co takhle myšlenka multivesmíru? Můžeme být jen jedním z mnoha vesmírů!",
-        "image_prompt": "Vizuálně ohromující zobrazení nekonečných paralelních vesmírů s různými barvami a tvary."
+        "text": "Nejzajímavější je, že některé z těchto univerzů mohou mít úplně jiná pravidla fyziky.",
+        "image_prompt": "Abstraktní umění znázorňující různé fyzikální zákony, které se projevují v různých vesmírech."
       },
       {
-        "text": "Záhady vesmíru stále čekají na odhalení. Co dalšího se skrývá v temných koutech našeho vesmíru?",
-        "image_prompt": "Vysoké rozlišení temného vesmíru s jasnými hvězdami, náznaky skrytých objektů a otazníků v pozadí."
+        "text": "Tak co, jste připraveni odhalit tajemství vesmíru? Přidejte se k nám na další cestu za poznáním!",
+        "image_prompt": "Skupina lidí na vrcholku hory sledující hvězdné nebe s teleskopem, fascinovaní krásou vesmíru."
       }
     ]
   }
