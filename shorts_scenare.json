@@ -1,31 +1,31 @@
 [
   {
-    "title": "Největší záhady vesmíru",
-    "hook": "Vědci dodnes neví, co je to temná hmota!",
+    "title": "Neuvěřitelné tajemství podhoubí",
+    "hook": "Věděli jste, že se pod našima nohama skrývá fascinující svět?",
     "scenes": [
       {
-        "text": "Víte, že 85% vesmíru je složeno z temné hmoty, kterou nemůžeme ani vidět?",
-        "image_prompt": "Mystický, tmavý prostor plný hvězd s úžasnou galaxií v pozadí, která září v různých barvách."
+        "text": "Podle vědců je podhoubí, které tvoří houby, rozsáhlejší než celé kontinenty!",
+        "image_prompt": "detailní záběr na kořenový systém stromů s viditelnými houbami a podhoubím, vše osvětlené fascinujícím způsobem"
       },
       {
-        "text": "A co takhle černé díry? Ty dokážou pohlcovat vše, dokonce i světlo!",
-        "image_prompt": "Ilustrace černé díry s kolem ní vířícími hvězdami a zářícím diskem akrece."
+        "text": "U některých druhů hub může být jejich podhoubí staré až tisíce let!",
+        "image_prompt": "historické záznamy a obrázky starých houbových kolonií s grafikou znázorňující stáří a rozměry"
       },
       {
-        "text": "Ale co když vám řeknu, že historie naší planety není nic ve srovnání s rozsahem vesmíru?",
-        "image_prompt": "Obrovský vesmír s naší zemí na pozadí, znázorněný jako malý modrý bod proti bezednému prostoru."
+        "text": "Podhoubí hraje klíčovou roli v přírodě, neboť přenáší živiny mezi rostlinami.",
+        "image_prompt": "animovaný záběr podhoubí, jak se propojuje s kořeny rostlin a přenáší úrodnou půdu"
       },
       {
-        "text": "Existuje také teorie multiversa – tedy že existuje nekonečně mnohem více vesmírů!",
-        "image_prompt": "Vizuální ztvárnění multiversa, kde se objevují různé vesmíry s různými barvami, tvary a strukturami."
+        "text": "A to nejlepší? Některé houby dokáží rozložit toxické látky a znečištění!",
+        "image_prompt": "záběr houbových koloníí rostoucích na odpadcích, jak se kolem nich čistí příroda"
       },
       {
-        "text": "Nejzajímavější je, že některé z těchto univerzů mohou mít úplně jiná pravidla fyziky.",
-        "image_prompt": "Abstraktní umění znázorňující různé fyzikální zákony, které se projevují v různých vesmírech."
+        "text": "Na celém světě existuje přes 100 000 známých druhů hub, ale většina je stále neprozkoumaná.",
+        "image_prompt": "barevné záběry různých druhů hub v přírodě, od známých po exotické a neznámé"
       },
       {
-        "text": "Tak co, jste připraveni odhalit tajemství vesmíru? Přidejte se k nám na další cestu za poznáním!",
-        "image_prompt": "Skupina lidí na vrcholku hory sledující hvězdné nebe s teleskopem, fascinovaní krásou vesmíru."
+        "text": "Podzemní svět hub je mnohem víc fascinující, než si myslíme. Jaké další tajemství skrývá?",
+        "image_prompt": "záhadné, temné podzemí pokryté houbami s mystickými světly, které vytvářejí futuristickou atmosféru"
       }
     ]
   }
