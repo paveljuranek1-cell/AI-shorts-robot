@@ -1,31 +1,31 @@
 [
   {
-    "title": "Neuvěřitelné tajemství podhoubí",
-    "hook": "Věděli jste, že se pod našima nohama skrývá fascinující svět?",
+    "title": "Neuvěřitelné šokující fakta o zvířatech!",
+    "hook": "Věděl jsi, že sloni jsou jedni z nejlepších plavců na světě?",
     "scenes": [
       {
-        "text": "Podle vědců je podhoubí, které tvoří houby, rozsáhlejší než celé kontinenty!",
-        "image_prompt": "detailní záběr na kořenový systém stromů s viditelnými houbami a podhoubím, vše osvětlené fascinujícím způsobem"
+        "text": "Když si lidé představí slona, málokdy si pomyslí na plavce.",
+        "image_prompt": "Obrázek slona klidně plavajícího v modré vodě, s pozadím tropických ostrovů a zelených palem."
       },
       {
-        "text": "U některých druhů hub může být jejich podhoubí staré až tisíce let!",
-        "image_prompt": "historické záznamy a obrázky starých houbových kolonií s grafikou znázorňující stáří a rozměry"
+        "text": "Tito obrovití tvoreci dokážou uplavat až 8 kilometrů za den!",
+        "image_prompt": "Detailní záběr na slona plavoucího s viditelnou siluetou vln, zatímco se v dálce rýsují hory."
       },
       {
-        "text": "Podhoubí hraje klíčovou roli v přírodě, neboť přenáší živiny mezi rostlinami.",
-        "image_prompt": "animovaný záběr podhoubí, jak se propojuje s kořeny rostlin a přenáší úrodnou půdu"
+        "text": "A víš, že manty, obří rejnoci, mají mozek větší než většina savců?",
+        "image_prompt": "Pohled na majestátní manty plující v křišťálově čisté vodě, obklopené barevnými korály."
       },
       {
-        "text": "A to nejlepší? Některé houby dokáží rozložit toxické látky a znečištění!",
-        "image_prompt": "záběr houbových koloníí rostoucích na odpadcích, jak se kolem nich čistí příroda"
+        "text": "Jsou inteligentní a umí se navzájem rozpoznávat!",
+        "image_prompt": "Záběr na dvě manty, které se spolu 'hrají', plavou navzájem blízko sebe, v záři slunečních paprsků."
       },
       {
-        "text": "Na celém světě existuje přes 100 000 známých druhů hub, ale většina je stále neprozkoumaná.",
-        "image_prompt": "barevné záběry různých druhů hub v přírodě, od známých po exotické a neznámé"
+        "text": "Věděl jsi, že krávy mají výbornou paměť a dokážou si pamatovat obličeje i roky?",
+        "image_prompt": "Kráva s inteligentním výrazem, obklopená farmářským prostředím, s jinými kravami ve vidění."
       },
       {
-        "text": "Podzemní svět hub je mnohem víc fascinující, než si myslíme. Jaké další tajemství skrývá?",
-        "image_prompt": "záhadné, temné podzemí pokryté houbami s mystickými světly, které vytvářejí futuristickou atmosféru"
+        "text": "Takže příště, když uvidíš zvíře, vzpomeň si na jejich úžasné schopnosti!",
+        "image_prompt": "Montáž různých zvířat jako sloni, manty a krávy s nápisy o jejich schopnostech, vše se prolíná v rychlém sledu."
       }
     ]
   }
