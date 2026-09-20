@@ -1,31 +1,31 @@
 [
   {
-    "title": "Neuvěřitelné šokující fakta o zvířatech!",
-    "hook": "Věděl jsi, že sloni jsou jedni z nejlepších plavců na světě?",
+    "title": "Nejzáhadnější zvířata na světě!",
+    "hook": "Víte, že existuje zvíře, které nikdy nezestárne?",
     "scenes": [
       {
-        "text": "Když si lidé představí slona, málokdy si pomyslí na plavce.",
-        "image_prompt": "Obrázek slona klidně plavajícího v modré vodě, s pozadím tropických ostrovů a zelených palem."
+        "text": "Představte si, že existují zvířata, která mají schopnost regenerace!",
+        "image_prompt": "Záběr na podivného okouna, který se regeneruje, zatímco jeho kůže se mění v barevné vzory."
       },
       {
-        "text": "Tito obrovití tvoreci dokážou uplavat až 8 kilometrů za den!",
-        "image_prompt": "Detailní záběr na slona plavoucího s viditelnou siluetou vln, zatímco se v dálce rýsují hory."
+        "text": "Například turritopsis dohrnii, medúza, která se vrací do svého dětského stavu.",
+        "image_prompt": "Detailní záběr na medúzu plovoucí v modré vodě, s dramatickým osvětlením."
       },
       {
-        "text": "A víš, že manty, obří rejnoci, mají mozek větší než většina savců?",
-        "image_prompt": "Pohled na majestátní manty plující v křišťálově čisté vodě, obklopené barevnými korály."
+        "text": "Existují také axolotli, kteří mohou zregenerovat celé končetiny!",
+        "image_prompt": "Roztomilý axolotl plavající v akváriu, s jeho růžovými žábrami v plné kráse."
       },
       {
-        "text": "Jsou inteligentní a umí se navzájem rozpoznávat!",
-        "image_prompt": "Záběr na dvě manty, které se spolu 'hrají', plavou navzájem blízko sebe, v záři slunečních paprsků."
+        "text": "A co takový platýz? Umí se schovat téměř kdekoliv díky své barvě!",
+        "image_prompt": "Platýz ležící na dně moře, dokonale se mísí s písečným povrchem."
       },
       {
-        "text": "Věděl jsi, že krávy mají výbornou paměť a dokážou si pamatovat obličeje i roky?",
-        "image_prompt": "Kráva s inteligentním výrazem, obklopená farmářským prostředím, s jinými kravami ve vidění."
+        "text": "A nakonec tu jsou i zvířata jako nautilus, která se doslova skrývají v té nejmodernější schránce.",
+        "image_prompt": "Nautilus plovoucí v modré vodě, s jeho spirálovou schránkou zářící na slunci."
       },
       {
-        "text": "Takže příště, když uvidíš zvíře, vzpomeň si na jejich úžasné schopnosti!",
-        "image_prompt": "Montáž různých zvířat jako sloni, manty a krávy s nápisy o jejich schopnostech, vše se prolíná v rychlém sledu."
+        "text": "Všechna tato úžasná zvířata nám ukazují, jak moc je naše planeta fascinující!",
+        "image_prompt": "Kombinace všech zmíněných zvířat v dynamickém mozaikovém stylu, s přírodními prvky."
       }
     ]
   }
