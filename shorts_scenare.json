@@ -1,31 +1,31 @@
 [
   {
-    "title": "Nejzáhadnější zvířata na světě!",
-    "hook": "Víte, že existuje zvíře, které nikdy nezestárne?",
+    "title": "Neuvěřitelné tajemství vesmíru",
+    "hook": "Věděli jste, že vesmír může mít víc než 2 biliony galaxií?",
     "scenes": [
       {
-        "text": "Představte si, že existují zvířata, která mají schopnost regenerace!",
-        "image_prompt": "Záběr na podivného okouna, který se regeneruje, zatímco jeho kůže se mění v barevné vzory."
+        "text": "Představte si, že se díváte na noční oblohu plnou hvězd. Ale co když vám řeknu, že to, co vidíte, je jen kapka v oceánu?",
+        "image_prompt": "krásná noční obloha s tisíci zářícími hvězdami, některé galaxie v pozadí"
       },
       {
-        "text": "Například turritopsis dohrnii, medúza, která se vrací do svého dětského stavu.",
-        "image_prompt": "Detailní záběr na medúzu plovoucí v modré vodě, s dramatickým osvětlením."
+        "text": "Podle vědců může existovat až 2 biliony galaxií! A to je jen odhad.",
+        "image_prompt": "animace rozšiřující se vesmír, ukazující různé galaxie a jejich tvary"
       },
       {
-        "text": "Existují také axolotli, kteří mohou zregenerovat celé končetiny!",
-        "image_prompt": "Roztomilý axolotl plavající v akváriu, s jeho růžovými žábrami v plné kráse."
+        "text": "Každá z těchto galaxií má miliardy hvězd, planet a možná i život.",
+        "image_prompt": "detailní pohled na galaxii s jasnými hvězdami a planetami"
       },
       {
-        "text": "A co takový platýz? Umí se schovat téměř kdekoliv díky své barvě!",
-        "image_prompt": "Platýz ležící na dně moře, dokonale se mísí s písečným povrchem."
+        "text": "Ale víte, co je na tom nejvíc fascinující? Spousta galaxií je tak daleko, že světlo z nich k nám putuje miliardy let.",
+        "image_prompt": "ilustrace paprsku světla cestujícího vesmírem, s časovou osou ukazující miliardy let"
       },
       {
-        "text": "A nakonec tu jsou i zvířata jako nautilus, která se doslova skrývají v té nejmodernější schránce.",
-        "image_prompt": "Nautilus plovoucí v modré vodě, s jeho spirálovou schránkou zářící na slunci."
+        "text": "A tak, jak se díváme na hvězdy, vlastně se díváme do minulosti!",
+        "image_prompt": "osoba ležící na trávě, dívající se na hvězdnou oblohu s údivem"
       },
       {
-        "text": "Všechna tato úžasná zvířata nám ukazují, jak moc je naše planeta fascinující!",
-        "image_prompt": "Kombinace všech zmíněných zvířat v dynamickém mozaikovém stylu, s přírodními prvky."
+        "text": "Vesmír je opravdu tajemný. Co dalšího se v něm ukrývá? Možná nás to čeká ještě zajímavější!",
+        "image_prompt": "záběr zdaleka na vesmír s mnoha hvězdami a galaxií, titulek \"Objevte tajemství\""
       }
     ]
   }
