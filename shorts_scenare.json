@@ -1,31 +1,31 @@
 [
   {
-    "title": "Neuvěřitelné tajemství vesmíru",
-    "hook": "Věděli jste, že vesmír může mít víc než 2 biliony galaxií?",
+    "title": "Šokující fakta o vesmíru!",
+    "hook": "Věděli jste, že ve vesmíru existuje více hvězd než zrnek písku na všech plážích Země?",
     "scenes": [
       {
-        "text": "Představte si, že se díváte na noční oblohu plnou hvězd. Ale co když vám řeknu, že to, co vidíte, je jen kapka v oceánu?",
-        "image_prompt": "krásná noční obloha s tisíci zářícími hvězdami, některé galaxie v pozadí"
+        "text": "V kosmu je neuvěřitelných 200 miliard galaxií a každá z nich obsahuje miliardy hvězd.",
+        "image_prompt": "Nádherný pohled na galaxii spirálovitého tvaru s jasnými hvězdami a barevnými mraky plynu."
       },
       {
-        "text": "Podle vědců může existovat až 2 biliony galaxií! A to je jen odhad.",
-        "image_prompt": "animace rozšiřující se vesmír, ukazující různé galaxie a jejich tvary"
+        "text": "V některých galaxiích dokonce hvězdy umírají a zanechávají za sebou černé díry, které pohlcují vše kolem sebe.",
+        "image_prompt": "Ilustrace černé díry, která nasává okolní hvězdy a měsíc ve spirále."
       },
       {
-        "text": "Každá z těchto galaxií má miliardy hvězd, planet a možná i život.",
-        "image_prompt": "detailní pohled na galaxii s jasnými hvězdami a planetami"
+        "text": "A co teprve, když se řekne, že vesmír neustále expanduje rychlostí, která stále roste?",
+        "image_prompt": "Animace znázorňující vesmír vyplňující prostor s praskajícími hvězdami a rozšiřujícími se galaxiemi."
       },
       {
-        "text": "Ale víte, co je na tom nejvíc fascinující? Spousta galaxií je tak daleko, že světlo z nich k nám putuje miliardy let.",
-        "image_prompt": "ilustrace paprsku světla cestujícího vesmírem, s časovou osou ukazující miliardy let"
+        "text": "Ale co je nejzajímavější? Vědci ještě stále nerozumí tomu, co tvoří většinu z našeho vesmíru – temnou hmotu a temnou energii.",
+        "image_prompt": "Záhadné temné postavy na pozadí hvězdné noční oblohy, které symbolizují temnou hmotu."
       },
       {
-        "text": "A tak, jak se díváme na hvězdy, vlastně se díváme do minulosti!",
-        "image_prompt": "osoba ležící na trávě, dívající se na hvězdnou oblohu s údivem"
+        "text": "Naše sluneční soustava, s jejími osmi planetami, není nic jiného než kapička ve velkém oceánu vesmíru.",
+        "image_prompt": "Animace sluneční soustavy s planetami obíhajícími kolem slunce, ukazující nebeský prostor jako nesmírné moře."
       },
       {
-        "text": "Vesmír je opravdu tajemný. Co dalšího se v něm ukrývá? Možná nás to čeká ještě zajímavější!",
-        "image_prompt": "záběr zdaleka na vesmír s mnoha hvězdami a galaxií, titulek \"Objevte tajemství\""
+        "text": "A teď si představte, že jste na planetě mimo naši sluneční soustavu. Co byste tam našli?",
+        "image_prompt": "Vizuálně atraktivní planeta s barevnou atmosférou a exotickými rostlinami, které rostou v podivném prostředí."
       }
     ]
   }
