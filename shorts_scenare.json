@@ -1,31 +1,31 @@
 [
   {
-    "title": "Šokující fakta o vesmíru!",
-    "hook": "Věděli jste, že ve vesmíru existuje více hvězd než zrnek písku na všech plážích Země?",
+    "title": "Neuvěřitelné fakta o vesmíru, která vás ohromí!",
+    "hook": "Věděli jste, že ve vesmíru existují místa, kde čas plyne jinak?",
     "scenes": [
       {
-        "text": "V kosmu je neuvěřitelných 200 miliard galaxií a každá z nich obsahuje miliardy hvězd.",
-        "image_prompt": "Nádherný pohled na galaxii spirálovitého tvaru s jasnými hvězdami a barevnými mraky plynu."
+        "text": "Představte si, že cesta na Mars trvá jen 6 měsíců, ale tamní podmínky jsou extrémní!",
+        "image_prompt": "Detailní záběr na červenou krajinu Marsu s dramatickými mraky a sluncem na obzoru."
       },
       {
-        "text": "V některých galaxiích dokonce hvězdy umírají a zanechávají za sebou černé díry, které pohlcují vše kolem sebe.",
-        "image_prompt": "Ilustrace černé díry, která nasává okolní hvězdy a měsíc ve spirále."
+        "text": "Naopak, ve vnitřní části černé díry byste zažili silné gravitační síly.",
+        "image_prompt": "Ilustrace černé díry se spirálovitým vírem, kolem kterého se pohybují hvězdy a světlo."
       },
       {
-        "text": "A co teprve, když se řekne, že vesmír neustále expanduje rychlostí, která stále roste?",
-        "image_prompt": "Animace znázorňující vesmír vyplňující prostor s praskajícími hvězdami a rozšiřujícími se galaxiemi."
+        "text": "A teď si představte, že galaxie běží rychlostí 1,3 milionu kilometrů za hodinu!",
+        "image_prompt": "Vizualizace galaxie s efektem pohybu, s jasnými hvězdami a spirálovými rameny."
       },
       {
-        "text": "Ale co je nejzajímavější? Vědci ještě stále nerozumí tomu, co tvoří většinu z našeho vesmíru – temnou hmotu a temnou energii.",
-        "image_prompt": "Záhadné temné postavy na pozadí hvězdné noční oblohy, které symbolizují temnou hmotu."
+        "text": "Ale co je skutečně šokující? Hmotnost vesmíru je tvořena z 85% temné hmoty!",
+        "image_prompt": "Obrázek ukazující rozložené vesmírné struktury s šedými a modrými zónami, které reprezentují temnou hmotu."
       },
       {
-        "text": "Naše sluneční soustava, s jejími osmi planetami, není nic jiného než kapička ve velkém oceánu vesmíru.",
-        "image_prompt": "Animace sluneční soustavy s planetami obíhajícími kolem slunce, ukazující nebeský prostor jako nesmírné moře."
+        "text": "Právě jsme objevili exoplanetu, která je podobná Zemi. Může tam být život?",
+        "image_prompt": "Záběr na exoplanetu s modrou atmosférou a zelenými plochami, s hvězdnými konstelacemi v pozadí."
       },
       {
-        "text": "A teď si představte, že jste na planetě mimo naši sluneční soustavu. Co byste tam našli?",
-        "image_prompt": "Vizuálně atraktivní planeta s barevnou atmosférou a exotickými rostlinami, které rostou v podivném prostředí."
+        "text": "Věda o vesmíru teprve začíná! Co dalšího nás čeká?",
+        "image_prompt": "Fantastická ilustrace různých vesmírných explozí, planet a hvězd se třpytícími efekty."
       }
     ]
   }
