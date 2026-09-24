@@ -1,31 +1,31 @@
 [
   {
-    "title": "Neuvěřitelné fakta o vesmíru, která vás ohromí!",
-    "hook": "Věděli jste, že ve vesmíru existují místa, kde čas plyne jinak?",
+    "title": "Neuvěřitelné tajemství vesmíru!",
+    "hook": "Vědci právě objevili něco, co změní náš pohled na vesmír!",
     "scenes": [
       {
-        "text": "Představte si, že cesta na Mars trvá jen 6 měsíců, ale tamní podmínky jsou extrémní!",
-        "image_prompt": "Detailní záběr na červenou krajinu Marsu s dramatickými mraky a sluncem na obzoru."
+        "text": "Představte si, že vesmír má více než 13 miliard let, ale stále ukrývá svá tajemství.",
+        "image_prompt": "Pohled na krásnou noční oblohu plnou jasných hvězd, s mléčnou dráhou dominující na obzoru."
       },
       {
-        "text": "Naopak, ve vnitřní části černé díry byste zažili silné gravitační síly.",
-        "image_prompt": "Ilustrace černé díry se spirálovitým vírem, kolem kterého se pohybují hvězdy a světlo."
+        "text": "Nedávný objev ukázal, že máme více než 200 miliard galaxií, které jsou pro nás dosud neznámé.",
+        "image_prompt": "Animace rozšiřujícího se vesmíru s mnoha různými galaxiemi a barevnými víry hvězd."
       },
       {
-        "text": "A teď si představte, že galaxie běží rychlostí 1,3 milionu kilometrů za hodinu!",
-        "image_prompt": "Vizualizace galaxie s efektem pohybu, s jasnými hvězdami a spirálovými rameny."
+        "text": "Ale víte, že existují galaxie, ve kterých je pravděpodobně život?",
+        "image_prompt": "Zobrazení černé díry s jasným světlem a barevnými efekty, které symbolizují tajemství."
       },
       {
-        "text": "Ale co je skutečně šokující? Hmotnost vesmíru je tvořena z 85% temné hmoty!",
-        "image_prompt": "Obrázek ukazující rozložené vesmírné struktury s šedými a modrými zónami, které reprezentují temnou hmotu."
+        "text": "Některé z nich mohou mít i inteligentní bytosti, které se na nás dívají!",
+        "image_prompt": "Kreativní zobrazení mimozemské civilizace s futuristickými budovami a technologiemi."
       },
       {
-        "text": "Právě jsme objevili exoplanetu, která je podobná Zemi. Může tam být život?",
-        "image_prompt": "Záběr na exoplanetu s modrou atmosférou a zelenými plochami, s hvězdnými konstelacemi v pozadí."
+        "text": "A teď si představte, že bychom s nimi mohli navázat kontakt…",
+        "image_prompt": "Animace signálu vycházejícího z naší planety směrem k jasně zářící galaxii."
       },
       {
-        "text": "Věda o vesmíru teprve začíná! Co dalšího nás čeká?",
-        "image_prompt": "Fantastická ilustrace různých vesmírných explozí, planet a hvězd se třpytícími efekty."
+        "text": "Co si myslíte? Jsme ve vesmíru sami, nebo jsou tam někde další?",
+        "image_prompt": "Záběr na astronauta stojícího na Měsíci s výhledem na Zemi a hvězdnou oblohu v pozadí."
       }
     ]
   }
