@@ -1,31 +1,31 @@
 [
   {
-    "title": "Neuvěřitelné tajemství vesmíru!",
-    "hook": "Vědci právě objevili něco, co změní náš pohled na vesmír!",
+    "title": "Šokující fakta o vesmíru, která vás ohromí!",
+    "hook": "Víte, že ve vesmíru se dějí věci, které nemůžeme ani pochopit?",
     "scenes": [
       {
-        "text": "Představte si, že vesmír má více než 13 miliard let, ale stále ukrývá svá tajemství.",
-        "image_prompt": "Pohled na krásnou noční oblohu plnou jasných hvězd, s mléčnou dráhou dominující na obzoru."
+        "text": "Vesmír je nekonečný a plný záhad! Například, věděli jste, že existuje více hvězd než zrn písku na všech plážích Země?",
+        "image_prompt": "Panoramatický pohled na nekonečné hvězdné nebe s tisíci jasnými hvězdami na pozadí."
       },
       {
-        "text": "Nedávný objev ukázal, že máme více než 200 miliard galaxií, které jsou pro nás dosud neznámé.",
-        "image_prompt": "Animace rozšiřujícího se vesmíru s mnoha různými galaxiemi a barevnými víry hvězd."
+        "text": "Některé hvězdy explodují jako supernovy a vytvářejí tak obrovské množství energie. Tato energie může dokonce ovlivnit blízké hvězdy!",
+        "image_prompt": "Impozantní animace supernovy, při které se hvězda rozsvítí a vybuchne v jasných barvách."
       },
       {
-        "text": "Ale víte, že existují galaxie, ve kterých je pravděpodobně život?",
-        "image_prompt": "Zobrazení černé díry s jasným světlem a barevnými efekty, které symbolizují tajemství."
+        "text": "Víte, co je to černá díra? Oblast v prostoru, odkud se nedostane ani světlo! Je to jako vesmírná vakuum.",
+        "image_prompt": "Záběr na černou díru s jejími subtilními efekty gravitačního zakřivení kolem."
       },
       {
-        "text": "Některé z nich mohou mít i inteligentní bytosti, které se na nás dívají!",
-        "image_prompt": "Kreativní zobrazení mimozemské civilizace s futuristickými budovami a technologiemi."
+        "text": "Existují teorie, že už jsme byli v kontaktu s mimozemskými civilizacemi. Jak by to změnilo náš pohled na svět?",
+        "image_prompt": "Mystická scéna, kde se zjeví mimozemská bytost na opuštěné planetě."
       },
       {
-        "text": "A teď si představte, že bychom s nimi mohli navázat kontakt…",
-        "image_prompt": "Animace signálu vycházejícího z naší planety směrem k jasně zářící galaxii."
+        "text": "A co temná hmota? Sestává z více než 80% vesmíru, ale nikdo neví, co přesně je!",
+        "image_prompt": "Grafické ztvárnění temné hmoty se shluky hvězd a záhadnými objekty."
       },
       {
-        "text": "Co si myslíte? Jsme ve vesmíru sami, nebo jsou tam někde další?",
-        "image_prompt": "Záběr na astronauta stojícího na Měsíci s výhledem na Zemi a hvězdnou oblohu v pozadí."
+        "text": "Takže, příště, když se podíváte na noční oblohu, vzpomeňte si na všechny tyto tajemství vesmíru!",
+        "image_prompt": "Krásný pohled na hvězdnou oblohu s viditelnými mléčnými dráhami a planetami."
       }
     ]
   }
