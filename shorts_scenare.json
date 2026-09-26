@@ -1,31 +1,31 @@
 [
   {
-    "title": "Šokující fakta o vesmíru, která vás ohromí!",
-    "hook": "Víte, že ve vesmíru se dějí věci, které nemůžeme ani pochopit?",
+    "title": "Záhadné fakty o vesmíru, které vás ohromí!",
+    "hook": "Věděli jste, že ve vesmíru existují části, kde čas absolutně neexistuje?",
     "scenes": [
       {
-        "text": "Vesmír je nekonečný a plný záhad! Například, věděli jste, že existuje více hvězd než zrn písku na všech plážích Země?",
-        "image_prompt": "Panoramatický pohled na nekonečné hvězdné nebe s tisíci jasnými hvězdami na pozadí."
+        "text": "Ve vesmíru je tolik tajemství, že to často vypadá jako vědecká fikce.",
+        "image_prompt": "prostorová scenérie s nekonečným vesmírným prostorem, hvězdami a galaxiemi v pozadí"
       },
       {
-        "text": "Některé hvězdy explodují jako supernovy a vytvářejí tak obrovské množství energie. Tato energie může dokonce ovlivnit blízké hvězdy!",
-        "image_prompt": "Impozantní animace supernovy, při které se hvězda rozsvítí a vybuchne v jasných barvách."
+        "text": "Například, známý černý díra v srdci naší galaxie, nazvaná Sagitarius A*, je miliardy krát hmotnější než naše Slunce!",
+        "image_prompt": "ilustrace černé díry obklopené zářením a svítícími hvězdami"
       },
       {
-        "text": "Víte, co je to černá díra? Oblast v prostoru, odkud se nedostane ani světlo! Je to jako vesmírná vakuum.",
-        "image_prompt": "Záběr na černou díru s jejími subtilními efekty gravitačního zakřivení kolem."
+        "text": "A věděli jste, že existují oblasti, kde byste se nikdy nedostali zpět? Říkáme jim 'event horizon'!",
+        "image_prompt": "grafické znázornění horizontu události s šipkami znázorňujícími směr k černé díře"
       },
       {
-        "text": "Existují teorie, že už jsme byli v kontaktu s mimozemskými civilizacemi. Jak by to změnilo náš pohled na svět?",
-        "image_prompt": "Mystická scéna, kde se zjeví mimozemská bytost na opuštěné planetě."
+        "text": "Navíc, v některých vzdálených galaxiích může být čas úplně jiný než u nás na Zemi.",
+        "image_prompt": "kontrastní záběr na planetární systém s hodinami, které jdou v různých směrech"
       },
       {
-        "text": "A co temná hmota? Sestává z více než 80% vesmíru, ale nikdo neví, co přesně je!",
-        "image_prompt": "Grafické ztvárnění temné hmoty se shluky hvězd a záhadnými objekty."
+        "text": "A co teprve myšlenka, že vesmír stále roste... rychlostí, kterou si ani nedokážeme představit!",
+        "image_prompt": "animace vesmíru expandujícího s pruhy světla a praskajícími částicemi"
       },
       {
-        "text": "Takže, příště, když se podíváte na noční oblohu, vzpomeňte si na všechny tyto tajemství vesmíru!",
-        "image_prompt": "Krásný pohled na hvězdnou oblohu s viditelnými mléčnými dráhami a planetami."
+        "text": "Takže, příště když se podíváte na noční oblohu, vzpomeňte si na všechny tajemství, která skrývá!",
+        "image_prompt": "noční obloha plná hvězd a mlhovin, s pozadím horského pásma"
       }
     ]
   }
