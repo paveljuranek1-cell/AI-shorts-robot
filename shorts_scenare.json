@@ -1,31 +1,31 @@
 [
   {
-    "title": "Záhadné fakty o vesmíru, které vás ohromí!",
-    "hook": "Věděli jste, že ve vesmíru existují části, kde čas absolutně neexistuje?",
+    "title": "Nejpodivnější zvířata na planetě!",
+    "hook": "Víte, že existují zvířata, která vypadají jako z jiného světa?",
     "scenes": [
       {
-        "text": "Ve vesmíru je tolik tajemství, že to často vypadá jako vědecká fikce.",
-        "image_prompt": "prostorová scenérie s nekonečným vesmírným prostorem, hvězdami a galaxiemi v pozadí"
+        "text": "Pojďme se podívat na nejpodivnější zvířata, která kdy byla objevena!",
+        "image_prompt": "barevný les, v popředí fantastické zvíře s velkýma očima a duhovými šupinami, které se lesknou na slunci."
       },
       {
-        "text": "Například, známý černý díra v srdci naší galaxie, nazvaná Sagitarius A*, je miliardy krát hmotnější než naše Slunce!",
-        "image_prompt": "ilustrace černé díry obklopené zářením a svítícími hvězdami"
+        "text": "Například axolotl, což je mlok, který nikdy nedospěje a vypadá jako malý, roztomilý dráček!",
+        "image_prompt": "detailní záběr na axolotla plavajícího ve vodě, s jemně růžovou pletí a výraznýma očima."
       },
       {
-        "text": "A věděli jste, že existují oblasti, kde byste se nikdy nedostali zpět? Říkáme jim 'event horizon'!",
-        "image_prompt": "grafické znázornění horizontu události s šipkami znázorňujícími směr k černé díře"
+        "text": "A co takhle tardigrad? Tento malý 'medvídek' přežije i v extrémních podmínkách, jako je vakuum vesmíru!",
+        "image_prompt": "makro záběr na tardigrada, na pozadí zdaleka viditelného vesmíru, s jasnými hvězdami a galaxiemi."
       },
       {
-        "text": "Navíc, v některých vzdálených galaxiích může být čas úplně jiný než u nás na Zemi.",
-        "image_prompt": "kontrastní záběr na planetární systém s hodinami, které jdou v různých směrech"
+        "text": "Ale pozor! Na Ceyloně žije slon s růžovou pletí, což je extrémně vzácné!",
+        "image_prompt": "slon s růžovým zbarvením, který stojí na zeleném trávníku, s modrou oblohou a bílými mraky."
       },
       {
-        "text": "A co teprve myšlenka, že vesmír stále roste... rychlostí, kterou si ani nedokážeme představit!",
-        "image_prompt": "animace vesmíru expandujícího s pruhy světla a praskajícími částicemi"
+        "text": "A konečně, existuje bílý tygr, který je nejen úchvatný, ale také velmi vzácný v přírodě.",
+        "image_prompt": "bílý tygr v jeho přirozeném prostředí, majestátně se procházející mezi zelenými keři."
       },
       {
-        "text": "Takže, příště když se podíváte na noční oblohu, vzpomeňte si na všechny tajemství, která skrývá!",
-        "image_prompt": "noční obloha plná hvězd a mlhovin, s pozadím horského pásma"
+        "text": "Chtěli byste mít nějaké z těchto úžasných zvířat jako domácí mazlíčky? Napište do komentářů!",
+        "image_prompt": "koláž s obrázky různých podivných zvířat, včetně axolotla, tardigrada a růžového slona."
       }
     ]
   }
