@@ -1,31 +1,31 @@
 [
   {
-    "title": "Nejpodivnější zvířata na planetě!",
-    "hook": "Víte, že existují zvířata, která vypadají jako z jiného světa?",
+    "title": "Neuvěřitelné šokující fakta o vesmíru!",
+    "hook": "Věděli jste, že ve vesmíru je víc hvězd než zrnek písku na Zemi?",
     "scenes": [
       {
-        "text": "Pojďme se podívat na nejpodivnější zvířata, která kdy byla objevena!",
-        "image_prompt": "barevný les, v popředí fantastické zvíře s velkýma očima a duhovými šupinami, které se lesknou na slunci."
+        "text": "Vítejte ve fascinujícím světě vesmíru! Podívejte se na tuto ohromující galaxii.",
+        "image_prompt": "barevná galaxie s jasnými hvězdami, rozsáhlý vesmír s barevnými spirálními rameny"
       },
       {
-        "text": "Například axolotl, což je mlok, který nikdy nedospěje a vypadá jako malý, roztomilý dráček!",
-        "image_prompt": "detailní záběr na axolotla plavajícího ve vodě, s jemně růžovou pletí a výraznýma očima."
+        "text": "Existuje více než 100 miliard galaxií, ale to není všechno!",
+        "image_prompt": "zoom na hvězdné pole s mnoha galaxií, jasné a temné části vesmíru, kouzelný zpěv galaxií"
       },
       {
-        "text": "A co takhle tardigrad? Tento malý 'medvídek' přežije i v extrémních podmínkách, jako je vakuum vesmíru!",
-        "image_prompt": "makro záběr na tardigrada, na pozadí zdaleka viditelného vesmíru, s jasnými hvězdami a galaxiemi."
+        "text": "Jedna ze vzdálenějších galaxií je pryč... 13 miliard světelných let daleko!",
+        "image_prompt": "ilustrace vzdálené galaxie se znázorněním světelných let, zobrazení tváře astronauta v úžasu"
       },
       {
-        "text": "Ale pozor! Na Ceyloně žije slon s růžovou pletí, což je extrémně vzácné!",
-        "image_prompt": "slon s růžovým zbarvením, který stojí na zeleném trávníku, s modrou oblohou a bílými mraky."
+        "text": "Naše slunce je jen jedna z miliard hvězd v Mléčné dráze.",
+        "image_prompt": "detail slunce na pozadí hvězdného nebe v Mléčné dráze, s pohybujícími se planety"
       },
       {
-        "text": "A konečně, existuje bílý tygr, který je nejen úchvatný, ale také velmi vzácný v přírodě.",
-        "image_prompt": "bílý tygr v jeho přirozeném prostředí, majestátně se procházející mezi zelenými keři."
+        "text": "A víte, že vesmír se neustále rozpíná? Co to znamená pro nás?",
+        "image_prompt": "vizualizace rozpínajícího se vesmíru, s animací galaxií se vzdalujícími od sebe"
       },
       {
-        "text": "Chtěli byste mít nějaké z těchto úžasných zvířat jako domácí mazlíčky? Napište do komentářů!",
-        "image_prompt": "koláž s obrázky různých podivných zvířat, včetně axolotla, tardigrada a růžového slona."
+        "text": "Představte si, co všechno by mohlo existovat, ale ještě jsme to neobjevili!",
+        "image_prompt": "fantastická ilustrace neznámého života v jiných galaxiích, barevné bytosti a planetární systémy"
       }
     ]
   }
