@@ -1,31 +1,31 @@
 [
   {
-    "title": "Neuvěřitelné šokující fakta o vesmíru!",
-    "hook": "Věděli jste, že ve vesmíru je víc hvězd než zrnek písku na Zemi?",
+    "title": "Neuvěřitelné zvířecí schopnosti",
+    "hook": "Víte, že některá zvířata mají super schopnosti, které byste nikdy nečekali?",
     "scenes": [
       {
-        "text": "Vítejte ve fascinujícím světě vesmíru! Podívejte se na tuto ohromující galaxii.",
-        "image_prompt": "barevná galaxie s jasnými hvězdami, rozsáhlý vesmír s barevnými spirálními rameny"
+        "text": "Toto malé zvíře může přežít až 10 dní bez hlavy!",
+        "image_prompt": "Blízký záběr na kobylku, která skáče s jasně zelenými barvami na pozadí slunečného dne."
       },
       {
-        "text": "Existuje více než 100 miliard galaxií, ale to není všechno!",
-        "image_prompt": "zoom na hvězdné pole s mnoha galaxií, jasné a temné části vesmíru, kouzelný zpěv galaxií"
+        "text": "Delfíni mají své vlastní jména a dokážou se navzájem volat!",
+        "image_prompt": "Skupina delfínů skáče nad hladinou modrého oceánu, odrážející sluneční světlo."
       },
       {
-        "text": "Jedna ze vzdálenějších galaxií je pryč... 13 miliard světelných let daleko!",
-        "image_prompt": "ilustrace vzdálené galaxie se znázorněním světelných let, zobrazení tváře astronauta v úžasu"
+        "text": "Kráva může mít nejlepší přátele a když jsou od sebe, cítí stres!",
+        "image_prompt": "Snímek dvou krav spokojeně se pasoucích vedle sebe na zelené louce."
       },
       {
-        "text": "Naše slunce je jen jedna z miliard hvězd v Mléčné dráze.",
-        "image_prompt": "detail slunce na pozadí hvězdného nebe v Mléčné dráze, s pohybujícími se planety"
+        "text": "Chameleoni se mohou změnit na libovolnou barvu, aby se skryli před predátory.",
+        "image_prompt": "Chameleon na větvi, postupně měnící barvy v různých odstínech zelené a hnědé."
       },
       {
-        "text": "A víte, že vesmír se neustále rozpíná? Co to znamená pro nás?",
-        "image_prompt": "vizualizace rozpínajícího se vesmíru, s animací galaxií se vzdalujícími od sebe"
+        "text": "Včely komunikují pomocí tanečního jazyka, abychom věděli, kde najít květiny!",
+        "image_prompt": "Blízký záběr na včelu tancující na úlu, zatímco ostatní včely okukují zvídavě."
       },
       {
-        "text": "Představte si, co všechno by mohlo existovat, ale ještě jsme to neobjevili!",
-        "image_prompt": "fantastická ilustrace neznámého života v jiných galaxiích, barevné bytosti a planetární systémy"
+        "text": "A na závěr, octopus má tři srdce a modrou krev!",
+        "image_prompt": "Záběr na chobotnici v mořské vodě, jak se pohybuje mezi korály s modrým pozadím."
       }
     ]
   }
