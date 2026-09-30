@@ -1,31 +1,31 @@
 [
   {
-    "title": "Neuvěřitelné zvířecí schopnosti",
-    "hook": "Víte, že některá zvířata mají super schopnosti, které byste nikdy nečekali?",
+    "title": "Neuvěřitelné fakty o vesmíru!",
+    "hook": "Věděli jste, že ve vesmíru je více hvězd než je zrnek písku na všech plážích Země?",
     "scenes": [
       {
-        "text": "Toto malé zvíře může přežít až 10 dní bez hlavy!",
-        "image_prompt": "Blízký záběr na kobylku, která skáče s jasně zelenými barvami na pozadí slunečného dne."
+        "text": "Vesmír je tak obrovský, že jsme teprve na začátku jeho poznání.",
+        "image_prompt": "Krajina s různorodými galaxiemi, hvězdami a barevnými mlhovinami, osvětlená jasnými kontrastními barvami."
       },
       {
-        "text": "Delfíni mají své vlastní jména a dokážou se navzájem volat!",
-        "image_prompt": "Skupina delfínů skáče nad hladinou modrého oceánu, odrážející sluneční světlo."
+        "text": "Například, černé díry pohlcují vše kolem sebe, dokonce i světlo!",
+        "image_prompt": "Ilustrace černé díry, jak nasává vše v okolí, s dramatickým vírem světla a energie."
       },
       {
-        "text": "Kráva může mít nejlepší přátele a když jsou od sebe, cítí stres!",
-        "image_prompt": "Snímek dvou krav spokojeně se pasoucích vedle sebe na zelené louce."
+        "text": "Naše galaxie, Mléčná dráha, má kolem 100 miliard hvězd.",
+        "image_prompt": "Astonishing view of the Milky Way galaxy with bright stars, swirling clouds of gas, and vibrant colors filling the night sky."
       },
       {
-        "text": "Chameleoni se mohou změnit na libovolnou barvu, aby se skryli před predátory.",
-        "image_prompt": "Chameleon na větvi, postupně měnící barvy v různých odstínech zelené a hnědé."
+        "text": "A když myslíme na život, vědci objevili exoplanety, které by mohly mít podmínky pro život!",
+        "image_prompt": "Obrázek exoplanety orbitující kolem jiné hvězdy, se zelenými a modrými plochami, znázorňující možné oceány."
       },
       {
-        "text": "Včely komunikují pomocí tanečního jazyka, abychom věděli, kde najít květiny!",
-        "image_prompt": "Blízký záběr na včelu tancující na úlu, zatímco ostatní včely okukují zvídavě."
+        "text": "Některé z těchto planet jsou dokonce vzdáleny tisíce světelných let od nás.",
+        "image_prompt": "Animace vzdálené hvězdy a planety, ukazující vzdálenosti ve formě natažených čar mezi nimi a Zemí."
       },
       {
-        "text": "A na závěr, octopus má tři srdce a modrou krev!",
-        "image_prompt": "Záběr na chobotnici v mořské vodě, jak se pohybuje mezi korály s modrým pozadím."
+        "text": "Vesmír nám stále odhaluje svá tajemství. Co dalšího nás čeká?",
+        "image_prompt": "Pohled na astronauta v očekávání s futuristickým městem na pozadí, symbolizující budoucnost a možnosti objevování vesmíru."
       }
     ]
   }
