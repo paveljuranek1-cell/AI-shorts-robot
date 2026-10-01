@@ -1,31 +1,31 @@
 [
   {
-    "title": "Neuvěřitelné fakty o vesmíru!",
-    "hook": "Věděli jste, že ve vesmíru je více hvězd než je zrnek písku na všech plážích Země?",
+    "title": "5 Šokujících Faktů o Zvířatech, Které Neznáte!",
+    "hook": "Věděli jste, že sloni mají lepší paměť než lidé?",
     "scenes": [
       {
-        "text": "Vesmír je tak obrovský, že jsme teprve na začátku jeho poznání.",
-        "image_prompt": "Krajina s různorodými galaxiemi, hvězdami a barevnými mlhovinami, osvětlená jasnými kontrastními barvami."
+        "text": "Začněme šokujícím faktem! Sloni si pamatují přes 30 let staré cesty a místa.",
+        "image_prompt": "Obrázek slona v africké savaně s nápisem 'Paměť slonů' a grafickými prvky jako hodiny a mapy."
       },
       {
-        "text": "Například, černé díry pohlcují vše kolem sebe, dokonce i světlo!",
-        "image_prompt": "Ilustrace černé díry, jak nasává vše v okolí, s dramatickým vírem světla a energie."
+        "text": "A co taková chobotnice? Ta má tři srdce a modrou krev!",
+        "image_prompt": "Detailní záběr na chobotnici plavající v oceánu, s dramatickým osvětlením, které podtrhuje její modrou krev."
       },
       {
-        "text": "Naše galaxie, Mléčná dráha, má kolem 100 miliard hvězd.",
-        "image_prompt": "Astonishing view of the Milky Way galaxy with bright stars, swirling clouds of gas, and vibrant colors filling the night sky."
+        "text": "Nebo třeba zajíci, kteří dokážou šíleně rychle běhat - až 72 km/h!",
+        "image_prompt": "Záběr na zajíce skákajícího přes prérijní krajinu s rychlostními indikátory a rozmazaným pozadím pro efekt rychlosti."
       },
       {
-        "text": "A když myslíme na život, vědci objevili exoplanety, které by mohly mít podmínky pro život!",
-        "image_prompt": "Obrázek exoplanety orbitující kolem jiné hvězdy, se zelenými a modrými plochami, znázorňující možné oceány."
+        "text": "A víte, že papoušci rozumí lidské řeči a dokážou se učit nové slova?",
+        "image_prompt": "Papoušek sedící na pařezu s nápisy různých slov kolem něj a vyjadřující zvídavý výraz."
       },
       {
-        "text": "Některé z těchto planet jsou dokonce vzdáleny tisíce světelných let od nás.",
-        "image_prompt": "Animace vzdálené hvězdy a planety, ukazující vzdálenosti ve formě natažených čar mezi nimi a Zemí."
+        "text": "Ale pozor, kočky! Ty spí až 16 hodin denně, což z nich dělá mistry spánku!",
+        "image_prompt": "Roztomilá kočka spící na gauči, obklopená plyšovými hračkami a s klidnou atmosférou."
       },
       {
-        "text": "Vesmír nám stále odhaluje svá tajemství. Co dalšího nás čeká?",
-        "image_prompt": "Pohled na astronauta v očekávání s futuristickým městem na pozadí, symbolizující budoucnost a možnosti objevování vesmíru."
+        "text": "A nakonec, delfíni mají vlastní jména a komunikují mezi sebou jako my!",
+        "image_prompt": "Skupina delfínů ve vodě, jak skáčou a hrají si, s bublinkami a jasně modrou vodou okolo."
       }
     ]
   }
