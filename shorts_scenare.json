@@ -1,31 +1,31 @@
 [
   {
-    "title": "Šokující fakta o zvířatech, která vám vyrazí dech!",
-    "hook": "Věděli jste, že medúza může být nesmrtelná?",
+    "title": "Neuvěřitelná tajemství vesmíru",
+    "hook": "Víte, že ve vesmíru se dějí věci, které si ani nedokážeme představit?",
     "scenes": [
       {
-        "text": "Medúza Turritopsis dohrnii, známá jako nesmrtelná medúza, se dokáže vrátit do mladší fáze života.",
-        "image_prompt": "Blízký záběr na medúzu plovoucí ve vodě, podmořské prostředí s jasnými barvami."
+        "text": "Vesmír je plný záhad, které nás každým dnem překvapují.",
+        "image_prompt": "Kouzelný pohled na noční oblohu plnou jasných hvězd a mléčné dráhy."
       },
       {
-        "text": "Uherský kůň má miminku tolik svalů, že může skákat přes překážky hned po narození!",
-        "image_prompt": "Miminko koně skáče přes malou překážku na zelené louce, sluneční světlo v pozadí."
+        "text": "Například, věděli jste, že existují hvězdy, které 'slyší' světlo?",
+        "image_prompt": "Animace hvězdy, která vydává pulzy světla, zatímco se kolem ní točí planety."
       },
       {
-        "text": "Chameleoni nejenže mění barvu, ale i vyjadřují své emoce!",
-        "image_prompt": "Chameleon na větvi, jehož barva se mění ze zelené na modrou, s pozadím tropického lesa."
+        "text": "Nebo, že existuje černá díra, která je tak mocná, že i světlo nemůže uniknout?",
+        "image_prompt": "Ilustrace černé díry s okolními galaxií, které se do ní vtahují."
       },
       {
-        "text": "Včely dokážou rozeznat tváře a paměti mohou mít až 2 dny!",
-        "image_prompt": "Včela sedící na květině, s blízkým pohledem na její jemná křídla a přírodní scenérii."
+        "text": "Ve vzdálenosti přes 13 miliard světelných let je galaxie, která je starší než naše slunce.",
+        "image_prompt": "Starobylá galaxie s pohledem na její krásné spirálové ramena."
       },
       {
-        "text": "Sloni mají výjimečnou paměť, dokážou si zapamatovat cesty a zdroje vody i po deseti letech!",
-        "image_prompt": "Skupina slonů kráčejících po savaně, slunce svítí a za nimi se táhnou stopy v písku."
+        "text": "A co takhle novinky o exoplanetách? Mnohé z nich by mohly mít podmínky pro život!",
+        "image_prompt": "Představa exoplanety s modrou atmosférou a oceány."
       },
       {
-        "text": "A nakonec, psi mají více než 220 milionů čichových receptorů, to je 40krát více než lidé!",
-        "image_prompt": "Pes s vyplazeným jazykem, šťastně běhá po parku, se zelenou trávou a modrou oblohou v pozadí."
+        "text": "Vesmír nám stále klade otázky. Co dalšího nám ještě odhalí?",
+        "image_prompt": "Záběr astronauta na palubě raketoplánu, dívajícího se ven na nekonečný vesmír."
       }
     ]
   }
