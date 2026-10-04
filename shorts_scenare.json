@@ -1,31 +1,31 @@
 [
   {
-    "title": "Neuvěřitelná tajemství vesmíru",
-    "hook": "Víte, že ve vesmíru se dějí věci, které si ani nedokážeme představit?",
+    "title": "Neuvěřitelné tajemství psů!",
+    "hook": "Víte, že psi mají schopnost cítit vaše emoce? Počkejte, až uslyšíte víc!",
     "scenes": [
       {
-        "text": "Vesmír je plný záhad, které nás každým dnem překvapují.",
-        "image_prompt": "Kouzelný pohled na noční oblohu plnou jasných hvězd a mléčné dráhy."
+        "text": "Psi dokáží cítit stres a úzkost svých majitelů.",
+        "image_prompt": "Detailní záběr na psa, který se blízko svého majitele skloní a vypadá znepokojeně."
       },
       {
-        "text": "Například, věděli jste, že existují hvězdy, které 'slyší' světlo?",
-        "image_prompt": "Animace hvězdy, která vydává pulzy světla, zatímco se kolem ní točí planety."
+        "text": "Studie ukazují, že dokonce dokážou rozpoznat lidské výrazy!",
+        "image_prompt": "Snímek dvou lidí, z nichž jeden se usmívá, zatímco druhý je smutný, zatímco pes mezi nimi pozoruje."
       },
       {
-        "text": "Nebo, že existuje černá díra, která je tak mocná, že i světlo nemůže uniknout?",
-        "image_prompt": "Ilustrace černé díry s okolními galaxií, které se do ní vtahují."
+        "text": "Když jste šťastní, vašeho psa to také činí šťastným.",
+        "image_prompt": "Šťastná rodina se směje a hraje si se svým psem v parku, pes skáče radostí."
       },
       {
-        "text": "Ve vzdálenosti přes 13 miliard světelných let je galaxie, která je starší než naše slunce.",
-        "image_prompt": "Starobylá galaxie s pohledem na její krásné spirálové ramena."
+        "text": "A co víc, psi mohou cítit, kdy se blíží nebezpečí!",
+        "image_prompt": "Obrázek psa, který stojí na stráži u dveří, v pozoru, s napjatým výrazem."
       },
       {
-        "text": "A co takhle novinky o exoplanetách? Mnohé z nich by mohly mít podmínky pro život!",
-        "image_prompt": "Představa exoplanety s modrou atmosférou a oceány."
+        "text": "Někteří psi dokonce dokážou předpovědět epileptické záchvaty.",
+        "image_prompt": "Záběr na psa, který se blíží k člověku na zemi, připravuje se na pomoc."
       },
       {
-        "text": "Vesmír nám stále klade otázky. Co dalšího nám ještě odhalí?",
-        "image_prompt": "Záběr astronauta na palubě raketoplánu, dívajícího se ven na nekonečný vesmír."
+        "text": "Tak co, dostali jste nový pohled na vašeho čtyřnohého kamaráda?",
+        "image_prompt": "Pes s radostným výrazem, sedí před kamerou a šťastně mává ocasem."
       }
     ]
   }
