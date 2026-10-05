@@ -1,31 +1,31 @@
 [
   {
-    "title": "Neuvěřitelné tajemství psů!",
-    "hook": "Víte, že psi mají schopnost cítit vaše emoce? Počkejte, až uslyšíte víc!",
+    "title": "Neuvěřitelné šokující fakta o vesmíru!",
+    "hook": "Věděli jste, že existuje místo ve vesmíru, kde čas neexistuje?",
     "scenes": [
       {
-        "text": "Psi dokáží cítit stres a úzkost svých majitelů.",
-        "image_prompt": "Detailní záběr na psa, který se blízko svého majitele skloní a vypadá znepokojeně."
+        "text": "Představte si černou díru, kde čas plyne úplně jinak.",
+        "image_prompt": "animace černé díry s spoustou hvězd a galaxií kolem, s dynamickým pohybem, aby to vypadalo oslnivě a tajemně."
       },
       {
-        "text": "Studie ukazují, že dokonce dokážou rozpoznat lidské výrazy!",
-        "image_prompt": "Snímek dvou lidí, z nichž jeden se usmívá, zatímco druhý je smutný, zatímco pes mezi nimi pozoruje."
+        "text": "Tento fenomén má tak silnou gravitaci, že dokáže pohlcovat vše, co se k ní přiblíží.",
+        "image_prompt": "detailní záběr na černou díru, jak vtahuje hvězdy a světlo, s dramatickými efekty vizuálního tornáda."
       },
       {
-        "text": "Když jste šťastní, vašeho psa to také činí šťastným.",
-        "image_prompt": "Šťastná rodina se směje a hraje si se svým psem v parku, pes skáče radostí."
+        "text": "A teď si představte, že uvnitř černé díry byste zažili úplně jiný čas.",
+        "image_prompt": "ilustrace člověka v prostoru s hodinami, které se točí a zpomalují, kolem něj se objevují surrealistické prvky."
       },
       {
-        "text": "A co víc, psi mohou cítit, kdy se blíží nebezpečí!",
-        "image_prompt": "Obrázek psa, který stojí na stráži u dveří, v pozoru, s napjatým výrazem."
+        "text": "Pro vás by to byly vteřiny, ale venku by uběhly miliony let.",
+        "image_prompt": "rozdělený obraz: jedna polovina ukazuje člověka v černé díře a druhá polovina ukazuje zničenou Zemi s futuristickými městy."
       },
       {
-        "text": "Někteří psi dokonce dokážou předpovědět epileptické záchvaty.",
-        "image_prompt": "Záběr na psa, který se blíží k člověku na zemi, připravuje se na pomoc."
+        "text": "A to stále není všechno! Existují miliardy galaxií, které čekají na objevení.",
+        "image_prompt": "širokoúhlý záběr na vesmír s tisíci galaxií, jasnými a barevnými světýlky, a hvězdnými cestami."
       },
       {
-        "text": "Tak co, dostali jste nový pohled na vašeho čtyřnohého kamaráda?",
-        "image_prompt": "Pes s radostným výrazem, sedí před kamerou a šťastně mává ocasem."
+        "text": "Jaká tajemství ještě skrývá náš vesmír? Pojďte je zjistit spolu s námi!",
+        "image_prompt": "záběr na překvapující a úchvatnou krajinu vesmíru, se spoustou hvězd, planet a zvídavého diváka s otázkami."
       }
     ]
   }
