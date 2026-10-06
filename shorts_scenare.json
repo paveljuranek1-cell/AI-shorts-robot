@@ -1,31 +1,31 @@
 [
   {
-    "title": "Neuvěřitelné šokující fakta o vesmíru!",
-    "hook": "Věděli jste, že existuje místo ve vesmíru, kde čas neexistuje?",
+    "title": "Neuvěřitelné tajemství vesmíru!",
+    "hook": "Věděli jste, že ve vesmíru existují věci, které překračují naše chápání?",
     "scenes": [
       {
-        "text": "Představte si černou díru, kde čas plyne úplně jinak.",
-        "image_prompt": "animace černé díry s spoustou hvězd a galaxií kolem, s dynamickým pohybem, aby to vypadalo oslnivě a tajemně."
+        "text": "Podívejte se na tuto fascinující galaxii, která je 13 miliard let daleko.",
+        "image_prompt": "rozsáhlý pohled na jasně osvětlenou galaxii s hvězdami a prachovými mraky na pozadí, s modrým a fialovým nádechem."
       },
       {
-        "text": "Tento fenomén má tak silnou gravitaci, že dokáže pohlcovat vše, co se k ní přiblíží.",
-        "image_prompt": "detailní záběr na černou díru, jak vtahuje hvězdy a světlo, s dramatickými efekty vizuálního tornáda."
+        "text": "Existuje více než 200 miliard galaxií v našem vesmíru!",
+        "image_prompt": "vizualizace stovek galaxií rozptýlených na tmavém pozadí vesmíru, s jasnými barvami a efekty záření."
       },
       {
-        "text": "A teď si představte, že uvnitř černé díry byste zažili úplně jiný čas.",
-        "image_prompt": "ilustrace člověka v prostoru s hodinami, které se točí a zpomalují, kolem něj se objevují surrealistické prvky."
+        "text": "Zajímavé je, že vesmír se neustále rozpíná, čímž se vzdaluje od nás.",
+        "image_prompt": "animace jevů, které ukazují, jak se galaxie vzdalují od sebe, s dynamickými světelnými efekty."
       },
       {
-        "text": "Pro vás by to byly vteřiny, ale venku by uběhly miliony let.",
-        "image_prompt": "rozdělený obraz: jedna polovina ukazuje člověka v černé díře a druhá polovina ukazuje zničenou Zemi s futuristickými městy."
+        "text": "A co černé díry? Tyto obří tajemné objekty pohlcují vše, co se k nim přiblíží.",
+        "image_prompt": "ilustrace černé díry s kolem rotujícími hvězdami a prachovými pruhy, které ukazují její gravitační sílu."
       },
       {
-        "text": "A to stále není všechno! Existují miliardy galaxií, které čekají na objevení.",
-        "image_prompt": "širokoúhlý záběr na vesmír s tisíci galaxií, jasnými a barevnými světýlky, a hvězdnými cestami."
+        "text": "Mysleli jste si, že vesmír je prázdný? Omyl! Obsahuje temnou hmotu a temnou energii!",
+        "image_prompt": "vizualizace temné energie podivné, zářivé barvy, s grafy znázorňujícími její vliv na vesmír."
       },
       {
-        "text": "Jaká tajemství ještě skrývá náš vesmír? Pojďte je zjistit spolu s námi!",
-        "image_prompt": "záběr na překvapující a úchvatnou krajinu vesmíru, se spoustou hvězd, planet a zvídavého diváka s otázkami."
+        "text": "Co všechno ještě skrývá vesmír? Zůstaňte s námi a dozvíte se více!",
+        "image_prompt": "úchvatný panoramatický pohled na noční oblohu plnou hvězd, meteoritů a planet, s optimistickým tónem."
       }
     ]
   }
