@@ -1,31 +1,31 @@
 [
   {
-    "title": "Neuvěřitelné tajemství vesmíru!",
-    "hook": "Věděli jste, že ve vesmíru existují věci, které překračují naše chápání?",
+    "title": "Záhady, které věda dosud nevyřešila!",
+    "hook": "Věděli jste, že na Zemi existují záhady, které vědci dosud nemohou vysvětlit?",
     "scenes": [
       {
-        "text": "Podívejte se na tuto fascinující galaxii, která je 13 miliard let daleko.",
-        "image_prompt": "rozsáhlý pohled na jasně osvětlenou galaxii s hvězdami a prachovými mraky na pozadí, s modrým a fialovým nádechem."
+        "text": "Jednou z největších záhad je Tajemství Bermudského trojúhelníku!",
+        "image_prompt": "široký záběr na moře s názorným vyznačením Bermudského trojúhelníku, temné mraky a blesky na obzoru"
       },
       {
-        "text": "Existuje více než 200 miliard galaxií v našem vesmíru!",
-        "image_prompt": "vizualizace stovek galaxií rozptýlených na tmavém pozadí vesmíru, s jasnými barvami a efekty záření."
+        "text": "Jak to, že se tu ztrácejí lodě a letadla? Dodnes nikdo nezná odpověď!",
+        "image_prompt": "historické fotografie ztracených lodí a letadel, překvapení v očích lidí, kteří je studují"
       },
       {
-        "text": "Zajímavé je, že vesmír se neustále rozpíná, čímž se vzdaluje od nás.",
-        "image_prompt": "animace jevů, které ukazují, jak se galaxie vzdalují od sebe, s dynamickými světelnými efekty."
+        "text": "Druhou záhadou jsou tzv. zvukové podpisy. Co je způsobuje?",
+        "image_prompt": "grafika zvukových vln s tajemným nápisem 'nepoznaný zdroj', graficky ztvárněné vibrace"
       },
       {
-        "text": "A co černé díry? Tyto obří tajemné objekty pohlcují vše, co se k nim přiblíží.",
-        "image_prompt": "ilustrace černé díry s kolem rotujícími hvězdami a prachovými pruhy, které ukazují její gravitační sílu."
+        "text": "Některé z těchto zvuků znějí jako podivné melodie z hlubin oceánu!",
+        "image_prompt": "fantazijní záběr podmořské krajiny s tajemnými tvory a zvukovými vlnami"
       },
       {
-        "text": "Mysleli jste si, že vesmír je prázdný? Omyl! Obsahuje temnou hmotu a temnou energii!",
-        "image_prompt": "vizualizace temné energie podivné, zářivé barvy, s grafy znázorňujícími její vliv na vesmír."
+        "text": "A co Oumuamua? První známá mezihvězdná návštěva naší sluneční soustavy?",
+        "image_prompt": "animace průletu objektu Oumuamua kolem Slunce, s hvězdami a planetami v pozadí"
       },
       {
-        "text": "Co všechno ještě skrývá vesmír? Zůstaňte s námi a dozvíte se více!",
-        "image_prompt": "úchvatný panoramatický pohled na noční oblohu plnou hvězd, meteoritů a planet, s optimistickým tónem."
+        "text": "Stále existují nevysvětlené jevy, které šokují i ty nejlepší vědce. Co si o nich myslíte vy?",
+        "image_prompt": "skupina vědců v laboratoři, kteří diskutují a koukají na obrazovky plné dat a tajemných symbolů"
       }
     ]
   }
