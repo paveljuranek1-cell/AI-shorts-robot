@@ -1,31 +1,31 @@
 [
   {
-    "title": "Záhady, které věda dosud nevyřešila!",
-    "hook": "Věděli jste, že na Zemi existují záhady, které vědci dosud nemohou vysvětlit?",
+    "title": "Nejvíc šokující fakta o zvířatech!",
+    "hook": "Že sloni umí plakat? To je jen začátek!",
     "scenes": [
       {
-        "text": "Jednou z největších záhad je Tajemství Bermudského trojúhelníku!",
-        "image_prompt": "široký záběr na moře s názorným vyznačením Bermudského trojúhelníku, temné mraky a blesky na obzoru"
+        "text": "Věděl jsi, že sloni mají speciální žlázy, které produkují slzy, když jsou smutní?",
+        "image_prompt": "Detailní záběr na slona s lesklýma očima, stojícího v přírodě s mírně rozmazaným pozadím."
       },
       {
-        "text": "Jak to, že se tu ztrácejí lodě a letadla? Dodnes nikdo nezná odpověď!",
-        "image_prompt": "historické fotografie ztracených lodí a letadel, překvapení v očích lidí, kteří je studují"
+        "text": "A co teprve delfíni, kteří spí s jedním okem otevřeným?",
+        "image_prompt": "Skupina delfínů skáče nad hladinu oceánu, jedno z nich má jedno oko zavřené a druhé otevřené."
       },
       {
-        "text": "Druhou záhadou jsou tzv. zvukové podpisy. Co je způsobuje?",
-        "image_prompt": "grafika zvukových vln s tajemným nápisem 'nepoznaný zdroj', graficky ztvárněné vibrace"
+        "text": "Znáš fakt, že chameleoni mění barvy nejen pro camouflage, ale také pro komunikaci?",
+        "image_prompt": "Chameleon intenzivně mění barvy, z jemně zelené na jasně červenou, na větvi stromu."
       },
       {
-        "text": "Některé z těchto zvuků znějí jako podivné melodie z hlubin oceánu!",
-        "image_prompt": "fantazijní záběr podmořské krajiny s tajemnými tvory a zvukovými vlnami"
+        "text": "Věděli jste, že medvědi se v zimě doslova 'zapečou' do sněhu?",
+        "image_prompt": "Obrovský hnědý medvěd ležící na sněhu a zakrývající se sněhovou pokrývkou."
       },
       {
-        "text": "A co Oumuamua? První známá mezihvězdná návštěva naší sluneční soustavy?",
-        "image_prompt": "animace průletu objektu Oumuamua kolem Slunce, s hvězdami a planetami v pozadí"
+        "text": "A nebo že vlastní kachny mají přítomnost v historii lidských životů, už více než 5000 let?",
+        "image_prompt": "Kachny plavou v klidném jezírku, s historickými budovami v pozadí."
       },
       {
-        "text": "Stále existují nevysvětlené jevy, které šokují i ty nejlepší vědce. Co si o nich myslíte vy?",
-        "image_prompt": "skupina vědců v laboratoři, kteří diskutují a koukají na obrazovky plné dat a tajemných symbolů"
+        "text": "Které z těchto faktů tě nejvíc překvapilo? Napiš do komentářů!",
+        "image_prompt": "Záběr na různé zvířata skotačící v přírodě a divoké prostředí s textovým polem 'Co si myslíš?'"
       }
     ]
   }
