@@ -1,31 +1,31 @@
 [
   {
-    "title": "Nejvíc šokující fakta o zvířatech!",
-    "hook": "Že sloni umí plakat? To je jen začátek!",
+    "title": "Neuvěřitelné tajemství vesmíru!",
+    "hook": "Věděli jste, že existuje místo ve vesmíru, kde čas doslova zpomaluje?",
     "scenes": [
       {
-        "text": "Věděl jsi, že sloni mají speciální žlázy, které produkují slzy, když jsou smutní?",
-        "image_prompt": "Detailní záběr na slona s lesklýma očima, stojícího v přírodě s mírně rozmazaným pozadím."
+        "text": "Představte si černou díru, místo, kde se všechny věci, jak je známe, mění.",
+        "image_prompt": "impozantní černá díra v kosmickém prostoru, obklopená jasnými hvězdami a galaxiemi, s dramatickým světelným efektem"
       },
       {
-        "text": "A co teprve delfíni, kteří spí s jedním okem otevřeným?",
-        "image_prompt": "Skupina delfínů skáče nad hladinu oceánu, jedno z nich má jedno oko zavřené a druhé otevřené."
+        "text": "Díky extrémní gravitaci kolem černé díry čas zpomaluje ve srovnání s tím, co zažíváme na Zemi.",
+        "image_prompt": "vizualizace času jako spirály plynoucí kolem černé díry, hodinové ručičky, které se pomalu otáčejí"
       },
       {
-        "text": "Znáš fakt, že chameleoni mění barvy nejen pro camouflage, ale také pro komunikaci?",
-        "image_prompt": "Chameleon intenzivně mění barvy, z jemně zelené na jasně červenou, na větvi stromu."
+        "text": "To znamená, že pro astronauta na okraji černé díry by mohlo uběhnout jen několik minut, zatímco na Zemi by uplynulo několik let!",
+        "image_prompt": "astronaut ve skafandru levitující poblíž černé díry, s dramatickým pozadím vesmíru a planet"
       },
       {
-        "text": "Věděli jste, že medvědi se v zimě doslova 'zapečou' do sněhu?",
-        "image_prompt": "Obrovský hnědý medvěd ležící na sněhu a zakrývající se sněhovou pokrývkou."
+        "text": "Ale to není vše! Černé díry také absorbují světlo, což je dělá téměř neviditelnými.",
+        "image_prompt": "ilustrace černé díry obklopené jasným světlem, které je vtaženo dovnitř a zmizí"
       },
       {
-        "text": "A nebo že vlastní kachny mají přítomnost v historii lidských životů, už více než 5000 let?",
-        "image_prompt": "Kachny plavou v klidném jezírku, s historickými budovami v pozadí."
+        "text": "Některé teorie dokonce naznačují, že černé díry by mohly být bránami do jiných vesmírů.",
+        "image_prompt": "fantaskní pohled na černou díru jako portál, kde se objevují různé barevné galaxie a alternativní dimenze"
       },
       {
-        "text": "Které z těchto faktů tě nejvíc překvapilo? Napiš do komentářů!",
-        "image_prompt": "Záběr na různé zvířata skotačící v přírodě a divoké prostředí s textovým polem 'Co si myslíš?'"
+        "text": "Tak co říkáte? Jste připraveni zjistit, co opravdu leží za hranicemi našeho vesmíru?",
+        "image_prompt": "záběr na fascinující vesmír s mnoha hvězdami a galaxií, s textovým efektem „Co nás čeká?“"
       }
     ]
   }
