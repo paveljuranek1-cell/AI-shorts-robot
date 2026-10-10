@@ -1,31 +1,31 @@
 [
   {
-    "title": "Neuvěřitelné tajemství vesmíru!",
-    "hook": "Věděli jste, že existuje místo ve vesmíru, kde čas doslova zpomaluje?",
+    "title": "Neuvěřitelné tajemství vesmíru",
+    "hook": "Věděli jste, že vesmír se neustále rozšiřuje? Co to ale znamená pro nás?",
     "scenes": [
       {
-        "text": "Představte si černou díru, místo, kde se všechny věci, jak je známe, mění.",
-        "image_prompt": "impozantní černá díra v kosmickém prostoru, obklopená jasnými hvězdami a galaxiemi, s dramatickým světelným efektem"
+        "text": "Představte si vesmír jako obrovský balón, který se stále nafukuje.",
+        "image_prompt": "Záběr na balón, který se nafukuje, s hvězdami a galaxií na pozadí."
       },
       {
-        "text": "Díky extrémní gravitaci kolem černé díry čas zpomaluje ve srovnání s tím, co zažíváme na Zemi.",
-        "image_prompt": "vizualizace času jako spirály plynoucí kolem černé díry, hodinové ručičky, které se pomalu otáčejí"
+        "text": "Ale co černé díry? Kde se vlastně ztrácejí všechny věci?",
+        "image_prompt": "Vědecká animace černé díry nasávající okolní hvězdy a plánety."
       },
       {
-        "text": "To znamená, že pro astronauta na okraji černé díry by mohlo uběhnout jen několik minut, zatímco na Zemi by uplynulo několik let!",
-        "image_prompt": "astronaut ve skafandru levitující poblíž černé díry, s dramatickým pozadím vesmíru a planet"
+        "text": "Odhaduje se, že kolem nás je téměř 80% 'temné hmoty', kterou nemůžeme vidět.",
+        "image_prompt": "Zajímavá grafika znázorňující temnou hmotu obklopující viditelné galaxie."
       },
       {
-        "text": "Ale to není vše! Černé díry také absorbují světlo, což je dělá téměř neviditelnými.",
-        "image_prompt": "ilustrace černé díry obklopené jasným světlem, které je vtaženo dovnitř a zmizí"
+        "text": "A co takhle poblíž exoplanet? Může se na nich nacházet život?",
+        "image_prompt": "Animace ukazující exoplanetu s oceány a atmosférou, jak se točí kolem hvězdy."
       },
       {
-        "text": "Některé teorie dokonce naznačují, že černé díry by mohly být bránami do jiných vesmírů.",
-        "image_prompt": "fantaskní pohled na černou díru jako portál, kde se objevují různé barevné galaxie a alternativní dimenze"
+        "text": "Naše galaxie, Mléčná dráha, má přibližně 100 miliard hvězd!",
+        "image_prompt": "Velkolepý pohled na Mléčnou dráhu s miliony hvězd jasně zářících na noční obloze."
       },
       {
-        "text": "Tak co říkáte? Jste připraveni zjistit, co opravdu leží za hranicemi našeho vesmíru?",
-        "image_prompt": "záběr na fascinující vesmír s mnoha hvězdami a galaxií, s textovým efektem „Co nás čeká?“"
+        "text": "Zatímco se vesmír neustále mění, naše otázky o něm zůstávají. Co nás čeká?",
+        "image_prompt": "Záhadná vesmírná krajina s mystickými objekty a objekty v pozadí, které symbolizují budoucnost."
       }
     ]
   }
