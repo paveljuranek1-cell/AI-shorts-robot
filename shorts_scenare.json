@@ -1,31 +1,31 @@
 [
   {
-    "title": "Neuvěřitelné tajemství vesmíru",
-    "hook": "Věděli jste, že vesmír se neustále rozšiřuje? Co to ale znamená pro nás?",
+    "title": "Neuvěřitelné tajemství vesmíru!",
+    "hook": "Co když vám řeknu, že existuje více hvězd než zrn písku na všech plážích světa?",
     "scenes": [
       {
-        "text": "Představte si vesmír jako obrovský balón, který se stále nafukuje.",
-        "image_prompt": "Záběr na balón, který se nafukuje, s hvězdami a galaxií na pozadí."
+        "text": "Vítejte ve fascinujícím světě vesmíru, kde záhady nikdy nekončí. Představte si, že ve vesmíru je více než 100 miliard galaxií!",
+        "image_prompt": "široký záběr na noční oblohu plnou hvězd a galaxií, dramatická hudba v pozadí"
       },
       {
-        "text": "Ale co černé díry? Kde se vlastně ztrácejí všechny věci?",
-        "image_prompt": "Vědecká animace černé díry nasávající okolní hvězdy a plánety."
+        "text": "Každá galaxie obsahuje miliardy hvězd. Jen naše Mléčná dráha jich má kolem 200 miliard.",
+        "image_prompt": "detailní záběr na spirální strukturu Mléčné dráhy s jasnými hvězdami a plynovými mračny"
       },
       {
-        "text": "Odhaduje se, že kolem nás je téměř 80% 'temné hmoty', kterou nemůžeme vidět.",
-        "image_prompt": "Zajímavá grafika znázorňující temnou hmotu obklopující viditelné galaxie."
+        "text": "A teď si představte, že každá z těchto hvězd by mohla mít své vlastní planety, jako je Země.",
+        "image_prompt": "animace ukazující planetární systémy kolem různých hvězd s pohybujícími se planetami"
       },
       {
-        "text": "A co takhle poblíž exoplanet? Může se na nich nacházet život?",
-        "image_prompt": "Animace ukazující exoplanetu s oceány a atmosférou, jak se točí kolem hvězdy."
+        "text": "Existují planety, na kterých by mohl existovat život, ale zatím jsme je nenalezli. Jaké tajemství skrývají?",
+        "image_prompt": "ilustrace exotických planet s různými ekosystémy, zelení a modrými oceány"
       },
       {
-        "text": "Naše galaxie, Mléčná dráha, má přibližně 100 miliard hvězd!",
-        "image_prompt": "Velkolepý pohled na Mléčnou dráhu s miliony hvězd jasně zářících na noční obloze."
+        "text": "Vědci odhadují, že existuje více než 6 miliard potenciálně obyvatelných planet jen v naší galaxii.",
+        "image_prompt": "grafické znázornění rozložení obyvatelných planet ve vesmíru, s příklady různých typů planet"
       },
       {
-        "text": "Zatímco se vesmír neustále mění, naše otázky o něm zůstávají. Co nás čeká?",
-        "image_prompt": "Záhadná vesmírná krajina s mystickými objekty a objekty v pozadí, které symbolizují budoucnost."
+        "text": "Takže příště, když se podíváte na noční oblohu, vzpomeňte si, že tam venku je mnohem více, než vidíme. Co myslíte, jsme sami?",
+        "image_prompt": "osobní portrét člověka dívajícího se na hvězdnou oblohu s úžasem, lehký vítr hýbe jeho vlasy"
       }
     ]
   }
