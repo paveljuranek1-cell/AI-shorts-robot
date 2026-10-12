@@ -1,31 +1,31 @@
 [
   {
-    "title": "Neuvěřitelné tajemství vesmíru!",
-    "hook": "Co když vám řeknu, že existuje více hvězd než zrn písku na všech plážích světa?",
+    "title": "Neuvěřitelné šokující fakta o zvířatech!",
+    "hook": "Víte, že sloni dokážou plakat? To je jen začátek!",
     "scenes": [
       {
-        "text": "Vítejte ve fascinujícím světě vesmíru, kde záhady nikdy nekončí. Představte si, že ve vesmíru je více než 100 miliard galaxií!",
-        "image_prompt": "široký záběr na noční oblohu plnou hvězd a galaxií, dramatická hudba v pozadí"
+        "text": "Sloni jsou jedním z mála zvířat, která projevují emoce a dokážou plakat.",
+        "image_prompt": "slon ve volné přírodě, se slzami v očích, na pozadí nádherného slunečního západu, dramatická atmosféra"
       },
       {
-        "text": "Každá galaxie obsahuje miliardy hvězd. Jen naše Mléčná dráha jich má kolem 200 miliard.",
-        "image_prompt": "detailní záběr na spirální strukturu Mléčné dráhy s jasnými hvězdami a plynovými mračny"
+        "text": "Víte, že chobotnice mají tři srdce a modrou krev? Jsou kouzelné!",
+        "image_prompt": "chobotnice plavající v oceánu, s viditelnými srdci v transparentním těle, barevné korály kolem"
       },
       {
-        "text": "A teď si představte, že každá z těchto hvězd by mohla mít své vlastní planety, jako je Země.",
-        "image_prompt": "animace ukazující planetární systémy kolem různých hvězd s pohybujícími se planetami"
+        "text": "Kočky mají schopnost slyšet ultrazvuk - dokážou tak zachytit i drobné hlodavce!",
+        "image_prompt": "kočka v akčním útoku, s výrazným soustředěním, v podrostu lesa, napínavá atmosféra"
       },
       {
-        "text": "Existují planety, na kterých by mohl existovat život, ale zatím jsme je nenalezli. Jaké tajemství skrývají?",
-        "image_prompt": "ilustrace exotických planet s různými ekosystémy, zelení a modrými oceány"
+        "text": "Delfíni jsou tak inteligentní, že dokážou rozpoznat samy sebe v zrcadle.",
+        "image_prompt": "skupina delfínů skákajících nad hladinou oceánu, sluneční paprsky se odrážejí na vodní hladině, radostný pocit"
       },
       {
-        "text": "Vědci odhadují, že existuje více než 6 miliard potenciálně obyvatelných planet jen v naší galaxii.",
-        "image_prompt": "grafické znázornění rozložení obyvatelných planet ve vesmíru, s příklady různých typů planet"
+        "text": "Medúzy jsou na Zemi už víc než 500 milionů let - přežily všechny katastrofy!",
+        "image_prompt": "barevná medúza plující v temné hlubině oceánu, s osvětlením zpod vodní hladiny, mystická atmosféra"
       },
       {
-        "text": "Takže příště, když se podíváte na noční oblohu, vzpomeňte si, že tam venku je mnohem více, než vidíme. Co myslíte, jsme sami?",
-        "image_prompt": "osobní portrét člověka dívajícího se na hvězdnou oblohu s úžasem, lehký vítr hýbe jeho vlasy"
+        "text": "A nakonec - víte, že termiti mohou být lepší stavitelé než lidé? Staví komplexní hnízda!",
+        "image_prompt": "detailní pohled na termitní hnízdo v savaně, pečlivě vystavěná struktura, přírodní krajina kolem"
       }
     ]
   }
