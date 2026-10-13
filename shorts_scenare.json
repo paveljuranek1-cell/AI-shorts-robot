@@ -1,31 +1,31 @@
 [
   {
-    "title": "Neuvěřitelné šokující fakta o zvířatech!",
-    "hook": "Víte, že sloni dokážou plakat? To je jen začátek!",
+    "title": "Neuvěřitelná tajemství vesmíru!",
+    "hook": "Co je větší než galaxie? Tajemství, která nás ohromují!",
     "scenes": [
       {
-        "text": "Sloni jsou jedním z mála zvířat, která projevují emoce a dokážou plakat.",
-        "image_prompt": "slon ve volné přírodě, se slzami v očích, na pozadí nádherného slunečního západu, dramatická atmosféra"
+        "text": "Věděli jste, že existují galaxie, které se pohybují rychlostí až 2,5 milionu kilometrů za hodinu?",
+        "image_prompt": "animace galaxie se rychle pohybujícími hvězdami a zářícími světly na pozadí temné prázdnoty vesmíru"
       },
       {
-        "text": "Víte, že chobotnice mají tři srdce a modrou krev? Jsou kouzelné!",
-        "image_prompt": "chobotnice plavající v oceánu, s viditelnými srdci v transparentním těle, barevné korály kolem"
+        "text": "A co třeba černé díry? Tyto neviditelné objekty pohlcují vše kolem sebe, dokonce i světlo!",
+        "image_prompt": "vizuální ztvárnění černé díry s objekty vířícími kolem jejího okraje, dramatické světelné efekty a temný prostor"
       },
       {
-        "text": "Kočky mají schopnost slyšet ultrazvuk - dokážou tak zachytit i drobné hlodavce!",
-        "image_prompt": "kočka v akčním útoku, s výrazným soustředěním, v podrostu lesa, napínavá atmosféra"
+        "text": "Ale to není vše! Existuje také něco, co nazýváme dark matter, temná hmota, kterou ještě úplně nerozumíme.",
+        "image_prompt": "grafika znázorňující interakci světla a temné hmoty ve vesmíru, s vysvětlujícími šipkami a diagramy"
       },
       {
-        "text": "Delfíni jsou tak inteligentní, že dokážou rozpoznat samy sebe v zrcadle.",
-        "image_prompt": "skupina delfínů skákajících nad hladinou oceánu, sluneční paprsky se odrážejí na vodní hladině, radostný pocit"
+        "text": "Odhaduje se, že více než 85% hmoty ve vesmíru je temná hmota, a my ji nemůžeme vidět!",
+        "image_prompt": "částečně průhledné pozadí ukazující vesmírné objekty, s dominantními otázkami v textu 'Co je temná hmota?'"
       },
       {
-        "text": "Medúzy jsou na Zemi už víc než 500 milionů let - přežily všechny katastrofy!",
-        "image_prompt": "barevná medúza plující v temné hlubině oceánu, s osvětlením zpod vodní hladiny, mystická atmosféra"
+        "text": "A co teprve exoplanety? Ty jsou na druhé straně hvězd, které bychom mohli nazvat našimi sousedy!",
+        "image_prompt": "vizualizace planet obíhajících kolem různých hvězd, s barevnými efekty a realistickým ztvárněním atmosfér"
       },
       {
-        "text": "A nakonec - víte, že termiti mohou být lepší stavitelé než lidé? Staví komplexní hnízda!",
-        "image_prompt": "detailní pohled na termitní hnízdo v savaně, pečlivě vystavěná struktura, přírodní krajina kolem"
+        "text": "Kdo ví, jaká tajemství ještě vesmír skrývá? Možná odpovědi najdeme už brzy!",
+        "image_prompt": "rozcvička v noci s hvězdami a mléčnou dráhou, kamera se pomalu odtahuje a ukazuje úchvatnou krásu vesmíru"
       }
     ]
   }
