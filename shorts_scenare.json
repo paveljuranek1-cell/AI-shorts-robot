@@ -1,31 +1,31 @@
 [
   {
-    "title": "Neuvěřitelná tajemství vesmíru!",
-    "hook": "Co je větší než galaxie? Tajemství, která nás ohromují!",
+    "title": "Největší tajemství vesmíru, které neznáte!",
+    "hook": "Co se skrývá za závojem noční oblohy?",
     "scenes": [
       {
-        "text": "Věděli jste, že existují galaxie, které se pohybují rychlostí až 2,5 milionu kilometrů za hodinu?",
-        "image_prompt": "animace galaxie se rychle pohybujícími hvězdami a zářícími světly na pozadí temné prázdnoty vesmíru"
+        "text": "Každou noc se díváme na hvězdy, ale víte, kolik hvězd je ve vesmíru?",
+        "image_prompt": "Úžasný pohled na noční oblohu plnou jasných hvězd, s mléčnou dráhou dominující na obzoru."
       },
       {
-        "text": "A co třeba černé díry? Tyto neviditelné objekty pohlcují vše kolem sebe, dokonce i světlo!",
-        "image_prompt": "vizuální ztvárnění černé díry s objekty vířícími kolem jejího okraje, dramatické světelné efekty a temný prostor"
+        "text": "Odhaduje se, že by jich mohlo být až 200 miliard jen v naší galaxii.",
+        "image_prompt": "Animace galaktického centra, s vycházejícími počty hvězd a dramatickou hudbou."
       },
       {
-        "text": "Ale to není vše! Existuje také něco, co nazýváme dark matter, temná hmota, kterou ještě úplně nerozumíme.",
-        "image_prompt": "grafika znázorňující interakci světla a temné hmoty ve vesmíru, s vysvětlujícími šipkami a diagramy"
+        "text": "Ale co kdybych vám řekl, že většina z nich je úplně bez života?",
+        "image_prompt": "Záběr na prázdné, temné části vesmíru, s pulzujícím efektem na pozadí."
       },
       {
-        "text": "Odhaduje se, že více než 85% hmoty ve vesmíru je temná hmota, a my ji nemůžeme vidět!",
-        "image_prompt": "částečně průhledné pozadí ukazující vesmírné objekty, s dominantními otázkami v textu 'Co je temná hmota?'"
+        "text": "Tím nejšílenějším je, že více jak 90% vesmíru je tvořeno dark matter a dark energy!",
+        "image_prompt": "Ilustrace animovaného znázornění tmavé hmoty obklopující normální hmotu ve vesmíru."
       },
       {
-        "text": "A co teprve exoplanety? Ty jsou na druhé straně hvězd, které bychom mohli nazvat našimi sousedy!",
-        "image_prompt": "vizualizace planet obíhajících kolem různých hvězd, s barevnými efekty a realistickým ztvárněním atmosfér"
+        "text": "Tyto neviditelné složky formují naši realitu, ale zůstávají pro nás stále tajemstvím.",
+        "image_prompt": "Symbolické ztvárnění tajemství, s hradem v mlžném labyrintu pod hvězdnou oblohou."
       },
       {
-        "text": "Kdo ví, jaká tajemství ještě vesmír skrývá? Možná odpovědi najdeme už brzy!",
-        "image_prompt": "rozcvička v noci s hvězdami a mléčnou dráhou, kamera se pomalu odtahuje a ukazuje úchvatnou krásu vesmíru"
+        "text": "Takže příště, když se podíváte na oblohu, přemýšlejte o tom, co všechno nám vesmír ještě skrývá!",
+        "image_prompt": "Pohled na osobu ležící na trávě, jak se dívá na hvězdnou oblohu, v pozadí svítící planetárních objektů."
       }
     ]
   }
