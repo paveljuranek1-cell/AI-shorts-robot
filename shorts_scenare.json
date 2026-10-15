@@ -1,31 +1,31 @@
 [
   {
-    "title": "Největší tajemství vesmíru, které neznáte!",
-    "hook": "Co se skrývá za závojem noční oblohy?",
+    "title": "Neuvěřitelné tajemství Modré planety!",
+    "hook": "Víte, že naše Země skrývá jedny z největších záhad vesmíru?",
     "scenes": [
       {
-        "text": "Každou noc se díváme na hvězdy, ale víte, kolik hvězd je ve vesmíru?",
-        "image_prompt": "Úžasný pohled na noční oblohu plnou jasných hvězd, s mléčnou dráhou dominující na obzoru."
+        "text": "Naše modrá planeta je pokryta téměř 71% vodou, ale co se skrývá pod hladinou?",
+        "image_prompt": "záběry z podmořského světa s barevnými korály a rybami, s dramatickou hudbou v pozadí"
       },
       {
-        "text": "Odhaduje se, že by jich mohlo být až 200 miliard jen v naší galaxii.",
-        "image_prompt": "Animace galaktického centra, s vycházejícími počty hvězd a dramatickou hudbou."
+        "text": "Vědci odhadují, že jsme prozkoumali pouze 20% oceánů! Co se tam sakra skrývá?",
+        "image_prompt": "grafika ukazující zmenšený objem prozkoumaných oceánů vs. zbylé části s otázníky"
       },
       {
-        "text": "Ale co kdybych vám řekl, že většina z nich je úplně bez života?",
-        "image_prompt": "Záběr na prázdné, temné části vesmíru, s pulzujícím efektem na pozadí."
+        "text": "Zde na Zemi existují hluboké propasti, které by mohly skrývat dosud neznámé druhy.",
+        "image_prompt": "pohled na obrovské podmořské kaňony s temnými vodami a neznámými tvary"
       },
       {
-        "text": "Tím nejšílenějším je, že více jak 90% vesmíru je tvořeno dark matter a dark energy!",
-        "image_prompt": "Ilustrace animovaného znázornění tmavé hmoty obklopující normální hmotu ve vesmíru."
+        "text": "Některé hloubkové oblasti, jako je Mariánský příkop, jsou pro nás stále záhadou.",
+        "image_prompt": "animace zachycující Mariánský příkop a jeho extrémní hloubku s grafickými efekty"
       },
       {
-        "text": "Tyto neviditelné složky formují naši realitu, ale zůstávají pro nás stále tajemstvím.",
-        "image_prompt": "Symbolické ztvárnění tajemství, s hradem v mlžném labyrintu pod hvězdnou oblohou."
+        "text": "Vědci objevili organismy existující při vysokém tlaku, které by mohly přežít i na jiných planetách!",
+        "image_prompt": "vědec v laboratoři zkoumá extrémní organizmy pod mikroskopem"
       },
       {
-        "text": "Takže příště, když se podíváte na oblohu, přemýšlejte o tom, co všechno nám vesmír ještě skrývá!",
-        "image_prompt": "Pohled na osobu ležící na trávě, jak se dívá na hvězdnou oblohu, v pozadí svítící planetárních objektů."
+        "text": "Co myslíte, co ještě skrývá naše planeta? Zanechte komentář a nezapomeňte sledovat!",
+        "image_prompt": "tým vědců diskutující nad mapou oceánů, vyjíždějící do nových objevů"
       }
     ]
   }
