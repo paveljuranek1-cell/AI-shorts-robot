@@ -1,31 +1,31 @@
 [
   {
-    "title": "Neuvěřitelné tajemství Modré planety!",
-    "hook": "Víte, že naše Země skrývá jedny z největších záhad vesmíru?",
+    "title": "Největší záhady vesmíru, kterým stále nerozumíme!",
+    "hook": "Věděli jste, že více než 80% vesmíru je pro nás stále záhadou?",
     "scenes": [
       {
-        "text": "Naše modrá planeta je pokryta téměř 71% vodou, ale co se skrývá pod hladinou?",
-        "image_prompt": "záběry z podmořského světa s barevnými korály a rybami, s dramatickou hudbou v pozadí"
+        "text": "Vesmír je nekonečný a plný tajemství. Ale kolik z nich skutečně známe?",
+        "image_prompt": "široký záběr na hvězdné nebe s galaxií spirála v pozadí, s dramatickým osvětlením"
       },
       {
-        "text": "Vědci odhadují, že jsme prozkoumali pouze 20% oceánů! Co se tam sakra skrývá?",
-        "image_prompt": "grafika ukazující zmenšený objem prozkoumaných oceánů vs. zbylé části s otázníky"
+        "text": "Například temná hmota. Je neviditelná, ale tvoří většinu hmoty vesmíru!",
+        "image_prompt": "animace znázorňující temnou hmotu obklopující galaxii, s otázníky kolem"
       },
       {
-        "text": "Zde na Zemi existují hluboké propasti, které by mohly skrývat dosud neznámé druhy.",
-        "image_prompt": "pohled na obrovské podmořské kaňony s temnými vodami a neznámými tvary"
+        "text": "A co temná energie? Ta pohání expanze vesmíru, ale nikdo neví, co to vlastně je.",
+        "image_prompt": "vizuálně dramatická ilustrace vesmíru se zrychlujícím roztažením, se zpětnými šipkami ukazujícími expanzi"
       },
       {
-        "text": "Některé hloubkové oblasti, jako je Mariánský příkop, jsou pro nás stále záhadou.",
-        "image_prompt": "animace zachycující Mariánský příkop a jeho extrémní hloubku s grafickými efekty"
+        "text": "Další záhada? Černé díry, které pohlcují vše ve svém dosahu.",
+        "image_prompt": "detailní pohled na černou díru s okolními materiály spirálovitě padajícími do ní"
       },
       {
-        "text": "Vědci objevili organismy existující při vysokém tlaku, které by mohly přežít i na jiných planetách!",
-        "image_prompt": "vědec v laboratoři zkoumá extrémní organizmy pod mikroskopem"
+        "text": "Existuje také možnost, že jsme jen jedním z mnoha vesmírů, v multiversu!",
+        "image_prompt": "vizuální zobrazení několika různých vesmírů v podobě bublin ve tmě"
       },
       {
-        "text": "Co myslíte, co ještě skrývá naše planeta? Zanechte komentář a nezapomeňte sledovat!",
-        "image_prompt": "tým vědců diskutující nad mapou oceánů, vyjíždějící do nových objevů"
+        "text": "Jaké další záhady skrývá vesmír? Možná na ně odpovíme už brzy!",
+        "image_prompt": "dramatický pohled na kosmický teleskop zaměřující se na vzdálené galaxie s nápisem 'Sledujte nás pro více' v popředí"
       }
     ]
   }
