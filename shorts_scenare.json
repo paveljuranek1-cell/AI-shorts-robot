@@ -1,31 +1,31 @@
 [
   {
-    "title": "Největší záhady vesmíru, kterým stále nerozumíme!",
-    "hook": "Věděli jste, že více než 80% vesmíru je pro nás stále záhadou?",
+    "title": "Neuvěřitelné šokující fakta o zvířatech!",
+    "hook": "Věděli jste, že některá zvířata umí chodit po vodě?",
     "scenes": [
       {
-        "text": "Vesmír je nekonečný a plný tajemství. Ale kolik z nich skutečně známe?",
-        "image_prompt": "široký záběr na hvězdné nebe s galaxií spirála v pozadí, s dramatickým osvětlením"
+        "text": "Podívejte se na tohoto úžasného baziliška, který dokáže běžet po hladině vody.",
+        "image_prompt": "Záběry rychle běžícího baziliška přes vodní hladinu s dramatickým pozadím tropického lesa."
       },
       {
-        "text": "Například temná hmota. Je neviditelná, ale tvoří většinu hmoty vesmíru!",
-        "image_prompt": "animace znázorňující temnou hmotu obklopující galaxii, s otázníky kolem"
+        "text": "A co takhle medvědí polární? Zjistíte, že jejich srst je vlastně průhledná!",
+        "image_prompt": "Detailní snímek polárního medvěda s jeho srstí odrážející sluneční paprsky a ledovou krajinou v pozadí."
       },
       {
-        "text": "A co temná energie? Ta pohání expanze vesmíru, ale nikdo neví, co to vlastně je.",
-        "image_prompt": "vizuálně dramatická ilustrace vesmíru se zrychlujícím roztažením, se zpětnými šipkami ukazujícími expanzi"
+        "text": "Jste si vědomi, že chobotnice mají tři srdce? Dvě pumpují krev do žaber a jedno do těla.",
+        "image_prompt": "Animace chobotnice, ukazující její srdce v akčním režimu, zatímco se pohybuje v mořských hlubinách."
       },
       {
-        "text": "Další záhada? Černé díry, které pohlcují vše ve svém dosahu.",
-        "image_prompt": "detailní pohled na černou díru s okolními materiály spirálovitě padajícími do ní"
+        "text": "Země je domovem více než 2000 druhů žab. V některých případech se dokonce mění barvu podle okolí!",
+        "image_prompt": "Popis barevné žáby z duhy v tropickém pralesi, měnící barvy na pozadí listí."
       },
       {
-        "text": "Existuje také možnost, že jsme jen jedním z mnoha vesmírů, v multiversu!",
-        "image_prompt": "vizuální zobrazení několika různých vesmírů v podobě bublin ve tmě"
+        "text": "A nakonec, každý slon má unikátní vzor na svých uších, jako otisky prstů u lidí.",
+        "image_prompt": "Detailní snímek sloních uší, ukazující jedinečné vzory, jak slon prochází savanou."
       },
       {
-        "text": "Jaké další záhady skrývá vesmír? Možná na ně odpovíme už brzy!",
-        "image_prompt": "dramatický pohled na kosmický teleskop zaměřující se na vzdálené galaxie s nápisem 'Sledujte nás pro více' v popředí"
+        "text": "To jsou jen některé z úžasných faktů o přírodě, které vás určitě fascinují! Sledujte pro další.",
+        "image_prompt": "Kompilace různé zvířecí říše, jako jsou sloni, lvi a ptáci na pozadí africké savany."
       }
     ]
   }
