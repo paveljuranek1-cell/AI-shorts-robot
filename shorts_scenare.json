@@ -1,31 +1,31 @@
 [
   {
     "title": "Neuvěřitelné šokující fakta o zvířatech!",
-    "hook": "Věděli jste, že některá zvířata umí chodit po vodě?",
+    "hook": "Víte, že sloni jsou schopni rozpoznat se v zrcadle?",
     "scenes": [
       {
-        "text": "Podívejte se na tohoto úžasného baziliška, který dokáže běžet po hladině vody.",
-        "image_prompt": "Záběry rychle běžícího baziliška přes vodní hladinu s dramatickým pozadím tropického lesa."
+        "text": "Sloni jsou jedni z nejinteligentnějších zvířat na planetě. Mohou si pamatovat cesty k vodě i po letech.",
+        "image_prompt": "Slon stojící u řeky, kolem něj zelená příroda, slunce svítí, slon vypadá mírumilovně."
       },
       {
-        "text": "A co takhle medvědí polární? Zjistíte, že jejich srst je vlastně průhledná!",
-        "image_prompt": "Detailní snímek polárního medvěda s jeho srstí odrážející sluneční paprsky a ledovou krajinou v pozadí."
+        "text": "A co ptáci? Některé druhy umí používat nástroje, například krkavci!",
+        "image_prompt": "Krkavec sedící na větvi, v zobáku drží klacek, pozoruje kamení pod sebou se smyslem pro strategii."
       },
       {
-        "text": "Jste si vědomi, že chobotnice mají tři srdce? Dvě pumpují krev do žaber a jedno do těla.",
-        "image_prompt": "Animace chobotnice, ukazující její srdce v akčním režimu, zatímco se pohybuje v mořských hlubinách."
+        "text": "A věděli jste, že chobotnice mají tři srdce? Dvě pumpují krev do žaber, jedno do těla!",
+        "image_prompt": "Chobotnice na dně oceánu, zahalená vnějším tvarem a barvami, dvě srdce pulzující ve vodě pod ní."
       },
       {
-        "text": "Země je domovem více než 2000 druhů žab. V některých případech se dokonce mění barvu podle okolí!",
-        "image_prompt": "Popis barevné žáby z duhy v tropickém pralesi, měnící barvy na pozadí listí."
+        "text": "Nebo že medúzy jsou z 95% složené z vody? Jsou to živé tvory, ale téměř bez hmoty.",
+        "image_prompt": "Medúza plovoucí klidně v průzračné vodě, světlo se odráží od jejího těla, vytváří úchvatný efekt."
       },
       {
-        "text": "A nakonec, každý slon má unikátní vzor na svých uších, jako otisky prstů u lidí.",
-        "image_prompt": "Detailní snímek sloních uší, ukazující jedinečné vzory, jak slon prochází savanou."
+        "text": "Krysy dokážou se smát, když jsou šťastné! Jejich smích je ale slyšet jen na frekvencích, které my neslyšíme.",
+        "image_prompt": "Dvě krysy si hrají spolu, skáčou si do cesty, jejich oči jsou šťastné, barvy se třpytí, vytváří útulnou atmosféru."
       },
       {
-        "text": "To jsou jen některé z úžasných faktů o přírodě, které vás určitě fascinují! Sledujte pro další.",
-        "image_prompt": "Kompilace různé zvířecí říše, jako jsou sloni, lvi a ptáci na pozadí africké savany."
+        "text": "A nakonec, medvědi grizzly mají tak silný nos, že dokážou cítit jídlo až na vzdálenost 30 kilometrů!",
+        "image_prompt": "Grizzly medvěd ve volné přírodě, zvedá hlavu a cítí čich, v pozadí majestátní hory, které se tyčí nebe."
       }
     ]
   }
