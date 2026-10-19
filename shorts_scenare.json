@@ -1,31 +1,31 @@
 [
   {
-    "title": "Neuvěřitelné šokující fakta o zvířatech!",
-    "hook": "Víte, že sloni jsou schopni rozpoznat se v zrcadle?",
+    "title": "Neuvěřitelné a šokující fakta o vesmíru!",
+    "hook": "Věděli jste, že ve vesmíru existuje místo, kde čas takřka neplyne?",
     "scenes": [
       {
-        "text": "Sloni jsou jedni z nejinteligentnějších zvířat na planetě. Mohou si pamatovat cesty k vodě i po letech.",
-        "image_prompt": "Slon stojící u řeky, kolem něj zelená příroda, slunce svítí, slon vypadá mírumilovně."
+        "text": "Podívejte se na tento objekt, který se nazývá černá díra. Je to místo, kde gravitace je tak silná, že nic, ani světlo, nemůže uniknout.",
+        "image_prompt": "záběr na černou díru, s okolními hvězdami a galaxií, tmavé pozadí s jasnými body světla"
       },
       {
-        "text": "A co ptáci? Některé druhy umí používat nástroje, například krkavci!",
-        "image_prompt": "Krkavec sedící na větvi, v zobáku drží klacek, pozoruje kamení pod sebou se smyslem pro strategii."
+        "text": "Víte, že pro některé hvězdy může trvat až miliony let, než se dostanou k nám na Zemi jako světlo?",
+        "image_prompt": "vizuální znázornění hvězdy vyzařující světlo, které se šíří nebem, s časovými osami na pozadí"
       },
       {
-        "text": "A věděli jste, že chobotnice mají tři srdce? Dvě pumpují krev do žaber, jedno do těla!",
-        "image_prompt": "Chobotnice na dně oceánu, zahalená vnějším tvarem a barvami, dvě srdce pulzující ve vodě pod ní."
+        "text": "A co takhle planeta, kde je rok delší než den? Ano, na Venus se dny trvají déle než její rok!",
+        "image_prompt": "animace planety Venus, s velkým sluncem a znázorněním rotace planety"
       },
       {
-        "text": "Nebo že medúzy jsou z 95% složené z vody? Jsou to živé tvory, ale téměř bez hmoty.",
-        "image_prompt": "Medúza plovoucí klidně v průzračné vodě, světlo se odráží od jejího těla, vytváří úchvatný efekt."
+        "text": "Nebo fakt, že vesmír stále expanduje a to rychlostí větší než světlo? To je neuvěřitelné!",
+        "image_prompt": "grafické znázornění expandujícího vesmíru, s galaxií pohybujícími se od sebe, barevné efekty"
       },
       {
-        "text": "Krysy dokážou se smát, když jsou šťastné! Jejich smích je ale slyšet jen na frekvencích, které my neslyšíme.",
-        "image_prompt": "Dvě krysy si hrají spolu, skáčou si do cesty, jejich oči jsou šťastné, barvy se třpytí, vytváří útulnou atmosféru."
+        "text": "A nakonec, v vesmíru jsou miliony planet, které by mohly podporovat život, ale zatím jsme je nenašli!",
+        "image_prompt": "záběr na exoplanety, s různými povrchy a atmosférami, různé barvy a detaily v pozadí"
       },
       {
-        "text": "A nakonec, medvědi grizzly mají tak silný nos, že dokážou cítit jídlo až na vzdálenost 30 kilometrů!",
-        "image_prompt": "Grizzly medvěd ve volné přírodě, zvedá hlavu a cítí čich, v pozadí majestátní hory, které se tyčí nebe."
+        "text": "Co si o tom myslíte? Mohli bychom jednou najít mimozemské životní formy? Sdílejte tento krátký video, pokud vás to fascinuje!",
+        "image_prompt": "koláž obrazů s reprezentacemi různých mimozemských forem života, s otázkami a zamyšlením v pozadí"
       }
     ]
   }
