@@ -1,31 +1,31 @@
 [
   {
-    "title": "Neuvěřitelné a šokující fakta o vesmíru!",
-    "hook": "Věděli jste, že ve vesmíru existuje místo, kde čas takřka neplyne?",
+    "title": "Neuvěřitelné fakta o vesmíru, která vás ohromí",
+    "hook": "Věděli jste, že ve vesmíru je tolik tajemství, že by to ohromilo každého?",
     "scenes": [
       {
-        "text": "Podívejte se na tento objekt, který se nazývá černá díra. Je to místo, kde gravitace je tak silná, že nic, ani světlo, nemůže uniknout.",
-        "image_prompt": "záběr na černou díru, s okolními hvězdami a galaxií, tmavé pozadí s jasnými body světla"
+        "text": "Vesmír je tak rozlehlý, že obsahuje více hvězd než všechna zrnka písku na Zemi.",
+        "image_prompt": "Ohromující panorama galaxie s zářícími hvězdami a barevnými mlhovinami."
       },
       {
-        "text": "Víte, že pro některé hvězdy může trvat až miliony let, než se dostanou k nám na Zemi jako světlo?",
-        "image_prompt": "vizuální znázornění hvězdy vyzařující světlo, které se šíří nebem, s časovými osami na pozadí"
+        "text": "V jediné polovině našeho vesmíru se nachází supermasivní černé díry, které dosahují hmotnosti miliard sluncí.",
+        "image_prompt": "Vizuálně dramatická černá díra pohlcující světlo, obklopená jasnými hvězdami."
       },
       {
-        "text": "A co takhle planeta, kde je rok delší než den? Ano, na Venus se dny trvají déle než její rok!",
-        "image_prompt": "animace planety Venus, s velkým sluncem a znázorněním rotace planety"
+        "text": "Pokud byste mohli cestovat rychlostí světla, trvalo by vám 4 roky, abyste dorazili k nejbližší hvězdě.",
+        "image_prompt": "Hvězdná mapa s jasnými červenými a modrými hvězdnými systémem a bodem ukazujícím vzdálenost."
       },
       {
-        "text": "Nebo fakt, že vesmír stále expanduje a to rychlostí větší než světlo? To je neuvěřitelné!",
-        "image_prompt": "grafické znázornění expandujícího vesmíru, s galaxií pohybujícími se od sebe, barevné efekty"
+        "text": "Na Saturnových měsících byla nalezena voda a podmínky pro existenci života.",
+        "image_prompt": "Záběr měsíce Titan, pokrytého ledovým povrchem s oceány pod ním."
       },
       {
-        "text": "A nakonec, v vesmíru jsou miliony planet, které by mohly podporovat život, ale zatím jsme je nenašli!",
-        "image_prompt": "záběr na exoplanety, s různými povrchy a atmosférami, různé barvy a detaily v pozadí"
+        "text": "Existují galaxie, které se od nás vzdalují rychlostí blížící se rychlosti světla!",
+        "image_prompt": "Vizuální znázornění galaxií v pohybu, s jasnými čarami znázorňujícími rychlost."
       },
       {
-        "text": "Co si o tom myslíte? Mohli bychom jednou najít mimozemské životní formy? Sdílejte tento krátký video, pokud vás to fascinuje!",
-        "image_prompt": "koláž obrazů s reprezentacemi různých mimozemských forem života, s otázkami a zamyšlením v pozadí"
+        "text": "A nakonec, víte, co je nejvíce vzrušující? Vesmír se stále rozpíná a my teprve začínáme odhalovat jeho tajemství!",
+        "image_prompt": "Infografika s expandujícími galaxií, symbolem nekonečnosti a otázkami o budoucnosti."
       }
     ]
   }
