@@ -1,31 +1,31 @@
 [
   {
-    "title": "Neuvěřitelné fakta o vesmíru, která vás ohromí",
-    "hook": "Věděli jste, že ve vesmíru je tolik tajemství, že by to ohromilo každého?",
+    "title": "Neuvěřitelné záhady vesmíru!",
+    "hook": "Jaké tajemství skrývá černá díra?",
     "scenes": [
       {
-        "text": "Vesmír je tak rozlehlý, že obsahuje více hvězd než všechna zrnka písku na Zemi.",
-        "image_prompt": "Ohromující panorama galaxie s zářícími hvězdami a barevnými mlhovinami."
+        "text": "Podívejte se na tuto fascinující černou díru, která pohlcuje vše, co se k ní přiblíží.",
+        "image_prompt": "ohromující záběr černé díry ve vesmíru, s hvězdnými efekty a modro-černým pozadím"
       },
       {
-        "text": "V jediné polovině našeho vesmíru se nachází supermasivní černé díry, které dosahují hmotnosti miliard sluncí.",
-        "image_prompt": "Vizuálně dramatická černá díra pohlcující světlo, obklopená jasnými hvězdami."
+        "text": "Vídeňte, co se stane, když černá díra spolkne hvězdu.",
+        "image_prompt": "animace znázorňující hvězdu, jak je tažena do černé díry s barevnými víry světla"
       },
       {
-        "text": "Pokud byste mohli cestovat rychlostí světla, trvalo by vám 4 roky, abyste dorazili k nejbližší hvězdě.",
-        "image_prompt": "Hvězdná mapa s jasnými červenými a modrými hvězdnými systémem a bodem ukazujícím vzdálenost."
+        "text": "A teď šokující fakt! Černé díry mohou mít supermasivní jádra.",
+        "image_prompt": "výrazný graf, znázorňující velikost supermasivní černé díry v porovnání se sluníčkem a okolními hvězdami"
       },
       {
-        "text": "Na Saturnových měsících byla nalezena voda a podmínky pro existenci života.",
-        "image_prompt": "Záběr měsíce Titan, pokrytého ledovým povrchem s oceány pod ním."
+        "text": "Tyto obří objekty mohou mít miliardy slunečních hmotností.",
+        "image_prompt": "velkolepá scénka s klidně rotující obří černou dírou v galaktickém pozadí"
       },
       {
-        "text": "Existují galaxie, které se od nás vzdalují rychlostí blížící se rychlosti světla!",
-        "image_prompt": "Vizuální znázornění galaxií v pohybu, s jasnými čarami znázorňujícími rychlost."
+        "text": "Ale zajímá vás, jak daleko jsou? Některé jsou miliony světelných let od nás!",
+        "image_prompt": "vizualizace vzdálenosti v prostoru s měřítkem světelných let vedle černé díry"
       },
       {
-        "text": "A nakonec, víte, co je nejvíce vzrušující? Vesmír se stále rozpíná a my teprve začínáme odhalovat jeho tajemství!",
-        "image_prompt": "Infografika s expandujícími galaxií, symbolem nekonečnosti a otázkami o budoucnosti."
+        "text": "A teď si představte, co ještě vesmír skrývá. Další tajemství čeká na objevení!",
+        "image_prompt": "pohled na galaxii plnou hvězd a tajemných objektů, s nádechem záhadnosti"
       }
     ]
   }
