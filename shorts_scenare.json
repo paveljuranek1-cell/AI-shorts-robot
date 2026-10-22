@@ -1,31 +1,31 @@
 [
   {
-    "title": "Neuvěřitelné záhady vesmíru!",
-    "hook": "Jaké tajemství skrývá černá díra?",
+    "title": "Záhady vesmíru: Co skrývá temná hmota?",
+    "hook": "Věděli jste, že 85 % vesmíru je tvořeno temnou hmotou, kterou nedokážeme vidět?",
     "scenes": [
       {
-        "text": "Podívejte se na tuto fascinující černou díru, která pohlcuje vše, co se k ní přiblíží.",
-        "image_prompt": "ohromující záběr černé díry ve vesmíru, s hvězdnými efekty a modro-černým pozadím"
+        "text": "Vítejte ve světě, kde je většina vesmíru neviditelná!",
+        "image_prompt": "spektakulární záběr galaxie s jasně viditelnými hvězdami a temnou hmotou obklopující ji"
       },
       {
-        "text": "Vídeňte, co se stane, když černá díra spolkne hvězdu.",
-        "image_prompt": "animace znázorňující hvězdu, jak je tažena do černé díry s barevnými víry světla"
+        "text": "Temná hmota tvoří asi 27 % vesmíru. Co to vlastně je?",
+        "image_prompt": "animace znázorňující složení vesmíru, kde jsou jednotlivé složky políčkované a temná hmota se svítí slabým, tajemným světlem"
       },
       {
-        "text": "A teď šokující fakt! Černé díry mohou mít supermasivní jádra.",
-        "image_prompt": "výrazný graf, znázorňující velikost supermasivní černé díry v porovnání se sluníčkem a okolními hvězdami"
+        "text": "Fyzikové se snaží pochopit, jaké částice ji tvoří, ale zatím je to záhada!",
+        "image_prompt": "skupina vědců v laboratoři, kteří studují složité grafy a vybavení zaměřené na experimenty s částicemi"
       },
       {
-        "text": "Tyto obří objekty mohou mít miliardy slunečních hmotností.",
-        "image_prompt": "velkolepá scénka s klidně rotující obří černou dírou v galaktickém pozadí"
+        "text": "Představte si vesmír jako lednový večer – temný, ale plný hvězd.",
+        "image_prompt": "krásný zimní večer s jasnou oblohou posetou hvězdami a měsícem, kterým prochází jemný vítr"
       },
       {
-        "text": "Ale zajímá vás, jak daleko jsou? Některé jsou miliony světelných let od nás!",
-        "image_prompt": "vizualizace vzdálenosti v prostoru s měřítkem světelných let vedle černé díry"
+        "text": "Bez temné hmoty by se galaxie nedokázaly udržet pohromadě.",
+        "image_prompt": "vizuální ukázka galaxie, jejíž hvězdy se pohybují nedávno orientovaně, s animací rozpadající se galaxie bez temné hmoty"
       },
       {
-        "text": "A teď si představte, co ještě vesmír skrývá. Další tajemství čeká na objevení!",
-        "image_prompt": "pohled na galaxii plnou hvězd a tajemných objektů, s nádechem záhadnosti"
+        "text": "Co si myslíte? Kdy se nám podaří tuto záhadu rozluštit?",
+        "image_prompt": "dinamická záběr na hlavy mladých lidí diskutujících společně, s viditelným vášnivým zájmem o vesmír"
       }
     ]
   }
