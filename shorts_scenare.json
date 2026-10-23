@@ -1,31 +1,31 @@
 [
   {
-    "title": "Záhady vesmíru: Co skrývá temná hmota?",
-    "hook": "Věděli jste, že 85 % vesmíru je tvořeno temnou hmotou, kterou nedokážeme vidět?",
+    "title": "Neuvěřitelné tajemství vesmíru!",
+    "hook": "Víte, že ve vesmíru je více hvězd než všech zrn písku na Zemi?",
     "scenes": [
       {
-        "text": "Vítejte ve světě, kde je většina vesmíru neviditelná!",
-        "image_prompt": "spektakulární záběr galaxie s jasně viditelnými hvězdami a temnou hmotou obklopující ji"
+        "text": "Začněme tímto fascinujícím faktem!",
+        "image_prompt": "noční obloha posetá hvězdami, jasné mlhoviny a galaxie na pozadí"
       },
       {
-        "text": "Temná hmota tvoří asi 27 % vesmíru. Co to vlastně je?",
-        "image_prompt": "animace znázorňující složení vesmíru, kde jsou jednotlivé složky políčkované a temná hmota se svítí slabým, tajemným světlem"
+        "text": "V každé galaxii najdete miliardy hvězd.",
+        "image_prompt": "detailní pohled na galaxii s rotujícími hvězdami a barevnými mlhovinami"
       },
       {
-        "text": "Fyzikové se snaží pochopit, jaké částice ji tvoří, ale zatím je to záhada!",
-        "image_prompt": "skupina vědců v laboratoři, kteří studují složité grafy a vybavení zaměřené na experimenty s částicemi"
+        "text": "A teď si představte všechny galaxie ve vesmíru.",
+        "image_prompt": "animace, která ukazuje různé galaxie v rychlém sledu, každá s jinými barvami a tvary"
       },
       {
-        "text": "Představte si vesmír jako lednový večer – temný, ale plný hvězd.",
-        "image_prompt": "krásný zimní večer s jasnou oblohou posetou hvězdami a měsícem, kterým prochází jemný vítr"
+        "text": "Celkem jich je přes dvě biliony!",
+        "image_prompt": "infografika zobrazující obrovské číslo s hvězdami a galaxiemi kolem"
       },
       {
-        "text": "Bez temné hmoty by se galaxie nedokázaly udržet pohromadě.",
-        "image_prompt": "vizuální ukázka galaxie, jejíž hvězdy se pohybují nedávno orientovaně, s animací rozpadající se galaxie bez temné hmoty"
+        "text": "To znamená, že v každé sekundě se zrodí nové hvězdy.",
+        "image_prompt": "romantický obraz zrodu nové hvězdy v mlhovině, s jasnými barvami a světelnými efekty"
       },
       {
-        "text": "Co si myslíte? Kdy se nám podaří tuto záhadu rozluštit?",
-        "image_prompt": "dinamická záběr na hlavy mladých lidí diskutujících společně, s viditelným vášnivým zájmem o vesmír"
+        "text": "Vědci stále objevují nové fascinující tajemství!",
+        "image_prompt": "vědec v laboratoři studující vesmírné mapy, obklopený moderními technologiemi a obrazovkami"
       }
     ]
   }
