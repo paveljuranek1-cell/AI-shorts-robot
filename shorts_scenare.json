@@ -1,31 +1,31 @@
 [
   {
-    "title": "Neuvěřitelné tajemství vesmíru!",
-    "hook": "Víte, že ve vesmíru je více hvězd než všech zrn písku na Zemi?",
+    "title": "Neuvěřitelné šokující fakta o vesmíru!",
+    "hook": "Věděl jsi, že ve vesmíru je tolik záhad, že to ani neuvěříš?",
     "scenes": [
       {
-        "text": "Začněme tímto fascinujícím faktem!",
-        "image_prompt": "noční obloha posetá hvězdami, jasné mlhoviny a galaxie na pozadí"
+        "text": "Vesmír je neuvěřitelně obrovský, ale víš, že se stále rozšiřuje?",
+        "image_prompt": "Obrázek galaxií, které se vzdalují jedna od druhé, s barevnými spirálními vzory a hvězdným pozadím."
       },
       {
-        "text": "V každé galaxii najdete miliardy hvězd.",
-        "image_prompt": "detailní pohled na galaxii s rotujícími hvězdami a barevnými mlhovinami"
+        "text": "Existuje více hvězd než všech zrn písku na Zemi!",
+        "image_prompt": "Makrosnímek malých zrn písku vedle obrazů tisíců zářivých hvězd na nekonečném nočním nebi."
       },
       {
-        "text": "A teď si představte všechny galaxie ve vesmíru.",
-        "image_prompt": "animace, která ukazuje různé galaxie v rychlém sledu, každá s jinými barvami a tvary"
+        "text": "A víš, co je nejzajímavější? Černé díry pohlcují vše, co se k nim přiblíží.",
+        "image_prompt": "Ilustrace černé díry s pohybujícími se prvky a zářícími hvězdami, které jsou stahovány k jejímu středu."
       },
       {
-        "text": "Celkem jich je přes dvě biliony!",
-        "image_prompt": "infografika zobrazující obrovské číslo s hvězdami a galaxiemi kolem"
+        "text": "Od NASA víme, že existují planety, kde může pršet sklo!",
+        "image_prompt": "Fantastická planeta s deštěm ve formě skleněných krystalků, jasně modrou oblohou a surrealistickým prostředím."
       },
       {
-        "text": "To znamená, že v každé sekundě se zrodí nové hvězdy.",
-        "image_prompt": "romantický obraz zrodu nové hvězdy v mlhovině, s jasnými barvami a světelnými efekty"
+        "text": "A co když ti řeknu, že zvuk ve vesmíru neexistuje? Není tam vzduch!",
+        "image_prompt": "Obrázek astronauta ve vakuu s lidmi v pozadí diskutujícími, dramaticky znázorňujícími, jak slyší jen ticho."
       },
       {
-        "text": "Vědci stále objevují nové fascinující tajemství!",
-        "image_prompt": "vědec v laboratoři studující vesmírné mapy, obklopený moderními technologiemi a obrazovkami"
+        "text": "Nyní už víš, že vesmír je plný překvapení, které čekají na objevování!",
+        "image_prompt": "Pohled na otevřenou galaxii s desítkami barevných planet a zářících hvězd, symbolizující tajemství vesmíru."
       }
     ]
   }
