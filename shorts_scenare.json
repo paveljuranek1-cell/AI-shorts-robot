@@ -1,31 +1,31 @@
 [
   {
-    "title": "Neuvěřitelné šokující fakta o vesmíru!",
-    "hook": "Věděl jsi, že ve vesmíru je tolik záhad, že to ani neuvěříš?",
+    "title": "Zvířata, která přežila vymření!",
+    "hook": "Věděl jsi, že některá zvířata přežila i největší katastrofy na Zemi?",
     "scenes": [
       {
-        "text": "Vesmír je neuvěřitelně obrovský, ale víš, že se stále rozšiřuje?",
-        "image_prompt": "Obrázek galaxií, které se vzdalují jedna od druhé, s barevnými spirálními vzory a hvězdným pozadím."
+        "text": "Představ si, jak před 65 miliony lety vyhynula většina dinosaurů.",
+        "image_prompt": "Dynamický záběr na dramatickou rekonstrukci meteorického dopadu do země, obrovské výbuchy a prach ve vzduchu."
       },
       {
-        "text": "Existuje více hvězd než všech zrn písku na Zemi!",
-        "image_prompt": "Makrosnímek malých zrn písku vedle obrazů tisíců zářivých hvězd na nekonečném nočním nebi."
+        "text": "Ale co jiná zvířata? Někdo se zachránil!",
+        "image_prompt": "Záběr na drobné živočichy, jako jsou různí savci a ptáci, běžící do bezpečí v hustém lese během dopadu."
       },
       {
-        "text": "A víš, co je nejzajímavější? Černé díry pohlcují vše, co se k nim přiblíží.",
-        "image_prompt": "Ilustrace černé díry s pohybujícími se prvky a zářícími hvězdami, které jsou stahovány k jejímu středu."
+        "text": "Například, krokodýli a želvy přežili díky svému unikátnímu životnímu stylu.",
+        "image_prompt": "Krokodýl ve vodě, klidně odpočívající na břehu, zatímco kolem něj se odehrává chaos."
       },
       {
-        "text": "Od NASA víme, že existují planety, kde může pršet sklo!",
-        "image_prompt": "Fantastická planeta s deštěm ve formě skleněných krystalků, jasně modrou oblohou a surrealistickým prostředím."
+        "text": "Dokonce i mravenci a včely, kteří se schovali pod zemí, to zvládli!",
+        "image_prompt": "Podzemní tunely mravenců s aktivními mravenci pracujícími a včelami v úlu."
       },
       {
-        "text": "A co když ti řeknu, že zvuk ve vesmíru neexistuje? Není tam vzduch!",
-        "image_prompt": "Obrázek astronauta ve vakuu s lidmi v pozadí diskutujícími, dramaticky znázorňujícími, jak slyší jen ticho."
+        "text": "A co zajímavější? Kdysi se říkalo, že vyhynulé druhy zanechaly zajímavé genetické stopy.",
+        "image_prompt": "Obraz genetického sledu, který ukazuje spojení dnešních zvířat s jejich dávnými předky."
       },
       {
-        "text": "Nyní už víš, že vesmír je plný překvapení, které čekají na objevování!",
-        "image_prompt": "Pohled na otevřenou galaxii s desítkami barevných planet a zářících hvězd, symbolizující tajemství vesmíru."
+        "text": "Tak příště, když vidíš krokodýla, vzpoměň si na tuto velkolepou historii přežití!",
+        "image_prompt": "Záběr na krokodýla v přírodě, s jasným slunečním svitem, symbolizující jeho dlouhou existenci na Zemi."
       }
     ]
   }
