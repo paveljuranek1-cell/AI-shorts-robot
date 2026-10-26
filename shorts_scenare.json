@@ -1,31 +1,31 @@
 [
   {
-    "title": "Zvířata, která přežila vymření!",
-    "hook": "Věděl jsi, že některá zvířata přežila i největší katastrofy na Zemi?",
+    "title": "Šokující fakta o zvířatech, o kterých jste nikdy neslyšeli!",
+    "hook": "Věděli jste, že zvířata mají některé opravdu šílené schopnosti?",
     "scenes": [
       {
-        "text": "Představ si, jak před 65 miliony lety vyhynula většina dinosaurů.",
-        "image_prompt": "Dynamický záběr na dramatickou rekonstrukci meteorického dopadu do země, obrovské výbuchy a prach ve vzduchu."
+        "text": "Seznamte se s axolotlem, který dokáže regenerovat ztracené končetiny!",
+        "image_prompt": "Barevný axolotl plavající v průhledné nádrži s rostlinami, ukazující čerstvě regenerovanou končetinu."
       },
       {
-        "text": "Ale co jiná zvířata? Někdo se zachránil!",
-        "image_prompt": "Záběr na drobné živočichy, jako jsou různí savci a ptáci, běžící do bezpečí v hustém lese během dopadu."
+        "text": "A co takhle lidé, kteří se těžko skryjí? Dva trolí medvědi se dokáží schovat neviditelného ve svém prostředí!",
+        "image_prompt": "Dva trolí medvědi we zlese, stojící vedle sebe mezi stromy, splývající s okolím."
       },
       {
-        "text": "Například, krokodýli a želvy přežili díky svému unikátnímu životnímu stylu.",
-        "image_prompt": "Krokodýl ve vodě, klidně odpočívající na břehu, zatímco kolem něj se odehrává chaos."
+        "text": "Jste připraveni? Dospělí včely dokážou rozpoznat lidské tváře!",
+        "image_prompt": "Detailní záběr na včelu sedící na květu, zaměřená na její oči a jemné detaily hlavy."
       },
       {
-        "text": "Dokonce i mravenci a včely, kteří se schovali pod zemí, to zvládli!",
-        "image_prompt": "Podzemní tunely mravenců s aktivními mravenci pracujícími a včelami v úlu."
+        "text": "A jak to mají s dopravou? Sloni mají vynikající paměť a dokážou se vrátit k místům, kde byly před lety!",
+        "image_prompt": "Skupina slonů kráčející skrze savanu, s majestátními horami v pozadí a sluncem na obzoru."
       },
       {
-        "text": "A co zajímavější? Kdysi se říkalo, že vyhynulé druhy zanechaly zajímavé genetické stopy.",
-        "image_prompt": "Obraz genetického sledu, který ukazuje spojení dnešních zvířat s jejich dávnými předky."
+        "text": "Ale i to není všechno! Chobotnice mají tři srdce a modrou krev!",
+        "image_prompt": "Chobotnice plavající v oceánu, s jasnými barvami a viditelnými detaily na jejím těle."
       },
       {
-        "text": "Tak příště, když vidíš krokodýla, vzpoměň si na tuto velkolepou historii přežití!",
-        "image_prompt": "Záběr na krokodýla v přírodě, s jasným slunečním svitem, symbolizující jeho dlouhou existenci na Zemi."
+        "text": "Pamatujte, zvířata jsou opravdu úžasné bytosti. Jaká šokující fakta znáte vy?",
+        "image_prompt": "Koláž různých zvířat v jejich přirozeném prostředí, včetně slona, včely a chobotnice, rámcově zobrazené na pozadí planetární mapy."
       }
     ]
   }
