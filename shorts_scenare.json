@@ -1,31 +1,31 @@
 [
   {
-    "title": "Šokující fakta o zvířatech, o kterých jste nikdy neslyšeli!",
-    "hook": "Věděli jste, že zvířata mají některé opravdu šílené schopnosti?",
+    "title": "Neuvěřitelné tajemství naší galaxie!",
+    "hook": "Věděli jste, že naša galaxie může skrývat černou díru velikosti země?",
     "scenes": [
       {
-        "text": "Seznamte se s axolotlem, který dokáže regenerovat ztracené končetiny!",
-        "image_prompt": "Barevný axolotl plavající v průhledné nádrži s rostlinami, ukazující čerstvě regenerovanou končetinu."
+        "text": "Představte si galaxii, která je plná záhad a tajemství, které ještě nejsou odhalena.",
+        "image_prompt": "Ohromující záběr na spirální galaxii s jasnými barvami, s hvězdami a slabými zářícími objekty na obzoru."
       },
       {
-        "text": "A co takhle lidé, kteří se těžko skryjí? Dva trolí medvědi se dokáží schovat neviditelného ve svém prostředí!",
-        "image_prompt": "Dva trolí medvědi we zlese, stojící vedle sebe mezi stromy, splývající s okolím."
+        "text": "Nedávné vědecké studie naznačují, že v naší Mléčné dráze může existovat skrytá černá díra.",
+        "image_prompt": "Ilustrace černé díry s gravitačními vlnami kolem ní, obklopené hvězdným pozadím."
       },
       {
-        "text": "Jste připraveni? Dospělí včely dokážou rozpoznat lidské tváře!",
-        "image_prompt": "Detailní záběr na včelu sedící na květu, zaměřená na její oči a jemné detaily hlavy."
+        "text": "Tato černá díra by mohla být tak malá, že by se vešla na místo velikosti naší planety.",
+        "image_prompt": "Porovnání velikosti černé díry s zemskou koulí v realistickém prostředí vesmíru."
       },
       {
-        "text": "A jak to mají s dopravou? Sloni mají vynikající paměť a dokážou se vrátit k místům, kde byly před lety!",
-        "image_prompt": "Skupina slonů kráčející skrze savanu, s majestátními horami v pozadí a sluncem na obzoru."
+        "text": "A co víc, mohla by ovlivňovat pohyb hvězd ve svém okolí, aniž bychom o ní věděli.",
+        "image_prompt": "Animace pohybujících se hvězd, které obíhají kolem skryté černé díry."
       },
       {
-        "text": "Ale i to není všechno! Chobotnice mají tři srdce a modrou krev!",
-        "image_prompt": "Chobotnice plavající v oceánu, s jasnými barvami a viditelnými detaily na jejím těle."
+        "text": "Zatímco se na to díváme v noci, možná právě nad námi se děje něco úžasného.",
+        "image_prompt": "Noční obloha plná hvězd, s jasně viditelnou Mléčnou dráhou a dramatickými mraky."
       },
       {
-        "text": "Pamatujte, zvířata jsou opravdu úžasné bytosti. Jaká šokující fakta znáte vy?",
-        "image_prompt": "Koláž různých zvířat v jejich přirozeném prostředí, včetně slona, včely a chobotnice, rámcově zobrazené na pozadí planetární mapy."
+        "text": "Co dalšího nám náš vesmír skrývá? Zůstaňte naladěni, tajemství teprve začínají!",
+        "image_prompt": "Epický záběr na galaxii s pohybujícími se pohledy na různé planety a hvězdy, v pozadí blikající vzkaz 'Zůstaňte s námi!'."
       }
     ]
   }
