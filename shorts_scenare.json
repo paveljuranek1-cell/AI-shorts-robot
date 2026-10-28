@@ -1,31 +1,31 @@
 [
   {
-    "title": "Neuvěřitelné tajemství naší galaxie!",
-    "hook": "Věděli jste, že naša galaxie může skrývat černou díru velikosti země?",
+    "title": "Neuvěřitelné tajemství v našich oceánech!",
+    "hook": "Věděli jste, že v oceánech existuje“ řeka“ s vodou tak slanou, že je těžší než okolní moře?",
     "scenes": [
       {
-        "text": "Představte si galaxii, která je plná záhad a tajemství, které ještě nejsou odhalena.",
-        "image_prompt": "Ohromující záběr na spirální galaxii s jasnými barvami, s hvězdami a slabými zářícími objekty na obzoru."
+        "text": "Představte si, že plavete po hladině oceánu a najednou narazíte na tajemnou „řeku“ pod vodou!",
+        "image_prompt": "záběr na modrou hladinu oceánu, pod kterou se rýsuje silná linie slané vody, která vypadá jako řeka"
       },
       {
-        "text": "Nedávné vědecké studie naznačují, že v naší Mléčné dráze může existovat skrytá černá díra.",
-        "image_prompt": "Ilustrace černé díry s gravitačními vlnami kolem ní, obklopené hvězdným pozadím."
+        "text": "Tato slaná řeka, známá jako 'brine pool', může mít teploty až 8 stupňů Celsia a je obsazena podivnými tvory!",
+        "image_prompt": "obraz podmořské scény, kde se nacházejí podivné ryby a krabi ve slané vodě s jasně modrou barvou pozadí"
       },
       {
-        "text": "Tato černá díra by mohla být tak malá, že by se vešla na místo velikosti naší planety.",
-        "image_prompt": "Porovnání velikosti černé díry s zemskou koulí v realistickém prostředí vesmíru."
+        "text": "Až 8x slanější než okolní moře, brine pool je jako jiný svět a má své vlastní ekosystémy.",
+        "image_prompt": "vizualizace různých podmořských ekosystémů, které jsou vyskytují v brine pool, s vysoce kontrastními barvami"
       },
       {
-        "text": "A co víc, mohla by ovlivňovat pohyb hvězd ve svém okolí, aniž bychom o ní věděli.",
-        "image_prompt": "Animace pohybujících se hvězd, které obíhají kolem skryté černé díry."
+        "text": "Tamní organismy včetně bakterií a ryb se přizpůsobily extrémním podmínkám!",
+        "image_prompt": "detailní záběr na mikroskopické organismy s jasně vybarvenými detaily plovoucími ve slané vodě"
       },
       {
-        "text": "Zatímco se na to díváme v noci, možná právě nad námi se děje něco úžasného.",
-        "image_prompt": "Noční obloha plná hvězd, s jasně viditelnou Mléčnou dráhou a dramatickými mraky."
+        "text": "S tímto fascinujícím objevem oceánů máme stále co zkoumat, protože většina zůstává neprozkoumaná!",
+        "image_prompt": "pohled na neprozkoumané oceánské dno pokryté neznámými rostlinami a zvířaty, s majestátními žraloky proplouvajícími v pozadí"
       },
       {
-        "text": "Co dalšího nám náš vesmír skrývá? Zůstaňte naladěni, tajemství teprve začínají!",
-        "image_prompt": "Epický záběr na galaxii s pohybujícími se pohledy na různé planety a hvězdy, v pozadí blikající vzkaz 'Zůstaňte s námi!'."
+        "text": "Podívejte se do hlubokých vod a možná objevíte tajemství, o kterých nikdo nevěděl!",
+        "image_prompt": "dynamický záběr na potápěče proplouvajícího kolem fascinujících podmořských útvarů a zvířat, s efektem modré hloubky kolem"
       }
     ]
   }
