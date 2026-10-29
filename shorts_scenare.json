@@ -1,31 +1,31 @@
 [
   {
-    "title": "Neuvěřitelné tajemství v našich oceánech!",
-    "hook": "Věděli jste, že v oceánech existuje“ řeka“ s vodou tak slanou, že je těžší než okolní moře?",
+    "title": "Záhadné zvířecí chování: Co nám skrývají?",
+    "hook": "Věděli jste, že některá zvířata dokážou předpovědět zemětřesení?",
     "scenes": [
       {
-        "text": "Představte si, že plavete po hladině oceánu a najednou narazíte na tajemnou „řeku“ pod vodou!",
-        "image_prompt": "záběr na modrou hladinu oceánu, pod kterou se rýsuje silná linie slané vody, která vypadá jako řeka"
+        "text": "Některé zvířecí druhy cítí změny v Zemi, které my lidé vůbec nezachytíme!",
+        "image_prompt": "Blížící se zemětřesení, s pohledem na zvířata jako jsou psi a kočky, které se nervózně potulují."
       },
       {
-        "text": "Tato slaná řeka, známá jako 'brine pool', může mít teploty až 8 stupňů Celsia a je obsazena podivnými tvory!",
-        "image_prompt": "obraz podmořské scény, kde se nacházejí podivné ryby a krabi ve slané vodě s jasně modrou barvou pozadí"
+        "text": "Například, sloni se často začínají chovat podivně a utíkat do bezpečných oblastí, dříve než k zemětřesení dojde.",
+        "image_prompt": "Skupina slonů ve volné přírodě, jak se snaží najít útočiště, jasné nebe a náznak blížící se přírodní katastrofy."
       },
       {
-        "text": "Až 8x slanější než okolní moře, brine pool je jako jiný svět a má své vlastní ekosystémy.",
-        "image_prompt": "vizualizace různých podmořských ekosystémů, které jsou vyskytují v brine pool, s vysoce kontrastními barvami"
+        "text": "Ale není to jen sloni! Ptáci, jako třeba vrabci, často létají nízko a vrací se do svých hnízd.",
+        "image_prompt": "Vrabci létající nízko nad zemí ve městě, jejichž pohyb naznačuje změnu počasí."
       },
       {
-        "text": "Tamní organismy včetně bakterií a ryb se přizpůsobily extrémním podmínkám!",
-        "image_prompt": "detailní záběr na mikroskopické organismy s jasně vybarvenými detaily plovoucími ve slané vodě"
+        "text": "Zajímavé je, že také psi mohou cítit stres a úzkost svých majitelů.",
+        "image_prompt": "Pohled na šťastného psa, který se snaží uklidnit nervózního majitele, zblízka na jeho výraz."
       },
       {
-        "text": "S tímto fascinujícím objevem oceánů máme stále co zkoumat, protože většina zůstává neprozkoumaná!",
-        "image_prompt": "pohled na neprozkoumané oceánské dno pokryté neznámými rostlinami a zvířaty, s majestátními žraloky proplouvajícími v pozadí"
+        "text": "A co víc, delfíni se shromáždí blízko pobřeží, když cítí blížící se bouři.",
+        "image_prompt": "Delfíni skákající vedle lodi na rozbouřeném moři, s dramatickými mraky na obzoru."
       },
       {
-        "text": "Podívejte se do hlubokých vod a možná objevíte tajemství, o kterých nikdo nevěděl!",
-        "image_prompt": "dynamický záběr na potápěče proplouvajícího kolem fascinujících podmořských útvarů a zvířat, s efektem modré hloubky kolem"
+        "text": "Takže příště, když vaše zvíře začne jednat podivně, možná má pravdu. Sledujte je!",
+        "image_prompt": "Zvíře (např. pes) sedící u okna a koukající ven, s výrazem jako by bylo na stráži."
       }
     ]
   }
