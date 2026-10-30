@@ -1,31 +1,31 @@
 [
   {
-    "title": "Záhadné zvířecí chování: Co nám skrývají?",
-    "hook": "Věděli jste, že některá zvířata dokážou předpovědět zemětřesení?",
+    "title": "Neuvěřitelné fakta o vesmíru",
+    "hook": "Věděli jste, že vesmír může být mnohem podivnější, než si myslíte?",
     "scenes": [
       {
-        "text": "Některé zvířecí druhy cítí změny v Zemi, které my lidé vůbec nezachytíme!",
-        "image_prompt": "Blížící se zemětřesení, s pohledem na zvířata jako jsou psi a kočky, které se nervózně potulují."
+        "text": "Vesmír je tak rozlehlý, že neexistuje žádné místo, kde bychom mohli říct, že je konec.",
+        "image_prompt": "Rozlehlý pohled na galaxii s miliony hvězd, nebem posetým hvězdami a barevnými mračny mlhovin."
       },
       {
-        "text": "Například, sloni se často začínají chovat podivně a utíkat do bezpečných oblastí, dříve než k zemětřesení dojde.",
-        "image_prompt": "Skupina slonů ve volné přírodě, jak se snaží najít útočiště, jasné nebe a náznak blížící se přírodní katastrofy."
+        "text": "Černé díry jsou tak silné, že dokážou pohlcovat i světlo.",
+        "image_prompt": "Ilustrace černé díry, kolem které se točí světlo a hvězdy, s dramatickým kontrastem mezi tmavou dírou a jasným pozadím."
       },
       {
-        "text": "Ale není to jen sloni! Ptáci, jako třeba vrabci, často létají nízko a vrací se do svých hnízd.",
-        "image_prompt": "Vrabci létající nízko nad zemí ve městě, jejichž pohyb naznačuje změnu počasí."
+        "text": "Některé hvězdy jsou tak velké, že by mohly pojmout i celé naše Slunce!",
+        "image_prompt": "Srovnání velikosti slunce s obrovskou hvězdou, která je několikrát větší, znázorněné pomocí grafiky a čísel."
       },
       {
-        "text": "Zajímavé je, že také psi mohou cítit stres a úzkost svých majitelů.",
-        "image_prompt": "Pohled na šťastného psa, který se snaží uklidnit nervózního majitele, zblízka na jeho výraz."
+        "text": "Naše galaxie, Mléčná dráha, obsahuje více než 100 miliard hvězd.",
+        "image_prompt": "Pohled na Mléčnou dráhu jako spirální galaxii, se žhnoucími hvězdami a prachovými mraky, v noci na jasném nebi."
       },
       {
-        "text": "A co víc, delfíni se shromáždí blízko pobřeží, když cítí blížící se bouři.",
-        "image_prompt": "Delfíni skákající vedle lodi na rozbouřeném moři, s dramatickými mraky na obzoru."
+        "text": "Vesmír se stále rozpíná a to neustále zrychluje!",
+        "image_prompt": "Animace znázorňující, jak se galaxie od sebe vzdáleně pohybují, s grafikou znázorňující expanzi vesmíru."
       },
       {
-        "text": "Takže příště, když vaše zvíře začne jednat podivně, možná má pravdu. Sledujte je!",
-        "image_prompt": "Zvíře (např. pes) sedící u okna a koukající ven, s výrazem jako by bylo na stráži."
+        "text": "A konečně, před 13,8 miliardami let se udál Velký třesk, který začal náš vesmír.",
+        "image_prompt": "Dynamická ilustrace Velkého třesku, s explozivním roztříštěním a nadějnými barevnými efekty, které vytvářejí nový vesmír."
       }
     ]
   }
