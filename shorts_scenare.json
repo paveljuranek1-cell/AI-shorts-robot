@@ -1,31 +1,31 @@
 [
   {
-    "title": "Neuvěřitelné fakta o vesmíru",
-    "hook": "Věděli jste, že vesmír může být mnohem podivnější, než si myslíte?",
+    "title": "Neuvěřitelné fakta o vesmíru!",
+    "hook": "Věděli jste, že ve vesmíru je víc hvězd než zrnek písku na všech plážích Země?",
     "scenes": [
       {
-        "text": "Vesmír je tak rozlehlý, že neexistuje žádné místo, kde bychom mohli říct, že je konec.",
-        "image_prompt": "Rozlehlý pohled na galaxii s miliony hvězd, nebem posetým hvězdami a barevnými mračny mlhovin."
+        "text": "Podle vědců je ve vesmíru více než 100 miliard galaxií, každá s miliardami hvězd.",
+        "image_prompt": "Jedinečný širokoúhlý záběr na hvězdné nebe s miliardami hvězd a galaxií v pozadí."
       },
       {
-        "text": "Černé díry jsou tak silné, že dokážou pohlcovat i světlo.",
-        "image_prompt": "Ilustrace černé díry, kolem které se točí světlo a hvězdy, s dramatickým kontrastem mezi tmavou dírou a jasným pozadím."
+        "text": "A teď si představte, že každá galaxie má průměrně 100 miliard hvězd!",
+        "image_prompt": "Kreativní grafika zobrazuje miliony hvězd v galaxii kolem jasného jádra."
       },
       {
-        "text": "Některé hvězdy jsou tak velké, že by mohly pojmout i celé naše Slunce!",
-        "image_prompt": "Srovnání velikosti slunce s obrovskou hvězdou, která je několikrát větší, znázorněné pomocí grafiky a čísel."
+        "text": "V naší Mléčné dráze je průměrně asi 200 miliard hvězd. To je neuvěřitelné číslo!",
+        "image_prompt": "Animace náhledu na Mléčnou dráhu s zvýrazněnými hvězdami a jejich nepravidelnými vzory."
       },
       {
-        "text": "Naše galaxie, Mléčná dráha, obsahuje více než 100 miliard hvězd.",
-        "image_prompt": "Pohled na Mléčnou dráhu jako spirální galaxii, se žhnoucími hvězdami a prachovými mraky, v noci na jasném nebi."
+        "text": "Ale to není všechno! Vědci odhadují, že existují planety mimo naši galaxii, možná až 10 miliard.",
+        "image_prompt": "Ilustrace exoplanety obíhající kolem hvězdy v jiné galaxii s různými barevnými efekty."
       },
       {
-        "text": "Vesmír se stále rozpíná a to neustále zrychluje!",
-        "image_prompt": "Animace znázorňující, jak se galaxie od sebe vzdáleně pohybují, s grafikou znázorňující expanzi vesmíru."
+        "text": "A právě teď se hledají známky života na těchto vzdálených světech!",
+        "image_prompt": "Záběr na teleskop směřující k obloze, s animací hledání života s různými symboly a barvami."
       },
       {
-        "text": "A konečně, před 13,8 miliardami let se udál Velký třesk, který začal náš vesmír.",
-        "image_prompt": "Dynamická ilustrace Velkého třesku, s explozivním roztříštěním a nadějnými barevnými efekty, které vytvářejí nový vesmír."
+        "text": "Vesmír je plný tajemství a každý nový objev nás posouvá blíž k jejich odhalení.",
+        "image_prompt": "Vizuálně impozantní scéna zobrazující astronoma studujícího mapu vesmíru s zářivými hvězdami v pozadí."
       }
     ]
   }
