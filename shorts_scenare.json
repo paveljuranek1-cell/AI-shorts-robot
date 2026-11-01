@@ -1,31 +1,31 @@
 [
   {
-    "title": "Neuvěřitelné fakta o vesmíru!",
-    "hook": "Věděli jste, že ve vesmíru je víc hvězd než zrnek písku na všech plážích Země?",
+    "title": "Šokující fakta o vesmíru, která vás ohromí!",
+    "hook": "Věděli jste, že vesmír může být mnohem podivnější, než si myslíte?",
     "scenes": [
       {
-        "text": "Podle vědců je ve vesmíru více než 100 miliard galaxií, každá s miliardami hvězd.",
-        "image_prompt": "Jedinečný širokoúhlý záběr na hvězdné nebe s miliardami hvězd a galaxií v pozadí."
+        "text": "Vesmír je tak obrovský, že se nám jeho rozměry skoro nedají představit!",
+        "image_prompt": "obrovský vesmír s tisíci hvězd a galaxiemi, pohled z vesmíru, modré a fialové odstíny"
       },
       {
-        "text": "A teď si představte, že každá galaxie má průměrně 100 miliard hvězd!",
-        "image_prompt": "Kreativní grafika zobrazuje miliony hvězd v galaxii kolem jasného jádra."
+        "text": "Existují planety, kde prší sklo nebo kde jsou teploty tak extrémní, že byste nezvládli ani sekundu!",
+        "image_prompt": "fantastická planeta s modrým nebem a deštěm z čirého skla, dramatické mraky"
       },
       {
-        "text": "V naší Mléčné dráze je průměrně asi 200 miliard hvězd. To je neuvěřitelné číslo!",
-        "image_prompt": "Animace náhledu na Mléčnou dráhu s zvýrazněnými hvězdami a jejich nepravidelnými vzory."
+        "text": "Na některých měsících může existovat život, i když to na první pohled nevypadá.",
+        "image_prompt": "ledový měsíc s mlhavým pozadím, podzemní oceány svítící ve tmě"
       },
       {
-        "text": "Ale to není všechno! Vědci odhadují, že existují planety mimo naši galaxii, možná až 10 miliard.",
-        "image_prompt": "Ilustrace exoplanety obíhající kolem hvězdy v jiné galaxii s různými barevnými efekty."
+        "text": "Supernova - výbuch hvězdy, který může zářit jasně jak celé galaxie!",
+        "image_prompt": "výbuch hvězdy, ohnivé a barevné oblaky v dramatu vesmíru"
       },
       {
-        "text": "A právě teď se hledají známky života na těchto vzdálených světech!",
-        "image_prompt": "Záběr na teleskop směřující k obloze, s animací hledání života s různými symboly a barvami."
+        "text": "Naše galaxie, Mléčná dráha, má průměr asi 100 000 světelných let! Co to znamená?",
+        "image_prompt": "záběr z vesmíru na Mléčnou dráhu, jasné hvězdné pruhy na tmavém pozadí"
       },
       {
-        "text": "Vesmír je plný tajemství a každý nový objev nás posouvá blíž k jejich odhalení.",
-        "image_prompt": "Vizuálně impozantní scéna zobrazující astronoma studujícího mapu vesmíru s zářivými hvězdami v pozadí."
+        "text": "Věda o vesmíru se stále vyvíjí, a každý rok objevujeme něco nového!",
+        "image_prompt": "vědec v laboratoři s teleskopem, pohled na noční oblohu s hvězdami"
       }
     ]
   }
