@@ -1,31 +1,31 @@
 [
   {
-    "title": "Šokující fakta o vesmíru, která vás ohromí!",
-    "hook": "Věděli jste, že vesmír může být mnohem podivnější, než si myslíte?",
+    "title": "Nejzáhadnější tvory Země, o kterých jste nikdy neslyšeli!",
+    "hook": "Víte, že existují zvířata, o nichž jste dosud ani netušili?",
     "scenes": [
       {
-        "text": "Vesmír je tak obrovský, že se nám jeho rozměry skoro nedají představit!",
-        "image_prompt": "obrovský vesmír s tisíci hvězd a galaxiemi, pohled z vesmíru, modré a fialové odstíny"
+        "text": "Seznamte se s axolotlem, tvorem, který nikdy nezačne žít na souši!",
+        "image_prompt": "Barevný axolotl v čisté vodě, s rostlinami a kameny kolem, v jasném osvětlení."
       },
       {
-        "text": "Existují planety, kde prší sklo nebo kde jsou teploty tak extrémní, že byste nezvládli ani sekundu!",
-        "image_prompt": "fantastická planeta s modrým nebem a deštěm z čirého skla, dramatické mraky"
+        "text": "Ale to není všechno! Kde se vzal Kraken, legendární obrovský hlavonožec?",
+        "image_prompt": "Ilustrace obrovského chobotnice pod hladinou oceánu, s bublinami a rybami všeho druhu okolo."
       },
       {
-        "text": "Na některých měsících může existovat život, i když to na první pohled nevypadá.",
-        "image_prompt": "ledový měsíc s mlhavým pozadím, podzemní oceány svítící ve tmě"
+        "text": "A co takhle nezaměnitelný tardigrad? Tvrdáči mezi mikroby, kteří přežijí i ve vesmírném vaku!",
+        "image_prompt": "Mikroskopický záběr na tardigrada na pozadí zvětšené struktury buněk, s živými barvami."
       },
       {
-        "text": "Supernova - výbuch hvězdy, který může zářit jasně jak celé galaxie!",
-        "image_prompt": "výbuch hvězdy, ohnivé a barevné oblaky v dramatu vesmíru"
+        "text": "Zde máme také nelétajícího ptáka Kiwi! Jak se mu podařilo přežít bez křídel?",
+        "image_prompt": "Roztomilý kiwi na trávníku, s jemně stylizovaným a barevným pozadím a odrazem slunce."
       },
       {
-        "text": "Naše galaxie, Mléčná dráha, má průměr asi 100 000 světelných let! Co to znamená?",
-        "image_prompt": "záběr z vesmíru na Mléčnou dráhu, jasné hvězdné pruhy na tmavém pozadí"
+        "text": "A nesmíme zapomenout na fascinující svět olomouckých syrových houby - jaké taje skrývají?",
+        "image_prompt": "Vysoce detailní záběr na různé druhy hub, s blížícím se záběrem na kapky rosy na kloboucích."
       },
       {
-        "text": "Věda o vesmíru se stále vyvíjí, a každý rok objevujeme něco nového!",
-        "image_prompt": "vědec v laboratoři s teleskopem, pohled na noční oblohu s hvězdami"
+        "text": "Život na Zemi je plný překvapení! Jaké další zvláštnosti nás čekají?",
+        "image_prompt": "Montáž rychle se střídajících záběrů zvláštních stvoření a přírodní scenérie, s intenzivní hudbou v pozadí."
       }
     ]
   }
