@@ -1,31 +1,31 @@
 [
   {
-    "title": "Nejzáhadnější tvory Země, o kterých jste nikdy neslyšeli!",
-    "hook": "Víte, že existují zvířata, o nichž jste dosud ani netušili?",
+    "title": "Tajemství vesmíru: Proč je temná hmota tak zvláštní?",
+    "hook": "Víte, že kolem nás existuje tajemná temná hmota, které je víc než vše, co vidíme?",
     "scenes": [
       {
-        "text": "Seznamte se s axolotlem, tvorem, který nikdy nezačne žít na souši!",
-        "image_prompt": "Barevný axolotl v čisté vodě, s rostlinami a kameny kolem, v jasném osvětlení."
+        "text": "Temná hmota tvoří 85% hmotnosti vesmíru, ale vůbec ji nevidíme!",
+        "image_prompt": "posvátný pohled na galaxii, s jasně zářícími hvězdami a temnými oblastmi, které naznačují přítomnost temné hmoty"
       },
       {
-        "text": "Ale to není všechno! Kde se vzal Kraken, legendární obrovský hlavonožec?",
-        "image_prompt": "Ilustrace obrovského chobotnice pod hladinou oceánu, s bublinami a rybami všeho druhu okolo."
+        "text": "Tato tajemná hmota nepůsobí jako klasická hmota, že by byla vidět ve světle.",
+        "image_prompt": "záběr z teleskopu, který zobrazuje vzdálené galaxie, s označením 'temná hmota' na neviditelných oblastech"
       },
       {
-        "text": "A co takhle nezaměnitelný tardigrad? Tvrdáči mezi mikroby, kteří přežijí i ve vesmírném vaku!",
-        "image_prompt": "Mikroskopický záběr na tardigrada na pozadí zvětšené struktury buněk, s živými barvami."
+        "text": "Jak víme, že existuje? Astronomové sledují, jak se galaxie pohybují a vytvářejí předpovědi.",
+        "image_prompt": "animace pohybu galaxií v prostoru, s grafem ukazujícím gravitační síly"
       },
       {
-        "text": "Zde máme také nelétajícího ptáka Kiwi! Jak se mu podařilo přežít bez křídel?",
-        "image_prompt": "Roztomilý kiwi na trávníku, s jemně stylizovaným a barevným pozadím a odrazem slunce."
+        "text": "Temná hmota neinteraguje se světlem, ale její gravitace formuje celý vesmír.",
+        "image_prompt": "vizualizace vesmíru, kde se temná hmota 'omlouvá' kolem viditelných hvězd a galaxií"
       },
       {
-        "text": "A nesmíme zapomenout na fascinující svět olomouckých syrových houby - jaké taje skrývají?",
-        "image_prompt": "Vysoce detailní záběr na různé druhy hub, s blížícím se záběrem na kapky rosy na kloboucích."
+        "text": "Vědci stále zkoumají, z čeho se temná hmota vlastně skládá.",
+        "image_prompt": "vědci v laboratoři zkoumání vzorků, s holografickým modelem temné hmoty v popředí"
       },
       {
-        "text": "Život na Zemi je plný překvapení! Jaké další zvláštnosti nás čekají?",
-        "image_prompt": "Montáž rychle se střídajících záběrů zvláštních stvoření a přírodní scenérie, s intenzivní hudbou v pozadí."
+        "text": "Možná nám jednoho dne odhalí tajemství našeho vesmíru a odpoví na naše největší otázky.",
+        "image_prompt": "záběr na noční oblohu plnou hvězd, s pocitem tajemství a naděje na budoucí objevy"
       }
     ]
   }
