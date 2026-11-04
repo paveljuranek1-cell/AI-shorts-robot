@@ -1,31 +1,31 @@
 [
   {
-    "title": "Tajemství vesmíru: Proč je temná hmota tak zvláštní?",
-    "hook": "Víte, že kolem nás existuje tajemná temná hmota, které je víc než vše, co vidíme?",
+    "title": "Neuvěřitelné tajemství vesmíru!",
+    "hook": "Co skrývá temná hmota? Odpověď vás šokuje!",
     "scenes": [
       {
-        "text": "Temná hmota tvoří 85% hmotnosti vesmíru, ale vůbec ji nevidíme!",
-        "image_prompt": "posvátný pohled na galaxii, s jasně zářícími hvězdami a temnými oblastmi, které naznačují přítomnost temné hmoty"
+        "text": "Víte, že 85% hmoty ve vesmíru je dosud neviditelné?",
+        "image_prompt": "záběr na noční oblohu plnou hvězd, se zvýrazněnými oblastmi temné hmoty"
       },
       {
-        "text": "Tato tajemná hmota nepůsobí jako klasická hmota, že by byla vidět ve světle.",
-        "image_prompt": "záběr z teleskopu, který zobrazuje vzdálené galaxie, s označením 'temná hmota' na neviditelných oblastech"
+        "text": "Představte si, že celé galaxie jsou tvořeny z něčeho, co ani nemůžeme spatřit!",
+        "image_prompt": "animace galaxie, která se rozšiřuje s výkladem temné hmoty ve formě různobarevných oblaků"
       },
       {
-        "text": "Jak víme, že existuje? Astronomové sledují, jak se galaxie pohybují a vytvářejí předpovědi.",
-        "image_prompt": "animace pohybu galaxií v prostoru, s grafem ukazujícím gravitační síly"
+        "text": "A to není vše! Temná hmota ovlivňuje pohyb hvězd a galaxií.",
+        "image_prompt": "vědecká ilustrace pohybu galaxií s grafickým znázorněním gravitačního vlivu temné hmoty"
       },
       {
-        "text": "Temná hmota neinteraguje se světlem, ale její gravitace formuje celý vesmír.",
-        "image_prompt": "vizualizace vesmíru, kde se temná hmota 'omlouvá' kolem viditelných hvězd a galaxií"
+        "text": "Ale co je temná hmota vlastně zač? Jsou to neznámé částice?",
+        "image_prompt": "detailní záběr na laboratoř s experimenty na částicích, v pozadí simulace částic temné hmoty"
       },
       {
-        "text": "Vědci stále zkoumají, z čeho se temná hmota vlastně skládá.",
-        "image_prompt": "vědci v laboratoři zkoumání vzorků, s holografickým modelem temné hmoty v popředí"
+        "text": "Nebo třeba pozůstatky vyspělé civilizace? To je otázka, na kterou stále hledáme odpověď.",
+        "image_prompt": "kreativní ztvárnění futuristické civilizace ve vesmíru s technologiemi a strukturami kolem planet"
       },
       {
-        "text": "Možná nám jednoho dne odhalí tajemství našeho vesmíru a odpoví na naše největší otázky.",
-        "image_prompt": "záběr na noční oblohu plnou hvězd, s pocitem tajemství a naděje na budoucí objevy"
+        "text": "Pokud jste zvědaví na další tajemství vesmíru, dejte odběr a sledujte nás!",
+        "image_prompt": "animovaný logo YouTube s efektem výbuchu hvězd a vesmírného pozadí"
       }
     ]
   }
