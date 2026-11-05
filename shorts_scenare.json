@@ -1,31 +1,31 @@
 [
   {
-    "title": "Neuvěřitelné tajemství vesmíru!",
-    "hook": "Co skrývá temná hmota? Odpověď vás šokuje!",
+    "title": "Nejpodivnější zvířata světa",
+    "hook": "Věděli jste, že na Zemi žijí zvířata, o kterých jste nikdy neslyšeli?",
     "scenes": [
       {
-        "text": "Víte, že 85% hmoty ve vesmíru je dosud neviditelné?",
-        "image_prompt": "záběr na noční oblohu plnou hvězd, se zvýrazněnými oblastmi temné hmoty"
+        "text": "Toto je axolotl, zázrak přírody, který nikdy dospěje!",
+        "image_prompt": "barevný detailním záběr na axolotla plavajícího ve vodě, jehož žábry jsou výrazně růžové a krásné, pozadí s vodními rostlinami."
       },
       {
-        "text": "Představte si, že celé galaxie jsou tvořeny z něčeho, co ani nemůžeme spatřit!",
-        "image_prompt": "animace galaxie, která se rozšiřuje s výkladem temné hmoty ve formě různobarevných oblaků"
+        "text": "A co takový tardigrad? Může přežít ve vesmíru!",
+        "image_prompt": "mikroskopický pohled na tardigrada na pozadí vesmíru, s vyobrazením jeho robustního těla a čtyřma páry nohou."
       },
       {
-        "text": "A to není vše! Temná hmota ovlivňuje pohyb hvězd a galaxií.",
-        "image_prompt": "vědecká ilustrace pohybu galaxií s grafickým znázorněním gravitačního vlivu temné hmoty"
+        "text": "Tady je blobfish! Je považován za nejškaredější rybu na světě!",
+        "image_prompt": "smooth a podivný vzhled blobfish plovoucí v hlubokém oceánu, jehož výraz je komický a nelichotivý."
       },
       {
-        "text": "Ale co je temná hmota vlastně zač? Jsou to neznámé částice?",
-        "image_prompt": "detailní záběr na laboratoř s experimenty na částicích, v pozadí simulace částic temné hmoty"
+        "text": "Kdo by to řekl? Ropucha punčochářská nosí svá mláďata v kapsách!",
+        "image_prompt": "roztomilá ropucha s mláďaty označená ve dvou malých kapsách na bocích, sedící v bujné přírodě."
       },
       {
-        "text": "Nebo třeba pozůstatky vyspělé civilizace? To je otázka, na kterou stále hledáme odpověď.",
-        "image_prompt": "kreativní ztvárnění futuristické civilizace ve vesmíru s technologiemi a strukturami kolem planet"
+        "text": "Víte, že jsou krabi, kteří dokážou chodit zpět? To je přesně to, co dělají!",
+        "image_prompt": "záběr na kraba kráčejícího stranou na pláži, s modrým mořem a palmami v pozadí."
       },
       {
-        "text": "Pokud jste zvědaví na další tajemství vesmíru, dejte odběr a sledujte nás!",
-        "image_prompt": "animovaný logo YouTube s efektem výbuchu hvězd a vesmírného pozadí"
+        "text": "A nakonec: ptakopysk! Měsíční váha a snáší vejce jako pták!",
+        "image_prompt": "detailní záběr na ptakopyska plavajícího v klidném jezeře, s majestátním pozadím hor a lesních stromů."
       }
     ]
   }
