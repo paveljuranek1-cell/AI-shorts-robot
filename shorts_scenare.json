@@ -1,31 +1,31 @@
 [
   {
-    "title": "Nejpodivnější zvířata světa",
-    "hook": "Věděli jste, že na Zemi žijí zvířata, o kterých jste nikdy neslyšeli?",
+    "title": "Šokující fakta o vesmíru!",
+    "hook": "Věděli jste, že ve vesmíru je více hvězd než všechny zrníčka písku na Zemi?",
     "scenes": [
       {
-        "text": "Toto je axolotl, zázrak přírody, který nikdy dospěje!",
-        "image_prompt": "barevný detailním záběr na axolotla plavajícího ve vodě, jehož žábry jsou výrazně růžové a krásné, pozadí s vodními rostlinami."
+        "text": "Vesmír je obrovský a plný tajemství.",
+        "image_prompt": "Vysoký záběr na hvězdnou noční oblohu, s jasně viditelnými galaxiemi a souhvězdími."
       },
       {
-        "text": "A co takový tardigrad? Může přežít ve vesmíru!",
-        "image_prompt": "mikroskopický pohled na tardigrada na pozadí vesmíru, s vyobrazením jeho robustního těla a čtyřma páry nohou."
+        "text": "Existuje více než 100 miliard galaxií v našem vesmíru.",
+        "image_prompt": "Barevná ilustrace různých galaxií, jak se vznáší v prostoru, se zaměřením na spirální a eliptické tvary."
       },
       {
-        "text": "Tady je blobfish! Je považován za nejškaredější rybu na světě!",
-        "image_prompt": "smooth a podivný vzhled blobfish plovoucí v hlubokém oceánu, jehož výraz je komický a nelichotivý."
+        "text": "Některé hvězdy jsou tak velké, že by se do nich vešla celá naše sluneční soustava.",
+        "image_prompt": "Pohled na gigantickou hvězdu s porovnáním sluneční soustavy, včetně obrazců planet."
       },
       {
-        "text": "Kdo by to řekl? Ropucha punčochářská nosí svá mláďata v kapsách!",
-        "image_prompt": "roztomilá ropucha s mláďaty označená ve dvou malých kapsách na bocích, sedící v bujné přírodě."
+        "text": "Vesmír je tak starý, že nám často poskytuje pohled do minulosti.",
+        "image_prompt": "Animace času, kde se zobrazuje, jak světlo zdaleka putuje k nám přes různé galaktické útvary."
       },
       {
-        "text": "Víte, že jsou krabi, kteří dokážou chodit zpět? To je přesně to, co dělají!",
-        "image_prompt": "záběr na kraba kráčejícího stranou na pláži, s modrým mořem a palmami v pozadí."
+        "text": "A teď si představte, kolik tajemství ještě čeká na objevení!",
+        "image_prompt": "Záběr na astronauta, který se dívá na Zemi ze spacera, s úžasným pohledem na modrou planetu."
       },
       {
-        "text": "A nakonec: ptakopysk! Měsíční váha a snáší vejce jako pták!",
-        "image_prompt": "detailní záběr na ptakopyska plavajícího v klidném jezeře, s majestátním pozadím hor a lesních stromů."
+        "text": "Co dalšího nám vesmír skrývá? To se teprve uvidí!",
+        "image_prompt": "Kreativní záběr s otázníky a záhadnými symboly na pozadí hvězdné oblohy."
       }
     ]
   }
