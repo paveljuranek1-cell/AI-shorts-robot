@@ -1,31 +1,31 @@
 [
   {
-    "title": "Šokující fakta o vesmíru!",
-    "hook": "Věděli jste, že ve vesmíru je více hvězd než všechny zrníčka písku na Zemi?",
+    "title": "Neuvěřitelné tajemství mořských hlubin!",
+    "hook": "Věděl jsi, že většina oceánů zůstává neprozkoumaná?",
     "scenes": [
       {
-        "text": "Vesmír je obrovský a plný tajemství.",
-        "image_prompt": "Vysoký záběr na hvězdnou noční oblohu, s jasně viditelnými galaxiemi a souhvězdími."
+        "text": "Oceány pokrývají přes 70% naší planety, ale co se skrývá na jejich dně?",
+        "image_prompt": "široký záběr na nekonečné modré oceány s bublinkami vzduchu vycházejícími z hlubin"
       },
       {
-        "text": "Existuje více než 100 miliard galaxií v našem vesmíru.",
-        "image_prompt": "Barevná ilustrace různých galaxií, jak se vznáší v prostoru, se zaměřením na spirální a eliptické tvary."
+        "text": "Vědci odhadují, že až 95% mořského dna zůstává neprozkoumána.",
+        "image_prompt": "detailní pohled na temné mořské dno s tajemnými tvary a stíny"
       },
       {
-        "text": "Některé hvězdy jsou tak velké, že by se do nich vešla celá naše sluneční soustava.",
-        "image_prompt": "Pohled na gigantickou hvězdu s porovnáním sluneční soustavy, včetně obrazců planet."
+        "text": "Na dně oceanů můžeme najít podivné tvory, které nikdy nevidíme na pevnině.",
+        "image_prompt": "vizuálně fascinující ryba s průsvitným tělem a podivnými výrůstky"
       },
       {
-        "text": "Vesmír je tak starý, že nám často poskytuje pohled do minulosti.",
-        "image_prompt": "Animace času, kde se zobrazuje, jak světlo zdaleka putuje k nám přes různé galaktické útvary."
+        "text": "Některé z těchto živočichů existují už stovky milionů let a jsou jako z jiné planety.",
+        "image_prompt": "podmořská krajina s prehistorickými tvory plavajícími mezi korály"
       },
       {
-        "text": "A teď si představte, kolik tajemství ještě čeká na objevení!",
-        "image_prompt": "Záběr na astronauta, který se dívá na Zemi ze spacera, s úžasným pohledem na modrou planetu."
+        "text": "Dokonce i technologicky vyspělé podvodní drony mají potíže s přístupem k těmto místům.",
+        "image_prompt": "moderní podvodní dron prozkoumávající temné kouty oceánu"
       },
       {
-        "text": "Co dalšího nám vesmír skrývá? To se teprve uvidí!",
-        "image_prompt": "Kreativní záběr s otázníky a záhadnými symboly na pozadí hvězdné oblohy."
+        "text": "Co dalšího skrývá náš oceán? Možná nás čekají ještě větší překvapení!",
+        "image_prompt": "dramatic shot of a deep-sea trench glowing with bioluminescent creatures"
       }
     ]
   }
