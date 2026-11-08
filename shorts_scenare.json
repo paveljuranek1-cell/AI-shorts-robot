@@ -1,31 +1,31 @@
 [
   {
-    "title": "Neuvěřitelné tajemství mořských hlubin!",
-    "hook": "Věděl jsi, že většina oceánů zůstává neprozkoumaná?",
+    "title": "Neuvěřitelná tajemství vesmíru!",
+    "hook": "Věděli jste, že ve vesmíru existují věci, které si nedokážete představit?",
     "scenes": [
       {
-        "text": "Oceány pokrývají přes 70% naší planety, ale co se skrývá na jejich dně?",
-        "image_prompt": "široký záběr na nekonečné modré oceány s bublinkami vzduchu vycházejícími z hlubin"
+        "text": "Znáte černé díry? Jsou to místa s tak silnou gravitací, že ani světlo nemůže uniknout.",
+        "image_prompt": "dynamický pohled na černou díru, obklopenou hvězdami, s vizuálními efekty, které znázorňují její gravitační pole"
       },
       {
-        "text": "Vědci odhadují, že až 95% mořského dna zůstává neprozkoumána.",
-        "image_prompt": "detailní pohled na temné mořské dno s tajemnými tvary a stíny"
+        "text": "Na Marsu byste mohli najít led, který obsahuje více vody než všechny říční vody na Zemi!",
+        "image_prompt": "záběr na červenou planetu Mars s detailním záznamem zamrzlých oblastí a modrou barvou vody pod ledem"
       },
       {
-        "text": "Na dně oceanů můžeme najít podivné tvory, které nikdy nevidíme na pevnině.",
-        "image_prompt": "vizuálně fascinující ryba s průsvitným tělem a podivnými výrůstky"
+        "text": "Veselé pláně na Saturnových prstencích jsou tvořeny malými částicemi ledu a kamene.",
+        "image_prompt": "kreativní záběr Saturnu s jeho nádhernými prstenci, zblízka ukazující jejich složení a texturu"
       },
       {
-        "text": "Některé z těchto živočichů existují už stovky milionů let a jsou jako z jiné planety.",
-        "image_prompt": "podmořská krajina s prehistorickými tvory plavajícími mezi korály"
+        "text": "Mysleli jste si někdy, že už něco takového viděli? Co takhle kruhy v obilí na Měsíci?",
+        "image_prompt": "fantaskní záběr Měsíce s podivnými vzory na jeho povrchu, obklopenými hvězdami a planetami"
       },
       {
-        "text": "Dokonce i technologicky vyspělé podvodní drony mají potíže s přístupem k těmto místům.",
-        "image_prompt": "moderní podvodní dron prozkoumávající temné kouty oceánu"
+        "text": "A nakonec, v roce 2020 jsme odhalili tajemnou strukturu ve vzdálenosti 13 miliard světelných let, která změní naše chápání vesmíru.",
+        "image_prompt": "záběr na vzdálený vesmír, s barevnými galaxií, a mystickou strukturou v popředí, s animací rozsahu vzdálenosti"
       },
       {
-        "text": "Co dalšího skrývá náš oceán? Možná nás čekají ještě větší překvapení!",
-        "image_prompt": "dramatic shot of a deep-sea trench glowing with bioluminescent creatures"
+        "text": "Vesmír je plný tajemství, která čekají na odhalení. Co nás teď čeká?",
+        "image_prompt": "silný pohled do hlubokého vesmíru, s pointou a nádechem tajemství, s animovanými prvky jako jsou hvězdy a planety"
       }
     ]
   }
