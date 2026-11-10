@@ -1,31 +1,31 @@
 [
   {
-    "title": "Šokující fakta o vesmíru!",
-    "hook": "Věděli jste, že ve vesmíru je více hvězd než všech zrn písku na Zemi?",
+    "title": "Záhadné zvířecí schopnosti, které vás ohromí!",
+    "hook": "Věděli jste, že existují zvířata, která dovedou překvapit i ty největší vědce?",
     "scenes": [
       {
-        "text": "Vesmír je ohromující a plný tajemství. Představte si, že obsahuje více než 100 miliard galaxií.",
-        "image_prompt": "Detailní záběr na noční oblohu plnou hvězd, s galaxií ve tvaru spirály v popředí."
+        "text": "Znáte chameleona? Tito tvorové dokážou měnit barvy během vteřiny!",
+        "image_prompt": "Chameleon na větvi, jak mění barvu z zelené na modrou, v pozadí živý tropický les."
       },
       {
-        "text": "Každá galaxie má miliardy hvězd. Například naše Mléčná dráha má přes 200 miliard hvězd!",
-        "image_prompt": "Animovaný pohled na Mléčnou dráhu, s pulzujícími hvězdami a spirálními rameny."
+        "text": "Jak byste se cítili, kdyby vás na ulici překvapil slon s dovednostmi jako člověk?",
+        "image_prompt": "Slon, který maluje na plátno s radostí, obklopený dětmi, které se smějí."
       },
       {
-        "text": "A teď pozor: Vědci odhadují, že ve vesmíru je až 1 septilion hvězd! To znamená jedna a 24 nul za ní.",
-        "image_prompt": "Grafické zobrazení čísla 1 septilion, s hvězdami a plánety kolem."
+        "text": "A co takhle ptáci? Někteří z nich umí napodobit lidskou řeč až po několik desítek slov!",
+        "image_prompt": "Papoušek mluví na lidmi, sedící na rameni muže v parku, spokojené atmosféra."
       },
       {
-        "text": "To je mnohem víc, než všechny zrnka písku na všech plážích na Zemi dohromady.",
-        "image_prompt": "Detailní záběr na pláž s miliardami zrn písku, kontrastující s vesmírem pozadí."
+        "text": "A teď něco pro milovníky moře: Delfíni používají echolokaci na lovení ryb.",
+        "image_prompt": "Skupina delfínů, která skáče nad hladinou oceánu, zatímco pod vodou plavou ryby."
       },
       {
-        "text": "A co víc, vesmír se neustále rozšiřuje. Jak tohle vlastně funguje?",
-        "image_prompt": "Animace ukazující, jak se vesmír rozšiřuje, s galaxií jako centrem."
+        "text": "Zajímavé je i to, že některé kočky dokážou slyšet zvuky až dvakrát lépe než lidé.",
+        "image_prompt": "Kočka, jak poslušně sedí, její uši jsou vztyčené směrem k neznámému zvuku v pozadí."
       },
       {
-        "text": "Podívejme se na vesmír společně a objevme jeho tajemství! Nenechte si ujít další videa!",
-        "image_prompt": "Záběr vesmíru s různými galaxiemi a planetami, zobrazující fascinující krásy vesmíru."
+        "text": "Toto jsou jen některé z fascinujících schopností zvířat. Jaké překvapení nás čeká příště?",
+        "image_prompt": "Koláž různých zvířat s fascinačními schopnostmi, na pozadí se stahují oblačné mraky."
       }
     ]
   }
