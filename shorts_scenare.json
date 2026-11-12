@@ -1,31 +1,31 @@
 [
   {
-    "title": "Záhadné zvířecí schopnosti, které vás ohromí!",
-    "hook": "Věděli jste, že existují zvířata, která dovedou překvapit i ty největší vědce?",
+    "title": "5 šokujících faktů o vesmíru, které vás dostanou!",
+    "hook": "Věděli jste, že ve vesmíru existuje více hvězd než zrn písku na všech plážích Země?",
     "scenes": [
       {
-        "text": "Znáte chameleona? Tito tvorové dokážou měnit barvy během vteřiny!",
-        "image_prompt": "Chameleon na větvi, jak mění barvu z zelené na modrou, v pozadí živý tropický les."
+        "text": "Naše Galaxie, Mléčná dráha, obsahuje přes 100 miliard hvězd! A to je jen jedna z miliard galaxií!",
+        "image_prompt": "detailní záběr Mléčné dráhy na noční obloze, s viditelnými hvězdami a jasnými mlhovinami"
       },
       {
-        "text": "Jak byste se cítili, kdyby vás na ulici překvapil slon s dovednostmi jako člověk?",
-        "image_prompt": "Slon, který maluje na plátno s radostí, obklopený dětmi, které se smějí."
+        "text": "Ve vesmíru se nachází obrovské černé díry, jejichž gravitace je tak silná, že ani světlo jim neunikne.",
+        "image_prompt": "vizuálně impozantní grafika černé díry v prostoru, včetně víru a barevného pozadí"
       },
       {
-        "text": "A co takhle ptáci? Někteří z nich umí napodobit lidskou řeč až po několik desítek slov!",
-        "image_prompt": "Papoušek mluví na lidmi, sedící na rameni muže v parku, spokojené atmosféra."
+        "text": "Na Marsu jste mohli najít zasněžené vrcholky hor – a jsou to skutečně ledové čepy!",
+        "image_prompt": "detailní záběr marťanských hor pokrytých bílým sněhem, s červenou planetou na pozadí"
       },
       {
-        "text": "A teď něco pro milovníky moře: Delfíni používají echolokaci na lovení ryb.",
-        "image_prompt": "Skupina delfínů, která skáče nad hladinou oceánu, zatímco pod vodou plavou ryby."
+        "text": "Ve vesmíru je také 'zvuková tma' – čím víc se vzdálíte, tím více se zvuky slábnou a nakonec zmizí.",
+        "image_prompt": "abstraktní umělecké zobrazení vesmíru s tichými, ztemnělými barvami symbolizujícími tmu"
       },
       {
-        "text": "Zajímavé je i to, že některé kočky dokážou slyšet zvuky až dvakrát lépe než lidé.",
-        "image_prompt": "Kočka, jak poslušně sedí, její uši jsou vztyčené směrem k neznámému zvuku v pozadí."
+        "text": "A nakonec: co je s temnou hmotou? Ta tvoří 27% celého vesmíru, ale nikdo ji zatím nedokáže vidět.",
+        "image_prompt": "mystický pohled na temné vesmírné pozadí s náznaky temné hmoty a hvězdami"
       },
       {
-        "text": "Toto jsou jen některé z fascinujících schopností zvířat. Jaké překvapení nás čeká příště?",
-        "image_prompt": "Koláž různých zvířat s fascinačními schopnostmi, na pozadí se stahují oblačné mraky."
+        "text": "Přeci jen, vesmír ukrývá ještě mnohem víc – jste připraveni na další objevování?",
+        "image_prompt": "dramatický záběr astronoma s teleskopem, pozorující noční oblohu plnou hvězd"
       }
     ]
   }
