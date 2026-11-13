@@ -1,31 +1,31 @@
 [
   {
-    "title": "5 šokujících faktů o vesmíru, které vás dostanou!",
-    "hook": "Věděli jste, že ve vesmíru existuje více hvězd než zrn písku na všech plážích Země?",
+    "title": "Šokující fakta o vesmíru, která vás ohromí!",
+    "hook": "Věděli jste, že ve vesmíru je více hvězd než zrnek písku na všech plážích Země?",
     "scenes": [
       {
-        "text": "Naše Galaxie, Mléčná dráha, obsahuje přes 100 miliard hvězd! A to je jen jedna z miliard galaxií!",
-        "image_prompt": "detailní záběr Mléčné dráhy na noční obloze, s viditelnými hvězdami a jasnými mlhovinami"
+        "text": "Vědci odhadují, že ve vesmíru je 100 až 200 miliard galaxií!",
+        "image_prompt": "ohromující videokoláž galaxií a jejich hvězd, s jasným kontrastem mezi tmavým prostorem a svítícími hvězdami"
       },
       {
-        "text": "Ve vesmíru se nachází obrovské černé díry, jejichž gravitace je tak silná, že ani světlo jim neunikne.",
-        "image_prompt": "vizuálně impozantní grafika černé díry v prostoru, včetně víru a barevného pozadí"
+        "text": "Každá galaxie má také černou díru, obvykle uprostřed, která je obrovská.",
+        "image_prompt": "animace znázorňující černou díru nasávající okolní hvězdy a materiál, s dramatickými efekty"
       },
       {
-        "text": "Na Marsu jste mohli najít zasněžené vrcholky hor – a jsou to skutečně ledové čepy!",
-        "image_prompt": "detailní záběr marťanských hor pokrytých bílým sněhem, s červenou planetou na pozadí"
+        "text": "A co teprve, že jedno z největších tajemství vesmíru, hmota a temná energie, tvoří 95% jeho obsahu?",
+        "image_prompt": "grafika znázorňující poměr mezi viditelnou a temnou hmotou v universu, obklopená záhadnými symboly"
       },
       {
-        "text": "Ve vesmíru je také 'zvuková tma' – čím víc se vzdálíte, tím více se zvuky slábnou a nakonec zmizí.",
-        "image_prompt": "abstraktní umělecké zobrazení vesmíru s tichými, ztemnělými barvami symbolizujícími tmu"
+        "text": "Jen v naší Mléčné dráze existuje přes 100 miliard planet!",
+        "image_prompt": "zoom efekt na Mléčnou dráhu s rostoucím počtem planet zjevených v popředí, v prostředí noci"
       },
       {
-        "text": "A nakonec: co je s temnou hmotou? Ta tvoří 27% celého vesmíru, ale nikdo ji zatím nedokáže vidět.",
-        "image_prompt": "mystický pohled na temné vesmírné pozadí s náznaky temné hmoty a hvězdami"
+        "text": "Vědci hledají mimozemský život v těchto planetárních systémech a myslí si, že by mohl existovat!",
+        "image_prompt": "ilustrace vědecké expedice na exoplanetu, s astronauty prozkoumávajícími podmínky, a futuristickými technologiemi"
       },
       {
-        "text": "Přeci jen, vesmír ukrývá ještě mnohem víc – jste připraveni na další objevování?",
-        "image_prompt": "dramatický záběr astronoma s teleskopem, pozorující noční oblohu plnou hvězd"
+        "text": "Tak co si myslíte, jsme sami ve vesmíru, nebo je tam něco víc?",
+        "image_prompt": "nervózní pohled na hvězdnou oblohu, s otázkami vznášejícími se nad hlavou a blikajícími hvězdami v pozadí"
       }
     ]
   }
