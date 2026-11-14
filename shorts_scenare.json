@@ -1,31 +1,31 @@
 [
   {
-    "title": "Šokující fakta o vesmíru, která vás ohromí!",
-    "hook": "Věděli jste, že ve vesmíru je více hvězd než zrnek písku na všech plážích Země?",
+    "title": "Šokující fakta o vesmíru!",
+    "hook": "Věděli jste, že vesmír má svou vlastní temnou stranu?",
     "scenes": [
       {
-        "text": "Vědci odhadují, že ve vesmíru je 100 až 200 miliard galaxií!",
-        "image_prompt": "ohromující videokoláž galaxií a jejich hvězd, s jasným kontrastem mezi tmavým prostorem a svítícími hvězdami"
+        "text": "Náš vesmír je plný záhad, které dodnes nikdo nevysvětlil.",
+        "image_prompt": "ohromující záběr na temný vesmír, hvězdy blikající na pozadí, tajemné barevné mlhoviny"
       },
       {
-        "text": "Každá galaxie má také černou díru, obvykle uprostřed, která je obrovská.",
-        "image_prompt": "animace znázorňující černou díru nasávající okolní hvězdy a materiál, s dramatickými efekty"
+        "text": "Vědci odhadují, že až 85% hmoty ve vesmíru je tvořeno dark matter, kterou nemůžeme vidět.",
+        "image_prompt": "infografika zobrazující strukturu vesmíru, s rozdělením mezi normální hmotou a temnou hmotou"
       },
       {
-        "text": "A co teprve, že jedno z největších tajemství vesmíru, hmota a temná energie, tvoří 95% jeho obsahu?",
-        "image_prompt": "grafika znázorňující poměr mezi viditelnou a temnou hmotou v universu, obklopená záhadnými symboly"
+        "text": "Existují galaxie, které se navzájem srážejí, vytvářejíce víc než jen nádherné výbuchy.",
+        "image_prompt": "dvě galaxie srážející se a vytvářející barevné výbuchy a spirály světla"
       },
       {
-        "text": "Jen v naší Mléčné dráze existuje přes 100 miliard planet!",
-        "image_prompt": "zoom efekt na Mléčnou dráhu s rostoucím počtem planet zjevených v popředí, v prostředí noci"
+        "text": "Každou sekundu se narodí více než 100 nových hvězd, ale některé z nich nikdy nepřežijí.",
+        "image_prompt": "záběr na rození hvězd ve hvězdotvorné oblasti s jasně barevnými plynnými obláčky"
       },
       {
-        "text": "Vědci hledají mimozemský život v těchto planetárních systémech a myslí si, že by mohl existovat!",
-        "image_prompt": "ilustrace vědecké expedice na exoplanetu, s astronauty prozkoumávajícími podmínky, a futuristickými technologiemi"
+        "text": "A víte, že existují planety, které prší skla nebo železo? Ano, to není sci-fi!",
+        "image_prompt": "ilustrace planetární krajiny, kde z nebe padají skleněné a železné deště, zvláštní barevné pozadí"
       },
       {
-        "text": "Tak co si myslíte, jsme sami ve vesmíru, nebo je tam něco víc?",
-        "image_prompt": "nervózní pohled na hvězdnou oblohu, s otázkami vznášejícími se nad hlavou a blikajícími hvězdami v pozadí"
+        "text": "Vesmír je nekonečný a plný tajemství, která teprve čekají, až budou odhalena.",
+        "image_prompt": "záběr na nekonečný vesmír, hvězdné nebe s nádechem tajemnosti a otázkovými znaky v popředí"
       }
     ]
   }
