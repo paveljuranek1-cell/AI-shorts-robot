@@ -1,31 +1,31 @@
 [
   {
-    "title": "Šokující fakta o vesmíru!",
-    "hook": "Věděli jste, že vesmír má svou vlastní temnou stranu?",
+    "title": "10 šokujících faktů o zvířatech, které vás překvapí!",
+    "hook": "Čím víc se dozvídáte, tím víc vás to šokuje!",
     "scenes": [
       {
-        "text": "Náš vesmír je plný záhad, které dodnes nikdo nevysvětlil.",
-        "image_prompt": "ohromující záběr na temný vesmír, hvězdy blikající na pozadí, tajemné barevné mlhoviny"
+        "text": "Věděli jste, že sloni dokážou cítit emoce svých přátel na vzdálenost až několika kilometrů?",
+        "image_prompt": "Slon stojící v krásném africkém savaně, s jemným výrazem, zatímco v pozadí vidíme ostatní slony, kteří se spolu socializují."
       },
       {
-        "text": "Vědci odhadují, že až 85% hmoty ve vesmíru je tvořeno dark matter, kterou nemůžeme vidět.",
-        "image_prompt": "infografika zobrazující strukturu vesmíru, s rozdělením mezi normální hmotou a temnou hmotou"
+        "text": "A co teprve octomilky? Ty dokážou rozlišovat různé vůně a dokonce si pamatují, co jedly před týdnem!",
+        "image_prompt": "Zoom na octomilku sedící na květině, s detaily jejího barevného těla a rozmazaným pozadím plným květin."
       },
       {
-        "text": "Existují galaxie, které se navzájem srážejí, vytvářejíce víc než jen nádherné výbuchy.",
-        "image_prompt": "dvě galaxie srážející se a vytvářející barevné výbuchy a spirály světla"
+        "text": "Kočky mají více než 20 různých zvuků, které používají k dorozumění se svými majiteli!",
+        "image_prompt": "Roztomilá domácí kočka pohybující se v obývacím pokoji, s výrazem plným zvědavosti, zatímco zvedá tlapku k člověku."
       },
       {
-        "text": "Každou sekundu se narodí více než 100 nových hvězd, ale některé z nich nikdy nepřežijí.",
-        "image_prompt": "záběr na rození hvězd ve hvězdotvorné oblasti s jasně barevnými plynnými obláčky"
+        "text": "Píďalky mohou měnit barvu svého těla, aby se lépe skryly před predátory. Dokážou se proměnit v minutě!",
+        "image_prompt": "Píďalka na větvi, graduje barvy – od jasně zelené po hnědou – s pozadím rozostřené přírody."
       },
       {
-        "text": "A víte, že existují planety, které prší skla nebo železo? Ano, to není sci-fi!",
-        "image_prompt": "ilustrace planetární krajiny, kde z nebe padají skleněné a železné deště, zvláštní barevné pozadí"
+        "text": "A víte, že chobotnice mají tři srdce, která pumpují krev do různých částí těla?",
+        "image_prompt": "Barevná chobotnice plavoucí v mořských hlubinách, s lehkým zábleskem světla, odhalující část jejího těla."
       },
       {
-        "text": "Vesmír je nekonečný a plný tajemství, která teprve čekají, až budou odhalena.",
-        "image_prompt": "záběr na nekonečný vesmír, hvězdné nebe s nádechem tajemnosti a otázkovými znaky v popředí"
+        "text": "Tento fakt vás zaručeně překvapí: Tereje mající tvar vlajíčku dokáže přežít v rozpáleném písku až 5 dní bez vody!",
+        "image_prompt": "Záběr na tereji putující po rozpáleném písku s pozadím plným slunečním světlem, zdůrazňující horko a suchost prostředí."
       }
     ]
   }
