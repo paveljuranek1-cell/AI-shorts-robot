@@ -1,31 +1,31 @@
 [
   {
-    "title": "10 šokujících faktů o zvířatech, které vás překvapí!",
-    "hook": "Čím víc se dozvídáte, tím víc vás to šokuje!",
+    "title": "Šokující fakta o vesmíru, která vás ohromí!",
+    "hook": "Věděli jste, že ve vesmíru je více hvězd než zrn písku na Zemi?",
     "scenes": [
       {
-        "text": "Věděli jste, že sloni dokážou cítit emoce svých přátel na vzdálenost až několika kilometrů?",
-        "image_prompt": "Slon stojící v krásném africkém savaně, s jemným výrazem, zatímco v pozadí vidíme ostatní slony, kteří se spolu socializují."
+        "text": "Astronomové odhadují, že ve vesmíru existuje přes 200 miliard galaxií!",
+        "image_prompt": "Krásná animace galaxií s jasnými hvězdami v pozadí, barevné spirály galaxie se točí a třpytí."
       },
       {
-        "text": "A co teprve octomilky? Ty dokážou rozlišovat různé vůně a dokonce si pamatují, co jedly před týdnem!",
-        "image_prompt": "Zoom na octomilku sedící na květině, s detaily jejího barevného těla a rozmazaným pozadím plným květin."
+        "text": "Každá galaxie má miliony až několik bilionů hvězd.",
+        "image_prompt": "Detailní záběr na obrovské shluky hvězd, podtržené temným vesmírem kolem, osvětlené různými barvami."
       },
       {
-        "text": "Kočky mají více než 20 různých zvuků, které používají k dorozumění se svými majiteli!",
-        "image_prompt": "Roztomilá domácí kočka pohybující se v obývacím pokoji, s výrazem plným zvědavosti, zatímco zvedá tlapku k člověku."
+        "text": "Vědci říkají, že hvězdy se rodí a umírají v galaktických cyklech.",
+        "image_prompt": "Vizualizace hvězdného zhroutění a porod hvězdy v jasných barvách, s efektem výbuchu v pozadí."
       },
       {
-        "text": "Píďalky mohou měnit barvu svého těla, aby se lépe skryly před predátory. Dokážou se proměnit v minutě!",
-        "image_prompt": "Píďalka na větvi, graduje barvy – od jasně zelené po hnědou – s pozadím rozostřené přírody."
+        "text": "A co naše Slunce? To je jen průměrná hvězda v naší galaxii.",
+        "image_prompt": "Slunce vycházející nad horizontem, se zvýrazněnými slunečními paprsky a okolními planetami."
       },
       {
-        "text": "A víte, že chobotnice mají tři srdce, která pumpují krev do různých částí těla?",
-        "image_prompt": "Barevná chobotnice plavoucí v mořských hlubinách, s lehkým zábleskem světla, odhalující část jejího těla."
+        "text": "Ve vesmíru není vzduch, takže nelze slyšet žádný zvuk.",
+        "image_prompt": "Animace klidného vesmíru, planet a hvězd, všechny v tichu, s efektem rozmazání."
       },
       {
-        "text": "Tento fakt vás zaručeně překvapí: Tereje mající tvar vlajíčku dokáže přežít v rozpáleném písku až 5 dní bez vody!",
-        "image_prompt": "Záběr na tereji putující po rozpáleném písku s pozadím plným slunečním světlem, zdůrazňující horko a suchost prostředí."
+        "text": "A nakonec - vesmír se neustále rozšiřuje. Kam až to povede?",
+        "image_prompt": "Obraz vesmíru s efektem rozšiřující se prostoru, záběr na vzdálené galaxie a jejich pohyb od nás."
       }
     ]
   }
