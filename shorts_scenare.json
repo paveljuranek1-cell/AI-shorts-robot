@@ -1,31 +1,31 @@
 [
   {
-    "title": "Šokující fakta o vesmíru, která vás ohromí!",
-    "hook": "Věděli jste, že ve vesmíru je více hvězd než zrn písku na Zemi?",
+    "title": "Neuvěřitelné tajemství naší planety!",
+    "hook": "Věděli jste, že pod našimi nohama se skrývá pravěký svět?",
     "scenes": [
       {
-        "text": "Astronomové odhadují, že ve vesmíru existuje přes 200 miliard galaxií!",
-        "image_prompt": "Krásná animace galaxií s jasnými hvězdami v pozadí, barevné spirály galaxie se točí a třpytí."
+        "text": "Pod povrchem Země se nachází obrovský systém jeskyní a tunelů.",
+        "image_prompt": "Fascinující pohled na vchod do jeskyně, ve které září modré krystaly, obklopené temnou skalní strukturou."
       },
       {
-        "text": "Každá galaxie má miliony až několik bilionů hvězd.",
-        "image_prompt": "Detailní záběr na obrovské shluky hvězd, podtržené temným vesmírem kolem, osvětlené různými barvami."
+        "text": "Některé z těchto jeskyní jsou staré přes miliony let!",
+        "image_prompt": "Záběr na archeology, kteří vykopávají kosterní pozůstatky v prastaré jeskyni, s fosíliemi všude kolem."
       },
       {
-        "text": "Vědci říkají, že hvězdy se rodí a umírají v galaktických cyklech.",
-        "image_prompt": "Vizualizace hvězdného zhroutění a porod hvězdy v jasných barvách, s efektem výbuchu v pozadí."
+        "text": "Pod zemí se nacházejí i tajné řeky a jezera!",
+        "image_prompt": "Snímek podvodní krajiny v tmavé jeskyni, s modrou vodou a tajemnými stíny."
       },
       {
-        "text": "A co naše Slunce? To je jen průměrná hvězda v naší galaxii.",
-        "image_prompt": "Slunce vycházející nad horizontem, se zvýrazněnými slunečními paprsky a okolními planetami."
+        "text": "Vědci objevili mikroorganismy, které přežívají milióny let bez světla.",
+        "image_prompt": "Zvětšený obraz mikroskopických organismů, které mají podivné tvary a živé barvy."
       },
       {
-        "text": "Ve vesmíru není vzduch, takže nelze slyšet žádný zvuk.",
-        "image_prompt": "Animace klidného vesmíru, planet a hvězd, všechny v tichu, s efektem rozmazání."
+        "text": "Každá jeskyně má svůj vlastní ekosystém a unikátní život!",
+        "image_prompt": "Záběr na podzemní ekosystém s různými tvory, jako jsou netopýři, krabi a tajemní hmyz."
       },
       {
-        "text": "A nakonec - vesmír se neustále rozšiřuje. Kam až to povede?",
-        "image_prompt": "Obraz vesmíru s efektem rozšiřující se prostoru, záběr na vzdálené galaxie a jejich pohyb od nás."
+        "text": "Jsou to okna do minulosti, která nám pomáhají porozumět historii Země.",
+        "image_prompt": "Vizuální koláž, která spojuje obrazy jeskyní, dinosaurů a prehistorického života."
       }
     ]
   }
