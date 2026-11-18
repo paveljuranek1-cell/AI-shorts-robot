@@ -1,31 +1,31 @@
 [
   {
-    "title": "Neuvěřitelné tajemství naší planety!",
-    "hook": "Věděli jste, že pod našimi nohama se skrývá pravěký svět?",
+    "title": "5 šokujících faktů o zvířatech, které nevíte!",
+    "hook": "Věděli jste, že medúza je v podstatě nesmrtelná?",
     "scenes": [
       {
-        "text": "Pod povrchem Země se nachází obrovský systém jeskyní a tunelů.",
-        "image_prompt": "Fascinující pohled na vchod do jeskyně, ve které září modré krystaly, obklopené temnou skalní strukturou."
+        "text": "Medúza Turritopsis dohrnii může žít navždy! Když je zraněná nebo stará, vrátí se zpět do stádia larvy.",
+        "image_prompt": "záběr medúzy plovoucí ve vodě s modrým pozadím, detailní záběr s jemnými detaily a nádechem tajemna"
       },
       {
-        "text": "Některé z těchto jeskyní jsou staré přes miliony let!",
-        "image_prompt": "Záběr na archeology, kteří vykopávají kosterní pozůstatky v prastaré jeskyni, s fosíliemi všude kolem."
+        "text": "Některé druhy ptáků dokážou napodobovat lidskou řeč tak dobře, že je často zamění za lidi!",
+        "image_prompt": "pták v kleci s otevřeným zobákem, na pozadí jsou vidět lidé, kteří se usmívají a poslouchají"
       },
       {
-        "text": "Pod zemí se nacházejí i tajné řeky a jezera!",
-        "image_prompt": "Snímek podvodní krajiny v tmavé jeskyni, s modrou vodou a tajemnými stíny."
+        "text": "Slepý krab, známý také jako 'krab s nohama', dokáže přežít bez vody několik měsíců!",
+        "image_prompt": "záběr slepého kraba na pláži, jak se pohybuje v písku, úzký záběr na jeho detaily"
       },
       {
-        "text": "Vědci objevili mikroorganismy, které přežívají milióny let bez světla.",
-        "image_prompt": "Zvětšený obraz mikroskopických organismů, které mají podivné tvary a živé barvy."
+        "text": "Viete, že sloni mají skvělou paměť, a dokážou si vzpomenout na svá blízká i po deseti letech?",
+        "image_prompt": "rodina slonů na savaně, jak si navzájem hrají a objímají, slunce svítí přes stromy"
       },
       {
-        "text": "Každá jeskyně má svůj vlastní ekosystém a unikátní život!",
-        "image_prompt": "Záběr na podzemní ekosystém s různými tvory, jako jsou netopýři, krabi a tajemní hmyz."
+        "text": "A nakonec, včely mají svůj vlastní taneční jazyk, který používají k předávání informací o zdrojích potravy!",
+        "image_prompt": "včela tancující na květu, detailní záběr, jak se pohybuje mezi květinami"
       },
       {
-        "text": "Jsou to okna do minulosti, která nám pomáhají porozumět historii Země.",
-        "image_prompt": "Vizuální koláž, která spojuje obrazy jeskyní, dinosaurů a prehistorického života."
+        "text": "A tohle je teprve začátek! Jaké další zvířecí zajímavosti byste chtěli vědět?",
+        "image_prompt": "mladý muž s úsměvem mluví k divákům, v pozadí se objevují různé obrázky zvířat, vtipné a barevné"
       }
     ]
   }
