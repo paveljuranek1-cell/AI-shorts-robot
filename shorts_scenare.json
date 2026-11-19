@@ -1,31 +1,31 @@
 [
   {
-    "title": "5 šokujících faktů o zvířatech, které nevíte!",
-    "hook": "Věděli jste, že medúza je v podstatě nesmrtelná?",
+    "title": "Nejzáhadnější zvíře na Zemi!",
+    "hook": "Věděli jste, že existuje zvíře, které nikdy nespí?",
     "scenes": [
       {
-        "text": "Medúza Turritopsis dohrnii může žít navždy! Když je zraněná nebo stará, vrátí se zpět do stádia larvy.",
-        "image_prompt": "záběr medúzy plovoucí ve vodě s modrým pozadím, detailní záběr s jemnými detaily a nádechem tajemna"
+        "text": "Představte si tvora, který se doslova nikdy nezastaví. Ano, je to tak!",
+        "image_prompt": "barevný záběr na fascinující mořskou hvězdici v průhledné vodě, s okolními korály"
       },
       {
-        "text": "Některé druhy ptáků dokážou napodobovat lidskou řeč tak dobře, že je často zamění za lidi!",
-        "image_prompt": "pták v kleci s otevřeným zobákem, na pozadí jsou vidět lidé, kteří se usmívají a poslouchají"
+        "text": "Tento živočich se jmenuje tzv. 'tichomořská krabice' a dokáže žít tisíce let!",
+        "image_prompt": "detailní záběr na krabici plující v moři s různými rybami kolem"
       },
       {
-        "text": "Slepý krab, známý také jako 'krab s nohama', dokáže přežít bez vody několik měsíců!",
-        "image_prompt": "záběr slepého kraba na pláži, jak se pohybuje v písku, úzký záběr na jeho detaily"
+        "text": "Není to ale jenom jeho délka života, co je fascinující. Dokáže regenerovat ztracené části těla!",
+        "image_prompt": "grafika znázorňující regeneraci končetiny u krabice, s animací a šipkami"
       },
       {
-        "text": "Viete, že sloni mají skvělou paměť, a dokážou si vzpomenout na svá blízká i po deseti letech?",
-        "image_prompt": "rodina slonů na savaně, jak si navzájem hrají a objímají, slunce svítí přes stromy"
+        "text": "A co víc? Tímto zvířetem se dokonce inspirují vědci pro léčení ran u člověka.",
+        "image_prompt": "vědec v laboratoři s moderním vybavením, zkoumá vzorky a mluví do mikrofónu"
       },
       {
-        "text": "A nakonec, včely mají svůj vlastní taneční jazyk, který používají k předávání informací o zdrojích potravy!",
-        "image_prompt": "včela tancující na květu, detailní záběr, jak se pohybuje mezi květinami"
+        "text": "Ale to není vše! Tato krabice má také neuvěřitelnou schopnost komprimovat vzduch ve svém těle!",
+        "image_prompt": "animace ukazující vnitřek krabice a kompresi vzduchu, s vizuálními efekty"
       },
       {
-        "text": "A tohle je teprve začátek! Jaké další zvířecí zajímavosti byste chtěli vědět?",
-        "image_prompt": "mladý muž s úsměvem mluví k divákům, v pozadí se objevují různé obrázky zvířat, vtipné a barevné"
+        "text": "Teď, když víte o tomto úžasném stvoření, tomu naprosto rozumíte? Možná už nikdy nebudete na mořské životy pohlížet stejně!",
+        "image_prompt": "krásný pohled na mořský ekosystém s různými živočichy a rostlinami, sluneční světlo prosvítá vodou"
       }
     ]
   }
