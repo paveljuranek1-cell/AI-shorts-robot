@@ -1,31 +1,31 @@
 [
   {
-    "title": "Neuvěřitelné tajemství zvířat!",
-    "hook": "Věděli jste, že sloni umí plakat?",
+    "title": "10 šokujících faktů o zvířatech, které vás ohromí!",
+    "hook": "Jste připraveni na šokující odhalení ze světa zvířat?",
     "scenes": [
       {
-        "text": "Sloni jsou známí svou inteligencí, ale víte, že dokážou projevit emoce stejně jako lidé?",
-        "image_prompt": "záběr slona na africkém savaně, slon stojící s kapkami vody na tváři, dramatické pozadí západu slunce"
+        "text": "Věděli jste, že sloni dokážou plakat?",
+        "image_prompt": "slon na savaně s lesklýma očima, kapky slz na tváři, pozadí sluneční západ"
       },
       {
-        "text": "Dalším fascinujícím faktem je, že chobotnice mají tři srdce a modrou krev!",
-        "image_prompt": "detailní záběr chobotnice plovoucí v moři, viditelné modré krevní cévy a elegantní pohyb chapadel"
+        "text": "Nebo že chobotnice mají tři srdce?",
+        "image_prompt": "barevná chobotnice plavající mezi korály, dramatické osvětlení podvodní scenérie"
       },
       {
-        "text": "A věděli jste, že krávy mají své nejlepší přátele a cítí se stresované, když jsou oddělené?",
-        "image_prompt": "snímek krav na pastvině, dvě krávy se navzájem dotýkají, zlaté slunce svítí na zeleň"
+        "text": "Jak ropucha dokáže přežít mrazy jako žádné jiné zvíře?",
+        "image_prompt": "ropucha zakrytá sněhem, s jasnýma očima, pozadí zimní krajina"
       },
       {
-        "text": "A co takové opice? Ty mají schopnost rozpoznávat své blízké a dokonce se hněvají!",
-        "image_prompt": "skupina opic na větvi, jedna opice se snaží vzít jinou opici za ruku, animovaný veselý výraz"
+        "text": "A co teprve, že papoušci umějí napodobovat lidskou řeč?",
+        "image_prompt": "papoušek na větvi, mluvící k lidem, při veselém posezení venku"
       },
       {
-        "text": "A nakonec, včely komunikují tancem! Ano, tancují, aby si řekly, kde najít nektar.",
-        "image_prompt": "detailní záběr včely tancující na plástvi, s ostatními včelami v pozadí"
+        "text": "Za zmínku stojí také fakt, že psí čich je tisíckrát silnější než lidský!",
+        "image_prompt": "pes se šťastným výrazem, čichající k zemi, pozadí parku s lidmi"
       },
       {
-        "text": "Tak co říkáte, zvířata jsou opravdu více než jen obyčejní tvorové?",
-        "image_prompt": "záběr různých zvířat ve volné přírodě, jak si hrají a objevují, barevné a živé barvy"
+        "text": "Nakonec, některá zvířata umějí vidět ultrafialové světlo!",
+        "image_prompt": "zvíře v přírodě, s očima zářícími v UV světle, kolem barevné květiny"
       }
     ]
   }
