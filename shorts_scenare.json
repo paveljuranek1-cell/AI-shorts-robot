@@ -1,31 +1,31 @@
 [
   {
-    "title": "10 šokujících faktů o zvířatech, které vás ohromí!",
-    "hook": "Jste připraveni na šokující odhalení ze světa zvířat?",
+    "title": "Neuvěřitelné zvířecí schopnosti, které vás ohromí!",
+    "hook": "Věděli jste, že některá zvířata mají schopnosti, které nám mohou vyrazit dech?",
     "scenes": [
       {
-        "text": "Věděli jste, že sloni dokážou plakat?",
-        "image_prompt": "slon na savaně s lesklýma očima, kapky slz na tváři, pozadí sluneční západ"
+        "text": "Začněme s neuvěřitelným zrakem sov! Sovy vidí až desetkrát lépe než lidé v noci.",
+        "image_prompt": "Noční les, kde je vidět sovu sedící na větvi, s jasně zářícími očima, které osvětlují okolí."
       },
       {
-        "text": "Nebo že chobotnice mají tři srdce?",
-        "image_prompt": "barevná chobotnice plavající mezi korály, dramatické osvětlení podvodní scenérie"
+        "text": "A co vážky? Tyhle dravé mušky dokážou létat vpřed, vzad a dokonce i na místě!",
+        "image_prompt": "Barevné vážky kroužící kolem květiny na slunečný den, zachyceny ve vzduchu v různých letových pozicích."
       },
       {
-        "text": "Jak ropucha dokáže přežít mrazy jako žádné jiné zvíře?",
-        "image_prompt": "ropucha zakrytá sněhem, s jasnýma očima, pozadí zimní krajina"
+        "text": "Jestliže jste si mysleli, že sloni mají skvělou paměť, máte pravdu! Dokážou si pamatovat místa a tváře až desetiletí.",
+        "image_prompt": "Ve stádu slonů v savaně, jeden slon důvtipně vzhlíží k obzoru se vzpomínkovým pohledem."
       },
       {
-        "text": "A co teprve, že papoušci umějí napodobovat lidskou řeč?",
-        "image_prompt": "papoušek na větvi, mluvící k lidem, při veselém posezení venku"
+        "text": "Že jsou ptáci dobrými zpěváky? Věděli jste, že nejhlasitější pták na světě je zvonek zlatý? Může vyprodukovat zvuky o intenzitě až 125 decibelů!",
+        "image_prompt": "Rozzuřený zvonek zlatý na větvi, zatímco jeho hrdlo se otevírá a vydává ohromující zvuk."
       },
       {
-        "text": "Za zmínku stojí také fakt, že psí čich je tisíckrát silnější než lidský!",
-        "image_prompt": "pes se šťastným výrazem, čichající k zemi, pozadí parku s lidmi"
+        "text": "A nakonec, medúzy! Některé z nich jsou téměř nesmrtelné a dokážou se regenerovat ze svých buněk.",
+        "image_prompt": "Kouzelné medúzy plující v křišťálově čisté vodě, s bioluminiscenčními detaily svých chapadel."
       },
       {
-        "text": "Nakonec, některá zvířata umějí vidět ultrafialové světlo!",
-        "image_prompt": "zvíře v přírodě, s očima zářícími v UV světle, kolem barevné květiny"
+        "text": "Příroda je plná překvapení! Kterou schopnost zvířat jste si nejvíce oblíbili?",
+        "image_prompt": "Montáž několika různých zvířat, která předvádějí své úžasné dovednosti v epické atmosféře."
       }
     ]
   }
