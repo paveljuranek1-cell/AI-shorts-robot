@@ -1,31 +1,31 @@
 [
   {
-    "title": "Neuvěřitelné zvířecí schopnosti, které vás ohromí!",
-    "hook": "Věděli jste, že některá zvířata mají schopnosti, které nám mohou vyrazit dech?",
+    "title": "Neuvěřitelné záhady vesmíru!",
+    "hook": "Věděli jste, že ve vesmíru jsou tajemství, která nás dodnes fascinují?",
     "scenes": [
       {
-        "text": "Začněme s neuvěřitelným zrakem sov! Sovy vidí až desetkrát lépe než lidé v noci.",
-        "image_prompt": "Noční les, kde je vidět sovu sedící na větvi, s jasně zářícími očima, které osvětlují okolí."
+        "text": "Šíříte se na 1,3 miliardy světelných let od Země, kde se skrývá tajemná galaxií s názvem IC 1101.",
+        "image_prompt": "Obrovská galaxie IC 1101 v dálkovém vesmíru, se svítícími hvězdami a spirálními rameny, zachycena v úchvatných barvách."
       },
       {
-        "text": "A co vážky? Tyhle dravé mušky dokážou létat vpřed, vzad a dokonce i na místě!",
-        "image_prompt": "Barevné vážky kroužící kolem květiny na slunečný den, zachyceny ve vzduchu v různých letových pozicích."
+        "text": "Tato galaxie je největší, kterou známe! Obsahuje více než 100 bilionů hvězd.",
+        "image_prompt": "Grafické znázornění obří galaxie se spoustou hvězd, s porovnáním velikosti s naší Mléčnou dráhou."
       },
       {
-        "text": "Jestliže jste si mysleli, že sloni mají skvělou paměť, máte pravdu! Dokážou si pamatovat místa a tváře až desetiletí.",
-        "image_prompt": "Ve stádu slonů v savaně, jeden slon důvtipně vzhlíží k obzoru se vzpomínkovým pohledem."
+        "text": "Ale to není všechno! Existují i případy, kdy se hvězdy doslova 'chovají' jako černé díry.",
+        "image_prompt": "Vizuální reprezentace hvězdy, která nasává okolní materiál a má kolem sebe temný halo, typický vzhled černé díry."
       },
       {
-        "text": "Že jsou ptáci dobrými zpěváky? Věděli jste, že nejhlasitější pták na světě je zvonek zlatý? Může vyprodukovat zvuky o intenzitě až 125 decibelů!",
-        "image_prompt": "Rozzuřený zvonek zlatý na větvi, zatímco jeho hrdlo se otevírá a vydává ohromující zvuk."
+        "text": "A co takhle záhadné 'temné hmoty'? Tvoří více než 80% hmoty ve vesmíru, a nikdo neví, co to vlastně je!",
+        "image_prompt": "Ilustrace temné hmoty obklopující viditelné galaxie, s tajemnými energetickými vlnami a efekty."
       },
       {
-        "text": "A nakonec, medúzy! Některé z nich jsou téměř nesmrtelné a dokážou se regenerovat ze svých buněk.",
-        "image_prompt": "Kouzelné medúzy plující v křišťálově čisté vodě, s bioluminiscenčními detaily svých chapadel."
+        "text": "Nebo když mluvíme o exoplanetách? Víme o jich tisících a některé mohou být dokonce podobné Zemi!",
+        "image_prompt": "Obrázek exoplanet s atmosférou, které obíhají kolem hvězd, s představením modré planety podobné Zemi."
       },
       {
-        "text": "Příroda je plná překvapení! Kterou schopnost zvířat jste si nejvíce oblíbili?",
-        "image_prompt": "Montáž několika různých zvířat, která předvádějí své úžasné dovednosti v epické atmosféře."
+        "text": "Co se stane, když se pokusíme pochopit všechny tyto záhady? Možná se jen dotkneme samého začátku nekonečenství.",
+        "image_prompt": "Záběr na nekonečný vesmír, s hvězdami a galaxiemi, s nádechem mystiky a tajemství pod noční oblohou."
       }
     ]
   }
