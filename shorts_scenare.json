@@ -1,31 +1,31 @@
 [
   {
-    "title": "Neuvěřitelné záhady vesmíru!",
-    "hook": "Věděli jste, že ve vesmíru jsou tajemství, která nás dodnes fascinují?",
+    "title": "Šokující fakta o zvířatech, která vás ohromí!",
+    "hook": "Věděli jste, že se krávy dívají na západ slunce?",
     "scenes": [
       {
-        "text": "Šíříte se na 1,3 miliardy světelných let od Země, kde se skrývá tajemná galaxií s názvem IC 1101.",
-        "image_prompt": "Obrovská galaxie IC 1101 v dálkovém vesmíru, se svítícími hvězdami a spirálními rameny, zachycena v úchvatných barvách."
+        "text": "Krávy se skutečně shromažďují a koukají na západ slunce, což je fascinující chování!",
+        "image_prompt": "Skupina krav na zelené louce, které se dívají na krásný západ slunce, s dramatickými barvami oblohy."
       },
       {
-        "text": "Tato galaxie je největší, kterou známe! Obsahuje více než 100 bilionů hvězd.",
-        "image_prompt": "Grafické znázornění obří galaxie se spoustou hvězd, s porovnáním velikosti s naší Mléčnou dráhou."
+        "text": "Ale to není všechno! Sloni mají úžasnou paměť a dokážou si pamatovat vodní zdroje i po desítkách let.",
+        "image_prompt": "Skupina slonů u vodní nádrže v savaně, jasné nebe, slunce svítí, sloni se zdají šťastní a spokojeně pijí vodu."
       },
       {
-        "text": "Ale to není všechno! Existují i případy, kdy se hvězdy doslova 'chovají' jako černé díry.",
-        "image_prompt": "Vizuální reprezentace hvězdy, která nasává okolní materiál a má kolem sebe temný halo, typický vzhled černé díry."
+        "text": "A věděli jste, že chobotnice mají tři srdce? Dvě pumpují krev do žaber a jedno do zbytku těla.",
+        "image_prompt": "Detail chobotnice s viditelnými srdci, pod hladinou modrého oceánu s korálovým útesem v pozadí."
       },
       {
-        "text": "A co takhle záhadné 'temné hmoty'? Tvoří více než 80% hmoty ve vesmíru, a nikdo neví, co to vlastně je!",
-        "image_prompt": "Ilustrace temné hmoty obklopující viditelné galaxie, s tajemnými energetickými vlnami a efekty."
+        "text": "Bez ohledu na to, kolik oči má, mouchy milují cukr. Je známo, že cítí sladkost z velké vzdálenosti!",
+        "image_prompt": "Záclose-up záběr na mouchu sedící na sladkém ovoci, s jasnými barvami a detaily."
       },
       {
-        "text": "Nebo když mluvíme o exoplanetách? Víme o jich tisících a některé mohou být dokonce podobné Zemi!",
-        "image_prompt": "Obrázek exoplanet s atmosférou, které obíhají kolem hvězd, s představením modré planety podobné Zemi."
+        "text": "A konečně, víte, že kočky spí až 16 hodin denně? Jsou skutečným expertem na odpočinek.",
+        "image_prompt": "Roztomilá kočka spící na slunném parapetu, s jemnými paprsky světla a pohodlným vybavením."
       },
       {
-        "text": "Co se stane, když se pokusíme pochopit všechny tyto záhady? Možná se jen dotkneme samého začátku nekonečenství.",
-        "image_prompt": "Záběr na nekonečný vesmír, s hvězdami a galaxiemi, s nádechem mystiky a tajemství pod noční oblohou."
+        "text": "Tak co, překvapila vás tato fakta? Svět zvířat je plný úžasných tajemství!",
+        "image_prompt": "Kaleidoskop obrazů různých zvířat v přírodě se zajímavými a živými barvami."
       }
     ]
   }
