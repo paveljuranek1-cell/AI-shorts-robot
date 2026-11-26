@@ -1,31 +1,31 @@
 [
   {
-    "title": "Neuvěřitelné tajemství vesmíru!",
-    "hook": "Věděli jste, že ve vesmíru je víc hvězd než zrn písku na Zemi?",
+    "title": "5 šokujících faktů o vesmíru, které vás ohromí!",
+    "hook": "Věděli jste, že ve vesmíru se dějí neuvěřitelné věci?",
     "scenes": [
       {
-        "text": "Podle odhadů je ve vesmíru více než bilion galaxií!",
-        "image_prompt": "ohromující záběr nočního nebe plného hvězd a galaxií, s kosmickým prachem v popředí"
+        "text": "První šokující fakt: ve vesmíru je více hvězd než zrn písku na všech plážích Země!",
+        "image_prompt": "Noční obloha plná jasně zářících hvězd, s pláží v popředí, pokrytou zrnky písku."
       },
       {
-        "text": "Každá galaxie obsahuje miliardy hvězd, které září jako slunce.",
-        "image_prompt": "detailní pohled na zářící hvězdy a jasné sluneční paprsky procházející skrze galaxii"
+        "text": "Dále: existuje černá díra, která je tak velká, že by pojmula celé sluneční soustavy.",
+        "image_prompt": "Obrázek černé díry se spirálovými prstenci kolem ní, s dramatickým modrým pozadím."
       },
       {
-        "text": "Ale to není vše! Existují také temná hmota a temná energie, které tvoří většinu vesmíru.",
-        "image_prompt": "umělecká ilustrace znázorňující temnou hmotu obklopující galaxie se záhadnými efekty"
+        "text": "A co takhle: když ležíte na Zemi, vlastně se pohybujete rychlostí 1 600 km/h.",
+        "image_prompt": "Ilustrace Země se šipkami ukazujícími na rychlost rotace pod námi, vedle astronauta v prostoru."
       },
       {
-        "text": "Vědci stále zkoumají, jak se vesmír vyvíjí a co nás čeká.",
-        "image_prompt": "vědec v laboratoři, obklopený hologramy galaxií a vesmírnými modely"
+        "text": "Další překvapení: zvuk ve vesmíru neexistuje, protože tam není žádný vzduch!",
+        "image_prompt": "Scéna astronauta plujícího v tichém prostoru, vedle něj vidíme vlnu zvuku se zkreslením."
       },
       {
-        "text": "Možná jsme jen kapkou v oceánu kosmu.",
-        "image_prompt": "pohled na Zemi z vesmíru, s modrou kouli visící v nekonečném černém prostoru"
+        "text": "A poslední: každý den na Marsu je o 40 minut delší než den na Zemi.",
+        "image_prompt": "Vizualizace planety Mars s časovým ukazatelem, ukazujícím rozdíl v délce dne."
       },
       {
-        "text": "Co si myslíte, co se skrývá za hranicemi našeho vesmíru?",
-        "image_prompt": "pohled na vzdálené hvězdy a galaxie, s otázníkem v popředí, vyvolávající pocit tajemství"
+        "text": "Pokud vás to ohromilo, nezapomeňte se přihlásit k odběru pro další šokující fakta!",
+        "image_prompt": "Záběr na vesmírnou loď odlétající do neznáma, zatímco se na obrazovce objevují ikonky 'Odebírat' a 'Líbí se mi'."
       }
     ]
   }
