@@ -1,31 +1,31 @@
 [
   {
-    "title": "5 šokujících faktů o vesmíru, které vás ohromí!",
-    "hook": "Věděli jste, že ve vesmíru se dějí neuvěřitelné věci?",
+    "title": "Nejzáhadnější zvířata na světě",
+    "hook": "Vyobrazený druh zvířete, který můžete potkat pouze v temných hlubinách oceánu, vás ohromí!",
     "scenes": [
       {
-        "text": "První šokující fakt: ve vesmíru je více hvězd než zrn písku na všech plážích Země!",
-        "image_prompt": "Noční obloha plná jasně zářících hvězd, s pláží v popředí, pokrytou zrnky písku."
+        "text": "Dnes vám ukážeme zvířata, která vypadají jako z jiné galaxie.",
+        "image_prompt": "Záběr na podivného hlubinného tvora s podivnými, fosforeskujícími těly a rozšířenýma očima, osvětlený modrým světlem."
       },
       {
-        "text": "Dále: existuje černá díra, která je tak velká, že by pojmula celé sluneční soustavy.",
-        "image_prompt": "Obrázek černé díry se spirálovými prstenci kolem ní, s dramatickým modrým pozadím."
+        "text": "Začněme mušlí, která dokáže zmrazit čas!",
+        "image_prompt": "Detailní záběr na krásnou mušli s lesklým povrchem, která má v sobě zasazený magnet, vytvářející efekt \"zmrazení\"."
       },
       {
-        "text": "A co takhle: když ležíte na Zemi, vlastně se pohybujete rychlostí 1 600 km/h.",
-        "image_prompt": "Ilustrace Země se šipkami ukazujícími na rychlost rotace pod námi, vedle astronauta v prostoru."
+        "text": "Také tu máme axolotla – tvora, který se nikdy nezmění na dospělého!",
+        "image_prompt": "Roztomilý axolotl plavající ve vodě, s výraznými růžovými šupinami a širokým úsměvem na tváři."
       },
       {
-        "text": "Další překvapení: zvuk ve vesmíru neexistuje, protože tam není žádný vzduch!",
-        "image_prompt": "Scéna astronauta plujícího v tichém prostoru, vedle něj vidíme vlnu zvuku se zkreslením."
+        "text": "A co takhle medúza, která se může znovu narodit?",
+        "image_prompt": "Jasně barevná medúza v mořských hlubinách, jak se pomalu pohybuje, obklopená bublinkami."
       },
       {
-        "text": "A poslední: každý den na Marsu je o 40 minut delší než den na Zemi.",
-        "image_prompt": "Vizualizace planety Mars s časovým ukazatelem, ukazujícím rozdíl v délce dne."
+        "text": "A na závěr – ryba, která se umí skrýt kdykoliv a kdekoliv!",
+        "image_prompt": "Rybka se mísí s okolním korálovým útesem, její barvy se perfektně shodují s obrazcem korálů."
       },
       {
-        "text": "Pokud vás to ohromilo, nezapomeňte se přihlásit k odběru pro další šokující fakta!",
-        "image_prompt": "Záběr na vesmírnou loď odlétající do neznáma, zatímco se na obrazovce objevují ikonky 'Odebírat' a 'Líbí se mi'."
+        "text": "Myslíte, že taková zvířata existují? Řekněte nám v komentářích!",
+        "image_prompt": "Záběr na všechny vzácné zvířata pohromadě, smíčena s působivou hudbou v pozadí."
       }
     ]
   }
