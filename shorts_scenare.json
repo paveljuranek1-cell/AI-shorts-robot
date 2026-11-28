@@ -1,31 +1,31 @@
 [
   {
-    "title": "Nejzáhadnější zvířata na světě",
-    "hook": "Vyobrazený druh zvířete, který můžete potkat pouze v temných hlubinách oceánu, vás ohromí!",
+    "title": "Nejzáhadnější zvířata na světě!",
+    "hook": "Věděli jste, že na Zemi existují zvířata, která vypadají jako z jiného světa?",
     "scenes": [
       {
-        "text": "Dnes vám ukážeme zvířata, která vypadají jako z jiné galaxie.",
-        "image_prompt": "Záběr na podivného hlubinného tvora s podivnými, fosforeskujícími těly a rozšířenýma očima, osvětlený modrým světlem."
+        "text": "Představte si zvíře, které vypadá jako živý dinosaur. Víte, jaké zvíře to je?",
+        "image_prompt": "Detailní záběr na ptakoještěra, majestátně létajícího nad nezaměnitelným prehistorickým krajinářstvím."
       },
       {
-        "text": "Začněme mušlí, která dokáže zmrazit čas!",
-        "image_prompt": "Detailní záběr na krásnou mušli s lesklým povrchem, která má v sobě zasazený magnet, vytvářející efekt \"zmrazení\"."
+        "text": "Ano, mluvím o pelikánu, který má zobák, jako by mu vypadl z Jurassic Parku!",
+        "image_prompt": "Záběr na pelikána, jak elegantně krouží kolem rybářské vesnice, jeho zobák je v popředí jako hlavní postava."
       },
       {
-        "text": "Také tu máme axolotla – tvora, který se nikdy nezmění na dospělého!",
-        "image_prompt": "Roztomilý axolotl plavající ve vodě, s výraznými růžovými šupinami a širokým úsměvem na tváři."
+        "text": "A co takhle axolotl? Tento vodní tvor regenuje své tělo!",
+        "image_prompt": "Neobvyklý snímek axolotla ve své přirozené vodě, s jeho výraznými růžovými ploutvemi a roztomilým obličejem."
       },
       {
-        "text": "A co takhle medúza, která se může znovu narodit?",
-        "image_prompt": "Jasně barevná medúza v mořských hlubinách, jak se pomalu pohybuje, obklopená bublinkami."
+        "text": "Až 95% jeho orgánů může být obnoveno. Víte, jak to dělá?",
+        "image_prompt": "Grafické znázornění regenerace orgánů axolotla s popsanými fázemi na pozadí aquaria."
       },
       {
-        "text": "A na závěr – ryba, která se umí skrýt kdykoliv a kdekoliv!",
-        "image_prompt": "Rybka se mísí s okolním korálovým útesem, její barvy se perfektně shodují s obrazcem korálů."
+        "text": "Nebo se podívejme na neuvěřitelného tardigrada, známého také jako medvědí brouk.",
+        "image_prompt": "Záběr na mikroskopického tardigrada, přežívajícího v extrémních podmínkách v detailním záběru."
       },
       {
-        "text": "Myslíte, že taková zvířata existují? Řekněte nám v komentářích!",
-        "image_prompt": "Záběr na všechny vzácné zvířata pohromadě, smíčena s působivou hudbou v pozadí."
+        "text": "Ten se dokáže přizpůsobit prakticky jakémukoli prostředí, i těm nejextrémnějším!",
+        "image_prompt": "Animace různých přírodních prostředí, kde tardigrad přežívá, včetně sopečných oblastí a hlubokého oceánu."
       }
     ]
   }
